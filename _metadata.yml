@@ -1,0 +1,12 @@
+format:
+  revealjs:
+    width: 1920
+    height: 1080
+    center: false
+    margin: 0
+    theme: default
+    slide-number: true
+    transition: none
+    incremental: false
+    history: true
+    embed-resources: true

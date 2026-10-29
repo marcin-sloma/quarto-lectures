@@ -1,0 +1,16 @@
+
+project:
+  type: default
+  render:
+    - "*.qmd"
+
+format:
+  revealjs:
+    width: 1920
+    height: 1080
+    theme: default
+    slide-number: true
+    transition: none
+    incremental: false
+    embed-resources: false
+    history: true
