@@ -1,0 +1,4 @@
+project:
+  output-dir: _site-online
+
+video-mode: online

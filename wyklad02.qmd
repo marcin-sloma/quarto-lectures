@@ -1,0 +1,13 @@
+---
+title: "Wykład 2 — Test"
+---
+
+## Pierwszy slajd
+
+To jest druga prezentacja.
+
+## Równanie
+
+$$
+P = UI
+$$

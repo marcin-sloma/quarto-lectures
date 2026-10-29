@@ -1,0 +1,30 @@
+
+---
+title: "Wykład 1 — Wprowadzenie"
+subtitle: "Przykładowa prezentacja akademicka"
+author: "Politechnika Warszawska"
+---
+
+## Pierwszy slajd
+
+To jest prezentacja przygotowana w **Quarto**.
+
+- Obsługuje Markdown
+- Obsługuje równania LaTeX
+- Pozwala osadzać filmy YouTube
+
+## Równania
+
+Współczynnik efektywności termoelektrycznej:
+
+$$
+ZT = \frac{S^2 \sigma T}{\kappa}
+$$
+
+## Film YouTube
+
+{{< ytvideo WLIfbiTUMiU >}}
+
+## Ostatni slajd
+
+**Dziękuję za uwagę!**

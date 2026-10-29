@@ -1,0 +1,6 @@
+title: YouTube Video
+author: Local
+version: 1.0.0
+contributes:
+  shortcodes:
+    - ytvideo.lua
