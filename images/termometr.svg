@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 205.37 632.53" width="100%" height="100%">
+  <defs
+     id="defs19">
+    <linearGradient
+       id="A"
+       y2="411.16"
+       gradientUnits="userSpaceOnUse"
+       x2="600.22"
+       y1="803.81"
+       x1="601.54"
+       gradientTransform="translate(-4,-2)">
+      <stop
+         offset="0"
+         stop-color="#00ff00"
+         id="stop2" />
+      <stop
+         offset=".62"
+         stop-color="#f7ff00"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#ff0000"
+         id="stop6" />
+    </linearGradient>
+    <radialGradient
+       id="B"
+       gradientUnits="userSpaceOnUse"
+       cy="790.63"
+       cx="581.71"
+       gradientTransform="matrix(1.0814418,-0.62276647,0.63802368,1.1475164,-802.47621,237.39788)"
+       r="39.37">
+      <stop
+         offset="0"
+         stop-color="#fff"
+         id="stop9" />
+      <stop
+         offset="1"
+         stop-color="#fff"
+         stop-opacity="0"
+         id="stop11" />
+    </radialGradient>
+    <linearGradient
+       id="C"
+       y1="884.52"
+       x1="602.93"
+       y2="753.2"
+       x2="602.93"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-6)">
+      <stop
+         offset="0"
+         stop-color="#2a34a2"
+         id="stop14" />
+      <stop
+         offset="1"
+         stop-color="#2a34a2"
+         stop-opacity="0"
+         id="stop16" />
+    </linearGradient>
+  </defs>
+  <g
+     transform="translate(-259.63 -256.83)"
+     id="g33">
+    <path
+       d="m 359.66,267.06 -32.32,14.14 -19.19,24.24 v 17.17 h 116.17 l -14.14,-34.34 -16.16,-15.15 c 0,0 -17.17,-7.07 -21.21,-6.06 -4.04,1.01 -13.13,0 -13.13,0 z"
+       fill="#ff0000"
+       id="path21" />
+    <path
+       d="m 305.09,315.03 v 400.83 c 0,1.53 0.1,3.03 0.22,4.53 -22.69,17.22 -37.34,44.48 -37.34,75.16 0,52.07 42.21,94.28 94.28,94.28 52.07,0 94.28,-42.21 94.28,-94.28 0,-30.68 -14.66,-57.94 -37.34,-75.16 0.12,-1.5 0.19,-3 0.19,-4.53 V 315.09 H 307.5 c -0.81,0 -1.6,-0.03 -2.41,-0.06 z"
+       fill="url(#A)"
+       id="path23"
+       style="fill:url(#A)" />
+    <path
+       d="m 402.41655,778.15615 a 71.393438,72.058864 0 1 1 -142.78687,0 71.393438,72.058864 0 1 1 142.78687,0 z"
+       fill="url(#B)"
+       id="path25"
+       style="fill:url(#B);stroke-width:2.10688" />
+    <path
+       d="m 302.08,724.69 -29.29,47.48 -1.01,43.44 16.16,35.35 52.53,35.35 33.34,2.02 55.56,-24.24 24.24,-33.34 6.06,-53.54 -22.22,-48.49 -14.14,-14.14 -1.01,-72.73 -116.17,-4.04 1.01,70.71 z"
+       fill="url(#C)"
+       id="path27"
+       style="fill:url(#C)" />
+    <path
+       d="m 365.72,263.83 c -31.66,0 -57.16,25.47 -57.16,57.13 V 712.4 c 0,1.53 0.1,3.03 0.22,4.53 -22.69,17.22 -37.34,44.48 -37.34,75.16 0,52.07 42.21,94.28 94.28,94.28 52.07,0 94.28,-42.21 94.28,-94.28 0,-30.68 -14.66,-57.94 -37.34,-75.16 0.12,-1.5 0.19,-3 0.19,-4.53 V 320.96 c 0,-31.66 -25.47,-57.13 -57.13,-57.13 z"
+       fill="none"
+       stroke="#000000"
+       stroke-width="10"
+       stroke-linejoin="bevel"
+       id="path29" />
+    <path
+       d="m 321.9,706.36 h 87.64 M 321.9,612.17 h 87.64 m -87.64,-94.2 h 87.64 m -87.64,-94.2 h 87.64 m -87.64,-94.2 h 87.64"
+       fill="none"
+       stroke="#000000"
+       stroke-width="10"
+       id="path31" />
+  </g>
+</svg>

@@ -1,10 +1,11 @@
 format:
   revealjs:
+    css: styl.css
     width: 1920
     height: 1080
     center: false
     margin: 0
-    theme: default
+    theme: [default, custom.scss]
     slide-number: true
     transition: none
     incremental: false
