@@ -1,13 +1,108 @@
 ---
-title: "Wykład 1 — Wprowadzenie"
-subtitle: "Przykładowa prezentacja akademicka"
-author: "Politechnika Warszawska"
+title: "Technologie wytwarzania elementów<br>urządzeń mechatronicznych"
+subtitle: "dr hab. inż. Marcin Słoma, prof. PW"
+author: "Zakład Mikrotechnologii i Nanotechnologii"
 title-slide-attributes:
   data-background-image: tlo_2.webp
   data-background-size: contain
   data-background-position: center
   data-background-repeat: no-repeat
 ---
+
+## [WPROWADZENIE]{style="display:block; text-align:center;"}
+
+### FAZY PROCESU WYTWARZANIA ELEMENTÓW PRECYZYJNYCH
+
+:::: {style="position: absolute; left: 50px; top: 150px; width: 1000px;"}
+![](images/01/toczenie.png){.nostretch width="100%" height="100%"}
+
+::: {style="position:absolute; left:10px; top:10px; color:white;"}
+Obróbka zgrubna (kształtowanie bryły elementu)
+:::
+
+::::
+
+:::: {style="position: absolute; left: 950px; top: 450px; width: 1000px;"}
+![](images/01/szlifowanie.png){.nostretch width="100%" height="100%"}
+
+::: {style="position:absolute; left:10px; top:10px; color:white;"}
+Obróbka pośrednia (zmniejszanie błędów wymiarowych)
+:::
+
+::::
+
+:::: {style="position: absolute; left: 150px; top: 550px; width: 800px;"}
+![](images/01/polerowanie.png){.nostretch width="100%" height="100%"}
+
+::: {style="position:absolute; left:30px; top:10px; color:black;"}
+Obróbka wykończeniowa - finalna
+:::
+
+::::
+
+::: {.footer}
+Sandvik Coromant, Fawor, Schneider Optics
+:::
+
+## [WPROWADZENIE]{style="display:block; text-align:center;"}
+
+### OBRÓBKA DOKŁADNOŚCIOWO-GŁADKOŚCIOWA
+
+Szereg procesów stosowanych przy obróbce wykończeniowej
+
+- makrogeometria elementu,
+
+- mikrogeometria powierzchni,
+
+- formowanie warstw wierzchnich i powierzchni.
+
+<div class="fragment" data-fragment-index="1"
+     style="position:absolute; left:0; top:0; width:100%; height:100%; pointer-events:none;">
+
+<svg viewBox="0 0 1920 1080"
+     width="100%" height="100%"
+     style="overflow:visible;">
+
+  <defs>
+    <marker id="arrow-red" markerWidth="12" markerHeight="12"
+            refX="10" refY="6" orient="auto"
+            markerUnits="strokeWidth">
+      <path d="M0,0 L12,6 L0,12 Z" fill="red"/>
+    </marker>
+  </defs>
+
+  <line x1="610" y1="180" x2="1120" y2="420"
+        stroke="red" stroke-width="3"
+        marker-end="url(#arrow-red)"/>
+
+</svg>
+</div>
+
+<div class="fragment" data-fragment-index="2"
+     style="position:absolute; left:0; top:0; width:100%; height:100%; pointer-events:none;">
+
+<svg viewBox="0 0 1920 1080"
+     width="100%" height="100%"
+     style="overflow:visible;">
+
+  <defs>
+    <marker id="arrow-red-2" markerWidth="12" markerHeight="12"
+            refX="10" refY="6" orient="auto"
+            markerUnits="strokeWidth">
+      <path d="M0,0 L12,6 L0,12 Z" fill="red"/>
+    </marker>
+  </defs>
+
+  <line x1="630" y1="260" x2="1630" y2="790"
+        stroke="red" stroke-width="3"
+        marker-end="url(#arrow-red-2)"/>
+
+</svg>
+</div>
+
+## Obróbka skrawaniem
+
+Treść kolejnego slajdu.
 
 ## Pierwszy slajd
 
@@ -45,7 +140,7 @@ $$
 
 ## Przykładowy slajd
 
-:::::: {style="position: relative; width: 100%; height: 700px;"}
+
 ::: {style="position: absolute; left: 100px; top: 100px; width: 600px; padding: 25px; background-color: rgba(30,144,255,0.5);"}
 **Pole tekstowe**
 
@@ -60,10 +155,10 @@ E = mc^2
 $$
 :::
 
-::: {style="position: absolute; left: 800px; top: 200px; width: 900px; height: 100px;"}
+::: {style="position: absolute; left: 0px; top: 0px; width: 900px; height: 100px;"}
 ![](thumbnails/WLIfbiTUMiU.jpg){.nostretch width="100%" height="100%" style="opacity: 0.5;"}
 :::
-::::::
+
 
 ## Przykładowe ikony SVG
 
