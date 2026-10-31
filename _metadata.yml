@@ -11,3 +11,5 @@ format:
     incremental: false
     history: true
     embed-resources: true
+    include-after-body:
+      text: '<script src="cursor.js"></script>'
