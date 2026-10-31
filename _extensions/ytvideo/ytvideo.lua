@@ -62,6 +62,14 @@ return {
   const player = container.querySelector(".yt-player");
   const thumbnail = container.querySelector(".yt-thumbnail");
 
+    // Próba przywrócenia fokusu prezentacji po kliknięciu YouTube
+  window.addEventListener("blur", function() {
+    if (document.activeElement === player) {
+      player.blur();
+      window.focus();
+    }
+  });
+
   if (window.location.protocol === "file:") {
     player.remove();
     thumbnail.style.display = "block";
