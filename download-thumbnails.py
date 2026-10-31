@@ -1,3 +1,4 @@
+
 from pathlib import Path
 import re
 import urllib.request
@@ -16,15 +17,18 @@ for qmd in root.glob("*.qmd"):
     ))
 
 for video_id in sorted(ids):
-    target = output / f"{video_id}.jpg"
+    target = output / f"{video_id}.webp"
 
+    # Nie pobieraj ponownie istniejących miniaturek
     if target.exists():
         continue
 
-    url = f"https://img.youtube.com/vi/{video_id}/hqdefault.jpg"
+    url = f"https://i.ytimg.com/vi_webp/{video_id}/hqdefault.webp"
 
     try:
         urllib.request.urlretrieve(url, target)
-        print(f"Downloaded: {video_id}")
+        print(f"Downloaded WebP: {video_id}")
     except Exception as exc:
+        if target.exists():
+            target.unlink()
         print(f"ERROR {video_id}: {exc}")

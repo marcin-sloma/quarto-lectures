@@ -1,4 +1,29 @@
 
+/* Ramka prezentacji */
+.reveal .slides {
+    outline: 1px solid black;
+}
+
+/* Marginesy slajdów z treścią */
+.reveal .slides > section:not(#title-slide) {
+    padding: 20px 60px !important;
+    box-sizing: border-box;
+    height: 100%;
+    top: 0 !important;
+}
+
+/* Rozmiar tekstu przypisów dolnych */
+.reveal .footnotes {
+    font-size: 18px;
+    line-height: 1.2;
+}
+
+/* Rozmiar numerów przypisów w tekście */
+.reveal sup {
+    font-size: 0.65em;
+}
+
+
 /* =========================================
    ROBOTO CONDENSED VARIABLE
    LATIN, LATIN EXT, GREEK, GREEK EXT

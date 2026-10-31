@@ -54,10 +54,10 @@ Szereg procesów stosowanych przy obróbce wykończeniowej
 
 - mikrogeometria powierzchni,
 
-- formowanie warstw wierzchnich i powierzchni.
+- formowanie warstw wierzchnich i powłok.
 
-:::: {style="position: absolute; left: 1050px; top: 150px; width: 900px; z-index: -1;"}
-![](images/01/techniczny.png){.nostretch width="100%" height="100%"}
+:::: {style="position: absolute; left: 1100px; top: 100px; width: 800px; z-index: -1;"}
+![](images/01/rysunek_techniczny_wektorowy.svg){.nostretch width="100%" height="100%"}
 ::::
 
 
@@ -76,17 +76,13 @@ Szereg procesów stosowanych przy obróbce wykończeniowej
     </marker>
   </defs>
 
-  <line x1="530" y1="290" x2="1055" y2="510"
+  <line x1="520" y1="290" x2="1090" y2="510"
         stroke="red" stroke-width="3"
         marker-end="url(#arrow-a)"/>
-</svg>
-
-<svg class="fragment" data-fragment-index="2"
-     xmlns="http://www.w3.org/2000/svg"
-     width="1920" height="1080"
-     style="position:absolute; left:0; top:0; z-index:1000; pointer-events:none;">
-
-  <line x1="560" y1="360" x2="1630" y2="790"
+  <line x1="560" y1="360" x2="1580" y2="810"
+        stroke="red" stroke-width="3"
+        marker-end="url(#arrow-a)"/>
+   <line x1="610" y1="450" x2="1100" y2="850"
         stroke="red" stroke-width="3"
         marker-end="url(#arrow-a)"/>
 </svg>
@@ -99,7 +95,9 @@ Szereg procesów stosowanych przy obróbce wykończeniowej
 
 „Warstwa wierzchnia to ta część materiału przylegająca do powierzchni wraz z powierzchnią, której własności fizyczne różnią się od reszty materiału nazywanego dalej rdzeniem”
 
-Technologiczna warstwa wierzchnia (*stara norma PN-87/M-04250*) PN-EN 15305, PN-EN ISO 2639, PN-ISO 14104
+Technologiczna warstwa wierzchnia PN-EN 15305, PN-EN ISO 2639, PN-ISO 14104, PN-EN ISO 21920, ISO 7599 (*stara norma PN-87/M-04250*)
+
+
 
 <br>
 
@@ -110,7 +108,7 @@ Technologiczna warstwa wierzchnia (*stara norma PN-87/M-04250*) PN-EN 15305, PN-
 [**Powierzchnia elementu = granica faz/ośrodków**]{style="display:block; text-align:center;"}
 
 ::: {.fragment data-fragment-index="2" style="position:absolute; left:305px; top:0px; width:1310px; height:1080px;"}
-![](images/01/slajd_04_ilustracja_05.png){.nostretch width="100%" height="100%"}
+![](images/01/slajd_04_ilustracja_05.svg){.nostretch width="100%" height="100%"}
 :::
 
 ::: {.footer}
@@ -196,20 +194,20 @@ Norma PN-ISO 1302 „Rysunek techniczny - Oznaczanie struktury geometrycznej pow
 - struktura powierzchni uzyskana w dowolnym procesie obróbki
 - struktura powierzchni uzyskana wyłącznie przez zdjęcie materiału – obróbka skrawaniem
 - struktura powierzchni uzyskana za pomocą innego procesu niż zdjęcie materiału
-- chropowatość powierzchni zawiera się między wartościami a1 i a2
+- chropowatość powierzchni zawiera się między wartościami a i b
 - struktura powierzchni uzyskana ściśle określonym rodzajem obróbki.
 
 Te same zasady dotyczą obróbki cieplnej i cieplno-chemicznej.
 
-::: {style="position:absolute; left:120px; top:346px; width:205px; height:523px;"}
-![](images/01/slajd_08_ilustracja_04.png){.nostretch width="100%" height="100%"}
+::: {style="position:absolute; left:1600px; top:300px; width:140px; "}
+![](images/01/symbole.svg){.nostretch width="100%" height="100%"}
 :::
 
 ---
 
 ## [HARTOWANIE POWIERZCHNIOWE]{style="display:block; text-align:center;"}
 
-Szybkie nagrzanie warstwy wierzchniej do temperatury austenityzacji (zwykle ok. 100°C powyżej temperatury przemiany AC3), a następnie szybkie chłodzenie przez natrysk wody lub emulsji hartowniczej, w celu uzyskania struktury martenzytycznej na powierzchni i struktury niezahartowanej pod powierzchnią.
+Szybkie nagrzanie warstwy wierzchniej do temperatury austenityzacji (zwykle ok. 100°C powyżej temperatury przemiany A~C3~), a następnie szybkie chłodzenie przez natrysk wody lub emulsji hartowniczej, w celu uzyskania struktury martenzytycznej na powierzchni i struktury niezahartowanej pod powierzchnią.
 
 **Rodzaje:** płomieniowe, indukcyjne, kąpielowe, laserowe, oporowe, elektrolityczne, ...
 
@@ -236,7 +234,7 @@ Gerster, EFD Induction, NTC-TTP
 ### Hartowanie płomieniowe
 
 ::: {style="position:absolute; left:230px; top:221px; width:1501px; height:713px;"}
-![](images/01/slajd_10_ilustracja_04.png){.nostretch width="100%" height="100%"}
+![](images/01/plomieniowe.png){.nostretch width="100%" height="100%"}
 :::
 
 ---
@@ -255,16 +253,8 @@ Gerster, EFD Induction, NTC-TTP
 
 ### Hartowanie indukcyjne
 
-::: {style="position:absolute; left:412px; top:328px; width:1130px; height:488px;"}
-![](images/01/slajd_12_ilustracja_04.png){.nostretch width="100%" height="100%"}
-:::
-
-::: {style="position:absolute; left:62px; top:328px; width:349px; height:454px;"}
-![](images/01/slajd_12_ilustracja_05.png){.nostretch width="100%" height="100%"}
-:::
-
-::: {style="position:absolute; left:1542px; top:328px; width:349px; height:488px;"}
-![](images/01/slajd_12_ilustracja_06.png){.nostretch width="100%" height="100%"}
+::: {style="position:absolute; left:40px; top:250px; width:1900px; height:497px;"}
+![](images/01/hartowanie_indukcyjne.png){.nostretch width="100%" height="100%"}
 :::
 
 ---
@@ -274,7 +264,7 @@ Gerster, EFD Induction, NTC-TTP
 ### Hartowanie indukcyjne
 
 ::: {style="position:absolute; left:273px; top:213px; width:1415px; height:720px;"}
-![](images/01/slajd_13_ilustracja_04.png){.nostretch width="100%" height="100%"}
+![](images/01/cewki_ksztaltowe.png){.nostretch width="100%" height="100%"}
 :::
 
 ---
@@ -296,3 +286,9 @@ Gerster, EFD Induction, NTC-TTP
 ::: {style="position:absolute; left:480px; top:212px; width:960px; height:720px;"}
 ![](images/01/slajd_15_ilustracja_04.png){.nostretch width="100%" height="100%"}
 :::
+
+## [KONIEC]{style="display:block; text-align:center;"}
+
+{{< ytvideo WLIfbiTUMiU >}}
+
+## [KONIEC2]{style="display:block; text-align:center;"}

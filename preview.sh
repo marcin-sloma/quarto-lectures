@@ -1,9 +1,10 @@
 
-#!/bin/bash
+#!/usr/bin/env bash
+set -euo pipefail
+
 cd "$(dirname "$0")"
 
 quarto preview 01_warstwa_wierzchnia.qmd \
   --to revealjs \
-  --no-browser \
-  --host 0.0.0.0 \
-  --port 8000
+  --metadata-file _metadata.yml \
+  --no-browser

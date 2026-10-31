@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1358"
+   height="1120"
+   viewBox="0 0 1358 1120"
+   version="1.1"
+   id="svg112"
+   sodipodi:docname="warstwa_wierzchnia.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview114"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.39774756"
+     inkscape:cx="785.6742"
+     inkscape:cy="663.73757"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg112" />
+  <defs
+     id="defs30">
+    <pattern
+       id="metal"
+       width="45"
+       height="45"
+       patternUnits="userSpaceOnUse"
+       patternTransform="rotate(45)">
+      <path
+         d="M0 0 V45"
+         stroke="black"
+         stroke-width="1.8"
+         id="path2" />
+    </pattern>
+    <pattern
+       id="deform"
+       width="15"
+       height="15"
+       patternUnits="userSpaceOnUse"
+       patternTransform="rotate(45)">
+      <path
+         d="M0 0 V15"
+         stroke="black"
+         stroke-width="1.8"
+         id="path5" />
+    </pattern>
+    <pattern
+       id="cross"
+       width="38"
+       height="38"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M-19 0L19 38M0 0L38 38M19 0L57 38M-19 38L19 0M0 38L38 0M19 38L57 0"
+         fill="none"
+         stroke="black"
+         stroke-width="1.4"
+         id="path8" />
+    </pattern>
+    <pattern
+       id="transition"
+       width="15"
+       height="15"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M2 0V15"
+         stroke="black"
+         stroke-width="2"
+         id="path11" />
+    </pattern>
+    <pattern
+       id="dots"
+       width="29"
+       height="23"
+       patternUnits="userSpaceOnUse">
+      <circle
+         cx="4"
+         cy="5"
+         r="1.7"
+         id="circle14" />
+      <circle
+         cx="15"
+         cy="9"
+         r="1.2"
+         id="circle16" />
+      <circle
+         cx="25"
+         cy="3"
+         r="1.8"
+         id="circle18" />
+      <circle
+         cx="8"
+         cy="19"
+         r="1.1"
+         id="circle20" />
+      <circle
+         cx="23"
+         cy="19"
+         r="1.4"
+         id="circle22" />
+    </pattern>
+    <marker
+       id="arrow"
+       markerWidth="8"
+       markerHeight="8"
+       refX="6"
+       refY="4"
+       orient="auto"
+       markerUnits="strokeWidth">
+      <path
+         d="M0 0L8 4L0 8Z"
+         id="path25" />
+    </marker>
+    <style
+       id="style28">text{font-family:Arial,DejaVu Sans,sans-serif;font-size:26px;fill:#000} .line{fill:none;stroke:#000;stroke-width:2.3} .guide{fill:none;stroke:#000;stroke-width:2.3;stroke-dasharray:58 12 7 12} .thin{fill:none;stroke:#000;stroke-width:2}</style>
+  </defs>
+  <rect
+     width="1358"
+     height="1120"
+     fill="white"
+     id="rect32" />
+  <!-- exterior and boundaries -->
+  <path
+     class="guide"
+     d="M 65,18 H 928 M 80,18 v 1062 m -14,0 H 930 M 913,18 v 1062"
+     id="path34"
+     sodipodi:nodetypes="cccccccc" />
+  <text
+     x="390"
+     y="76"
+     id="text36">ŚRODOWISKO</text>
+  <!-- metal bulk -->
+  <rect
+     x="81"
+     y="615"
+     width="831"
+     height="464"
+     fill="url(#metal)"
+     id="rect38" />
+  <rect
+     x="81"
+     y="525"
+     width="831"
+     height="100"
+     fill="url(#deform)"
+     id="rect40" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1.01031;stroke-dasharray:8.08248, 2.02063, 1.01031, 2.02063"
+     id="rect2121-3-6-3"
+     width="420.41156"
+     height="33.710533"
+     x="490.51944"
+     y="522.88318" />
+  <path
+     class="line"
+     d="M81 625H912 M81 525H490 M490 558H912"
+     id="path42" />
+  <!-- adsorbed particles on metal -->
+  <rect
+     x="81"
+     y="436"
+     width="409"
+     height="89"
+     fill="url(#dots)"
+     stroke="black"
+     stroke-width="2"
+     id="rect44" />
+  <!-- coating -->
+  <rect
+     x="490"
+     y="230"
+     width="422"
+     height="272"
+     fill="url(#cross)"
+     stroke="black"
+     stroke-width="2.5"
+     id="rect46" />
+  <rect
+     x="490"
+     y="179"
+     width="422"
+     height="51"
+     fill="url(#deform)"
+     stroke="black"
+     stroke-width="2.5"
+     id="rect48" />
+  <rect
+     x="490"
+     y="114"
+     width="422"
+     height="65"
+     fill="url(#dots)"
+     stroke="#000000"
+     stroke-width="2.5"
+     id="rect50" />
+  <rect
+     style="stroke-dasharray:8, 2, 1, 2;fill:#ffffff;fill-opacity:1"
+     id="rect2121"
+     width="277.27863"
+     height="50.074276"
+     x="569.97723"
+     y="122.23746" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.914306;stroke-dasharray:7.31445, 1.82861, 0.914306, 1.82861"
+     id="rect2121-3"
+     width="380.29419"
+     height="30.520695"
+     x="500.94537"
+     y="189.36108" />
+  <rect
+     x="490"
+     y="502"
+     width="422"
+     height="56"
+     fill="url(#transition)"
+     stroke="black"
+     stroke-width="2.5"
+     id="rect52" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.69377;stroke-dasharray:5.55016, 1.38754, 0.69377, 1.38754"
+     id="rect2121-3-6"
+     width="218.96114"
+     height="30.520695"
+     x="590.79065"
+     y="514.7124" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.983187;stroke-dasharray:7.8655, 1.96637, 0.983187, 1.96637"
+     id="rect2121-3-7"
+     width="229.04614"
+     height="58.597626"
+     x="162.74107"
+     y="455.44476" />
+  <!-- annotations -->
+  <text
+     x="570"
+     y="143"
+     font-size="22"
+     id="text54">Zaadsorbowane cząstki</text>
+  <text
+     x="634"
+     y="171"
+     font-size="22"
+     id="text56">środowiska</text>
+  <text
+     x="502"
+     y="213"
+     font-size="21"
+     id="text58">Zniekształcona struktura powłoki</text>
+  <text
+     x="190"
+     y="478"
+     font-size="23"
+     id="text60">Zaadsorbowane</text>
+  <text
+     x="170"
+     y="508"
+     font-size="23"
+     id="text62">cząstki środowiska</text>
+  <text
+     x="593"
+     y="537"
+     font-size="23"
+     id="text64">Strefa przejściowa</text>
+  <rect
+     x="276"
+     y="578"
+     width="380.16977"
+     height="32"
+     fill="#ffffff"
+     id="rect66"
+     style="stroke-width:0.894627" />
+  <text
+     x="282"
+     y="603"
+     font-size="24"
+     id="text68">Zniekształcone kryształy metalu</text>
+  <path
+     class="guide"
+     d="M80 887H915"
+     id="path70" />
+  <rect
+     x="522"
+     y="812"
+     width="265"
+     height="65"
+     fill="white"
+     id="rect72" />
+  <text
+     x="529"
+     y="842"
+     font-size="24"
+     id="text74">Granica wewnętrzna</text>
+  <text
+     x="537"
+     y="872"
+     font-size="24"
+     id="text76">warstwy wierzchniej</text>
+  <rect
+     x="492"
+     y="1001"
+     width="104"
+     height="44"
+     fill="white"
+     id="rect78" />
+  <text
+     x="500"
+     y="1034"
+     id="text80">Rdzeń</text>
+  <rect
+     x="341"
+     y="817"
+     width="42"
+     height="112"
+     fill="white"
+     id="rect82" />
+  <text
+     transform="translate(372 925) rotate(-90)"
+     id="text84">METAL</text>
+  <!-- right guide lines and labels -->
+  <path
+     class="line"
+     d="M912 179H1350 M912 529H1350 M912 887H1075"
+     id="path86" />
+  <text
+     x="1090"
+     y="133"
+     font-size="23"
+     id="text88">Powierzchnia powłoki</text>
+  <text
+     x="1122"
+     y="164"
+     font-size="23"
+     id="text90">fizycznie czysta</text>
+  <text
+     x="1095"
+     y="478"
+     font-size="23"
+     id="text92">Powierzchnia metalu</text>
+  <text
+     x="1127"
+     y="510"
+     font-size="23"
+     id="text94">fizycznie czysta</text>
+  <path
+     class="line"
+     d="m 992,181 0.31427,345.39865 m 0,6.8018 v 343 M 1063,181 v 704"
+     id="path96"
+     sodipodi:nodetypes="cccccc" />
+  <path
+     d="m 992,183 -6,16 h 12 z m 0.31427,343.39865 -6,-16 h 12 z M 992,532 l -6,16 h 12 z m 0,351 -6,-16 h 12 z m 71,-700 -6,16 h 12 z m 0,700 -6,-16 h 12 z"
+     fill="#000000"
+     id="path98"
+     sodipodi:nodetypes="cccccccccccccccccccccccc" />
+  <text
+     transform="translate(982 410) rotate(-90)"
+     id="text100">Powłoka</text>
+  <text
+     transform="translate(958 818) rotate(-90)"
+     id="text102">Warstwa wierzchnia</text>
+  <text
+     transform="rotate(-90)"
+     id="text104"
+     x="-757"
+     y="986">metalu</text>
+  <text
+     transform="translate(1053 672) rotate(-90)"
+     id="text106">Warstwy powierzchniowe</text>
+  <!-- left reference dimension and top reference -->
+  <path
+     class="thin"
+     d="M282 18V337 M282 114H490 M282 231H490 M29 436H81 M29 625H81 M29 436V625"
+     id="path108" />
+  <path
+     d="M282 113l-6 -15h12Z M282 232l-6 15h12Z M29 437l-6 15h12Z M29 624l-6 -15h12Z"
+     fill="black"
+     id="path110" />
+</svg>

@@ -19,16 +19,19 @@ return {
 
     local html = string.format([[
 <div class="yt-adaptive"
-     style="width:85%%;margin:auto;position:relative;">
+     style="width:85%%;margin:auto;position:relative;
+            aspect-ratio:16/9;">
 
   <div class="yt-thumbnail" style="display:none;">
     <a href="%s" target="_blank"
        rel="noopener noreferrer"
        style="display:block;position:relative;">
 
-      <img src="thumbnails/%s.jpg"
-           alt="Open video on YouTube"
-           style="display:block;width:100%%;border-radius:12px;">
+      <img src="thumbnails/%s.webp"
+     alt="Open video on YouTube"
+     style="display:block;width:100%%;height:100%%;
+            aspect-ratio:16/9;object-fit:cover;
+            border-radius:12px;">
 
       <span style="position:absolute;top:50%%;left:50%%;
                    transform:translate(-50%%,-50%%);
@@ -64,10 +67,13 @@ return {
     thumbnail.style.display = "block";
   } else {
     player.src = "https://www.youtube.com/embed/" +
-                 player.dataset.videoId;
+             player.dataset.videoId + "?mute=1";
   }
 })();
 </script>
+
+
+
 ]], html_escape(url), video_id, video_id)
 
     return pandoc.RawBlock("html", html)
