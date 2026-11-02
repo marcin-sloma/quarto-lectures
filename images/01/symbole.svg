@@ -23,9 +23,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="1.6970563"
-     inkscape:cx="217.72996"
-     inkscape:cy="134.93954"
+     inkscape:zoom="6.7882252"
+     inkscape:cx="69.016567"
+     inkscape:cy="244.24646"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1"
@@ -197,7 +197,7 @@
     </g>
     <g
        id="g6724-5"
-       transform="translate(-633.01457,-625.75997)"
+       transform="translate(-633.01457,-567.75997)"
        style="stroke-linecap:round;stroke-linejoin:round">
       <path
          d="m 641.11764,841.12527 11.66574,19.08151 25.34489,-43.06304 85.27561,-0.1526"
@@ -225,10 +225,6 @@
        d="M 7.731967,94.8452 29.25407,94.7642"
        id="path6480-2-9-06" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:2.30705;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 8.57494,282.33396 21.5221,-0.081"
-       id="path6480-2-9-06-4" />
-    <path
        d="m 7.86174,154.68617 11.6657,19.08151 25.3449,-43.06304 31.6061,0.10417"
        stroke-width="3.19999"
        id="path112-6-3-3"
@@ -248,16 +244,20 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:29.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
        x="44.041061"
-       y="223.54828"
+       y="281.54828"
        id="text4003"><tspan
          sodipodi:role="line"
          id="tspan4001"
          x="44.041061"
-         y="223.54828"
+         y="281.54828"
          style="font-size:29.3333px">⟨a⟩⟨b⟩</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.30705;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 7.735678,213.69533 21.5221,-0.081"
+       id="path6480-2-9-06-4" />
     <g
        id="g6724-5-8"
-       transform="translate(-632.5427,-558.79131)"
+       transform="translate(-633.38196,-627.42994)"
        style="stroke-linecap:round;stroke-linejoin:round">
       <path
          d="m 641.11764,841.12527 11.66574,19.08151 25.34489,-43.06304 85.27561,-0.1526"
@@ -273,13 +273,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-       x="43.59626"
-       y="253.75174"
+       x="42.756996"
+       y="185.11311"
        id="text4003-7"><tspan
          sodipodi:role="line"
          id="tspan4001-6"
-         x="43.59626"
-         y="253.75174"
+         x="42.756996"
+         y="185.11311"
          style="font-size:18.6667px">frezować</tspan></text>
   </g>
   <metadata

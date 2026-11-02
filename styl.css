@@ -14,8 +14,13 @@
 
 /* Rozmiar tekstu przypisów dolnych */
 .reveal .footnotes {
-    font-size: 50px;
+    font-size: 20px;
     line-height: 1.2;
+}
+
+/* Stopka */
+.reveal .footer {
+    font-size: 20px !important;
 }
 
 /* Rozmiar numerów przypisów w tekście */

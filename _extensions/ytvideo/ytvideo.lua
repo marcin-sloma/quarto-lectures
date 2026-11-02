@@ -75,7 +75,7 @@ return {
     thumbnail.style.display = "block";
   } else {
     player.src = "https://www.youtube.com/embed/" +
-             player.dataset.videoId + "?mute=1";
+             player.dataset.videoId + "?mute=1&cc_load_policy=0";
   }
 })();
 </script>

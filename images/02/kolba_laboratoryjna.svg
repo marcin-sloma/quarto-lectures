@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="320" viewBox="0 0 270 320">
+ <title>Kolba laboratoryjna z pomarańczową cieczą</title>
+ <rect width="270" height="320" fill="white"/>
+ <!-- Flask outline: wide rim, narrow neck, conical body and rounded base -->
+ <path d="M94 17 H178 M99 18 C106 34 108 62 108 106 L16 268 C4 288 10 306 38 306 H231 C259 306 266 288 254 267 L164 106 C164 62 166 34 174 18" fill="none" stroke="#080808" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+ <!-- Fluid, freeform top surface and bottom shaped to flask interior -->
+ <path d="M104 148
+ C113 149 118 151 124 155
+ C117 167 123 176 136 176
+ C142 176 147 173 150 168
+ C158 174 168 175 182 173
+ L207 219
+ C199 228 201 242 209 250
+ C215 255 224 256 231 251
+ L239 267 C244 277 240 290 223 290
+ H209 C206 276 193 266 180 266
+ C166 266 153 276 151 290
+ H51 C35 290 30 283 35 272 Z" fill="#ff570b"/>
+ <!-- Negative-space bubbles -->
+ <circle cx="93" cy="251" r="29" fill="white"/>
+ <circle cx="165" cy="220" r="15" fill="white"/>
+ <circle cx="108" cy="206" r="6" fill="white"/>
+ <circle cx="150" cy="191" r="5.7" fill="white"/>
+ <circle cx="142" cy="251" r="5.7" fill="white"/>
+</svg>

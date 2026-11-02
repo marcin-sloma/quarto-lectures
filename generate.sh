@@ -8,11 +8,11 @@ echo "=== 1. Przygotowanie miniaturek YouTube ==="
 python3 download-thumbnails.py
 
 echo "=== 2. Generowanie samodzielnego HTML ==="
-quarto render 01_warstwa_wierzchnia.qmd \
+quarto render 02_trawienie_elektrochemiczne.qmd \
   --to revealjs \
   --metadata-file _metadata.yml \
   -M embed-resources:true
 
 echo ""
 echo "=== Gotowe ==="
-ls -lh 01_warstwa_wierzchnia.html
+ls -lh 02_trawienie_elektrochemiczne.html

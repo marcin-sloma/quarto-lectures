@@ -4,7 +4,7 @@ set -euo pipefail
 
 cd "$(dirname "$0")"
 
-quarto preview 01_warstwa_wierzchnia.qmd \
+quarto preview 02_trawienie_elektrochemiczne.qmd \
   --to revealjs \
   --metadata-file _metadata.yml \
   --no-browser

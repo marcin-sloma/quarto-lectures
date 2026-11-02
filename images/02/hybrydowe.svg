@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="483" height="638" viewBox="0 0 483 638">
+<title>Schemat obróbki elektroerozyjnej z osełkami</title>
+<defs>
+ <linearGradient id="steel"><stop stop-color="#858585"/><stop offset=".24" stop-color="#f4f4f4"/><stop offset=".55" stop-color="#c0c0c0"/><stop offset=".82" stop-color="#f6f6f6"/><stop offset="1" stop-color="#777"/></linearGradient>
+ <linearGradient id="sleeve"><stop stop-color="#777"/><stop offset=".28" stop-color="#e5e5e5"/><stop offset=".52" stop-color="#999"/><stop offset=".78" stop-color="#eee"/><stop offset="1" stop-color="#888"/></linearGradient>
+ <pattern id="grain" width="5" height="5" patternUnits="userSpaceOnUse"><rect width="5" height="5" fill="#e1e1e1"/><circle cx="1" cy="1" r=".5" fill="#888"/><circle cx="3.5" cy="3" r=".55" fill="#aaa"/></pattern>
+ <pattern id="stone" width="7" height="7" patternUnits="userSpaceOnUse"><rect width="7" height="7" fill="#e9dfcf"/><circle cx="2" cy="1" r=".7" fill="#b4a28d"/><circle cx="5" cy="5" r=".65" fill="#c6b8a3"/></pattern>
+ <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10Z"/></marker>
+</defs>
+<!-- workpiece cross section -->
+<rect x="3" y="232" width="468" height="337" fill="url(#grain)" stroke="#111" stroke-width="1.5"/>
+<path d="M173 232H303V569H173Z" fill="white" stroke="#111" stroke-width="1.4"/>
+<!-- bottom of tool and clearance -->
+<rect x="174" y="471" width="129" height="98" fill="url(#steel)" stroke="#222" stroke-width="1.1"/>
+<!-- central rotating spindle -->
+<path d="M197 26 Q211 18 223 23 Q252 29 277 17 L277 181 H197Z" fill="url(#steel)"/>
+<path d="M197 26V181M277 17V181" fill="none" stroke="#333" stroke-width="1"/>
+<!-- main tool housing -->
+<rect x="188" y="181" width="97" height="309" fill="url(#sleeve)" stroke="#111" stroke-width="1.5"/>
+<rect x="221" y="181" width="31" height="290" fill="#e7e3db" stroke="#333" stroke-width="1"/>
+<rect x="221" y="202" width="31" height="269" fill="url(#stone)" stroke="#666" stroke-width=".8"/>
+<!-- side abrasive stones -->
+<rect x="173" y="205" width="22" height="266" fill="url(#stone)" stroke="#222" stroke-width="1.4"/>
+<rect x="282" y="205" width="22" height="266" fill="url(#stone)" stroke="#222" stroke-width="1.4"/>
+<!-- lower sleeve lips -->
+<path d="M188 471H221V490H188Z M252 471H285V490H252Z" fill="url(#sleeve)" stroke="#222" stroke-width="1"/>
+<!-- center line -->
+<path d="M237 0V580" stroke="#111" stroke-width="1.7" stroke-dasharray="9 4 2 4" fill="none"/>
+<!-- pressure arrows -->
+<path d="M174 342L188 327V335H227V349H188V357Z" fill="#fff000" stroke="#111" stroke-width="1.6"/>
+<path d="M303 342L289 327V335H249V349H289V357Z" fill="#fff000" stroke="#111" stroke-width="1.6"/>
+<!-- rotational arrow -->
+<path d="M178 42 C154 58 142 83 151 102 C161 123 187 126 204 110 L198 100 C182 110 168 105 162 93 C158 81 169 64 190 57 Z" fill="#f47714" stroke="black" stroke-width="1.5"/>
+<path d="M190 91L223 100L213 126L203 112L190 114Z" fill="#f47714" stroke="black" stroke-width="1.5"/>
+<!-- vertical speed double arrow -->
+<path d="M299 44L285 62H292V119H285L299 138L313 119H306V62H313Z" fill="#f47714" stroke="#111" stroke-width="1.6"/>
+<!-- minus sign and electrode left -->
+<circle cx="41" cy="169" r="33" fill="white" stroke="black" stroke-width="2"/><path d="M8 169H74" stroke="black" stroke-width="2"/>
+<path d="M78 177H148L214 228" stroke="black" stroke-width="1.8" fill="none" marker-end="url(#arr)"/>
+<!-- plus electrode right -->
+<circle cx="403" cy="307" r="33" fill="white" stroke="black" stroke-width="2"/><path d="M370 307H436M403 274V340" stroke="black" stroke-width="2"/>
+<!-- labels and callouts -->
+<g font-family="Arial, Helvetica, sans-serif" fill="#000">
+<text x="104" y="58" font-family="Georgia,serif" font-style="italic" font-weight="bold" font-size="36">υₙ</text>
+<text x="323" y="101" font-family="Georgia,serif" font-style="italic" font-weight="bold" font-size="36">υ<tspan baseline-shift="sub" font-size="23">H</tspan></text>
+<text x="89" y="148" font-size="44" font-weight="bold">N</text>
+<text x="349" y="168" font-size="29" font-weight="bold">OSEŁKI</text>
+<text x="123" y="362" font-family="Georgia,serif" font-style="italic" font-size="43">p</text>
+<text x="337" y="362" font-family="Georgia,serif" font-style="italic" font-size="43">p</text>
+<text x="367" y="534" font-size="44" font-weight="bold">PO</text>
+<text x="110" y="615" font-size="40">ELEKTROLIT</text>
+</g>
+<path d="M133 144L190 160" stroke="black" stroke-width="2" marker-end="url(#arr)" fill="none"/>
+<path d="M348 177L310 210" stroke="black" stroke-width="2" marker-end="url(#arr)" fill="none"/>
+</svg>

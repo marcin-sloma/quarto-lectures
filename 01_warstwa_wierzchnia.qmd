@@ -107,7 +107,12 @@ Technologiczna warstwa wierzchnia PN-EN 15305, PN-EN ISO 2639, PN-ISO 14104, PN-
 
 [**Powierzchnia elementu = granica faz/ośrodków**]{style="display:block; text-align:center;"}
 
-::: {.fragment data-fragment-index="2" style="position:absolute; left:305px; top:0px; width:1310px; height:1080px;"}
+
+## [WPROWADZENIE]{style="display:block; text-align:center;"}
+
+### WARSTWA WIERZCHNIA ELEMENTÓW
+
+::: {style="position:absolute; left:305px; top:0px; width:1310px; height:1080px;"}
 ![](images/01/slajd_04_ilustracja_05.svg){.nostretch width="100%" height="100%"}
 :::
 
@@ -189,18 +194,22 @@ chropowatość, falistość, nośność, energia powierzchniowa, napięcie powie
 
 ### WARSTWA WIERZCHNIA ELEMENTÓW - OTRZYMYWANIE
 
-Norma PN-ISO 1302 „Rysunek techniczny - Oznaczanie struktury geometrycznej powierzchni” zawiera sposoby określania chropowatości na rysunkach technicznych i metody jej uzyskania.
+Norma PN-EN ISO 21920-1:2022-06 "Specyfikacje geometrii wyrobów (GPS) - Struktura geometryczna powierzchni (Część 1)" zawiera sposoby określania chropowatości na rysunkach technicznych i metody jej uzyskania.
 
+::: {style="position:relative;"}
 - struktura powierzchni uzyskana w dowolnym procesie obróbki
 - struktura powierzchni uzyskana wyłącznie przez zdjęcie materiału – obróbka skrawaniem
 - struktura powierzchni uzyskana za pomocą innego procesu niż zdjęcie materiału
+- struktura powierzchni uzyskana ściśle określonym rodzajem obróbki
 - chropowatość powierzchni zawiera się między wartościami a i b
-- struktura powierzchni uzyskana ściśle określonym rodzajem obróbki.
+
 
 Te same zasady dotyczą obróbki cieplnej i cieplno-chemicznej.
 
-::: {style="position:absolute; left:1600px; top:300px; width:140px; "}
+::: {style="position:absolute; left:1600px; top:0px; width:150px; "}
 ![](images/01/symbole.svg){.nostretch width="100%" height="100%"}
+:::
+
 :::
 
 ---
