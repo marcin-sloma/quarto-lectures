@@ -45,7 +45,7 @@ title-slide-attributes:
 
 
 ::: {style="position:absolute; left:1188px; top:167px; width:637px; height:767px;"}
-![](images/02/slajd_03_ilustracja_04.png){.nostretch width="100%" height="100%"}
+![](images/02/elektropolerowanie_zbiornik.svg){.nostretch width="100%" height="100%"}
 :::
 
 
@@ -115,7 +115,7 @@ Gęstość prądu - stosunek natężenia prądu $I$ do powierzchni $f$ polerowan
 
 
 ::: {style="position:absolute; left:1400px;"}
-![](images/02/nakretka.png){.nostretch height="300px"}
+![](images/02/nakretka.webp){.nostretch height="300px"}
 :::
 
 ::: {style="width:100%; text-align:center;"}
@@ -155,19 +155,19 @@ Na stabilność i wydajność procesu wpływają wszystkie powyższe parametry, 
 - gratowanie, rozjaśnienie i pasywacja powierzchni
 
 ::: {.fragment style="position:absolute; left:71px; width:1800px; height:504px;"}
-![](images/02/slajd_08_ilustracja_04.png){.nostretch width="100%" height="100%"}
+![](images/02/slajd_08_ilustracja_04.webp){.nostretch width="100%" height="100%"}
 :::
 
 ::: {.fragment style="position:absolute; left:40px; width:797px; height:504px;"}
-![](images/02/slajd_08_ilustracja_05.png){.nostretch width="100%" height="100%"}
+![](images/02/slajd_08_ilustracja_05.webp){.nostretch width="100%" height="100%"}
 :::
 
 ::: {.fragment style="position:absolute; left:857px; width:988px; height:400px;"}
-![](images/02/slajd_08_ilustracja_06.png){.nostretch width="100%" height="100%"}
+![](images/02/slajd_08_ilustracja_06.webp){.nostretch width="100%" height="100%"}
 :::
 
 ::: {.fragment style="position:absolute; left:71px; width:1742px; height:504px;"}
-![](images/02/slajd_08_ilustracja_08.png){.nostretch width="100%" height="100%"}
+![](images/02/slajd_08_ilustracja_08.webp){.nostretch width="100%" height="100%"}
 :::
 
 ::: {.footer}
@@ -190,19 +190,19 @@ Gao, Ming, et al. "Tip-induced nanoreactor for silicate." Scientific reports 5 (
 :::: {style="--img-height:350px; display:flex; position:relative; left:50%; transform:translateX(-50%); width:max-content; max-width:none; align-items:center; gap:10px;"}
 
 ::: {style="flex:0 0 auto; margin:0;"}
-![](images/02/slajd_09_ilustracja_05.jpg){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
+![](images/02/slajd_09_ilustracja_05.webp){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
 :::
 
 ::: {style="flex:0 0 auto; margin:0;"}
-![](images/02/slajd_09_ilustracja_08.png){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
+![](images/02/slajd_09_ilustracja_08.webp){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
 :::
 
 ::: {style="flex:0 0 auto; margin:0;"}
-![](images/02/slajd_09_ilustracja_07.png){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
+![](images/02/slajd_09_ilustracja_07.webp){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
 :::
 
 ::: {style="flex:0 0 auto; margin:0;"}
-![](images/02/slajd_09_ilustracja_06.png){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
+![](images/02/slajd_09_ilustracja_06.webp){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
 :::
 
 ::::
@@ -228,11 +228,11 @@ Able
 :::
 
 ::: {style="flex:0 0 auto; margin:0;"}
-![](images/02/slajd_10_ilustracja_06.png){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
+![](images/02/slajd_10_ilustracja_06.webp){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
 :::
 
 ::: {style="flex:0 0 auto; margin:0;"}
-![](images/02/slajd_10_ilustracja_07.png){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
+![](images/02/slajd_10_ilustracja_07.webp){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
 :::
 
 ::::
@@ -248,19 +248,19 @@ Able
 :::: {style="--img-height:500px; display:flex; position:relative; left:50%; transform:translateX(-50%); width:max-content; max-width:none; align-items:center; gap:10px;"}
 
 ::: {style="flex:0 0 auto; margin:0;"}
-![](images/02/slajd_11_ilustracja_05.jpg){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
+![](images/02/slajd_11_ilustracja_05.webp){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
 :::
 
 ::: {style="flex:0 0 auto; margin:0;"}
-![](images/02/slajd_11_ilustracja_06.png){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
+![](images/02/slajd_11_ilustracja_06.webp){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
 :::
 
 ::: {style="flex:0 0 auto; margin:0;"}
-![](images/02/slajd_11_ilustracja_07.jpg){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
+![](images/02/slajd_11_ilustracja_07.webp){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
 :::
 
 ::: {style="flex:0 0 auto; margin:0;"}
-![](images/02/slajd_11_ilustracja_08.jpg){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
+![](images/02/slajd_11_ilustracja_08.webp){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
 :::
 
 ::::
@@ -291,15 +291,15 @@ Nitty-Gritty S. R. L. https://www.youtube.com/watch?v=hMV6VufvqdY
 :::: {style="--img-height:400px; display:flex; position:relative; left:50%; transform:translateX(-50%); width:max-content; max-width:none; align-items:center; gap:10px;"}
 
 ::: {style="flex:0 0 auto; margin:0;"}
-![](images/02/slajd_13_ilustracja_04.png){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
+![](images/02/slajd_13_ilustracja_04.webp){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
 :::
 
 ::: {.fragment data-fragment-index="1" style="flex:0 0 auto; margin:0;"}
-![](images/02/slajd_13_ilustracja_05.png){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
+![](images/02/slajd_13_ilustracja_05.webp){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
 :::
 
 ::: {.fragment data-fragment-index="1" style="flex:0 0 auto; margin:0;"}
-![](images/02/slajd_13_ilustracja_06.png){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
+![](images/02/slajd_13_ilustracja_06.webp){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
 :::
 
 ::::
@@ -333,7 +333,7 @@ xrendgen1 https://www.youtube.com/watch?v=QheQYBmEtkM
 </table>
 
 ::: {style="position:absolute; left:72px; top:344px; width:1766px; height:563px;"}
-![](images/02/slajd_15_ilustracja_04.png){.nostretch width="100%" height="100%"}
+![](images/02/slajd_15_ilustracja_04.webp){.nostretch width="100%" height="100%"}
 :::
 
 ::: {.footer}
@@ -370,37 +370,37 @@ Elektropol-R
 </style>
 
 ::: {.auto-fade style="--delay:0s; position:absolute; left:72px; top:150px; width:583px; height:438px;"}
-![](images/02/slajd_17_ilustracja_04.png){.nostretch width="100%" height="100%"}
+![](images/02/slajd_17_ilustracja_04.webp){.nostretch width="100%" height="100%"}
 :::
 
 ::: {.auto-fade style="--delay:2s; position:absolute; left:295px; top:478px; width:606px; height:455px;"}
-![](images/02/slajd_17_ilustracja_05.png){.nostretch width="100%" height="100%"}
+![](images/02/slajd_17_ilustracja_05.webp){.nostretch width="100%" height="100%"}
 :::
 
 ::: {.auto-fade style="--delay:4s; position:absolute; left:619px; top:234px; width:583px; height:438px;"}
-![](images/02/slajd_17_ilustracja_06.png){.nostretch width="100%" height="100%"}
+![](images/02/slajd_17_ilustracja_06.webp){.nostretch width="100%" height="100%"}
 :::
 
 ::: {.auto-fade style="--delay:6s; position:absolute; left:879px; top:478px; width:512px;"}
-![](images/02/slajd_17_ilustracja_07.png){.nostretch width="100%" height="100%"}
+![](images/02/slajd_17_ilustracja_07.webp){.nostretch width="100%" height="100%"}
 :::
 
 ::: {.auto-fade style="--delay:8s; position:absolute; left:1173px; top:150px; width:667px; height:699px;"}
-![](images/02/slajd_17_ilustracja_08.png){.nostretch width="100%" height="100%"}
+![](images/02/slajd_17_ilustracja_08.webp){.nostretch width="100%" height="100%"}
 :::
 
 ::: {.fragment data-fragment-index="1" style="position:absolute; left:300px; top:170px; width:1200px;"}
-![](images/02/slajd_17_ilustracja_09.png){.nostretch width="100%" height="100%"}
+![](images/02/slajd_17_ilustracja_09.webp){.nostretch width="100%" height="100%"}
 :::
 
 :::: {style="--img-height:700px; display:flex; position:relative; left:50%; transform:translateX(-50%); width:max-content; max-width:none; align-items:center; gap:10px;"}
 
 ::: {.fragment data-fragment-index="2" style="flex:0 0 auto; margin:0;"}
-![](images/02/slajd_17_ilustracja_10.png){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
+![](images/02/slajd_17_ilustracja_10.webp){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
 :::
 
 ::: {.fragment data-fragment-index="3" style="flex:0 0 auto; margin:0;"}
-![](images/02/slajd_17_ilustracja_11.png){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
+![](images/02/slajd_17_ilustracja_11.webp){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
 :::
 
 ::::
