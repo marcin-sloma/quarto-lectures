@@ -12,6 +12,12 @@
     top: 0 !important;
 }
 
+/* Obrazy – bez automatycznego ograniczania rozmiarów */
+.reveal .slides section img {
+    max-width: none;
+    max-height: none;
+}
+
 /* Rozmiar tekstu przypisów dolnych */
 .reveal .footnotes {
     font-size: 20px;

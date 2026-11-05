@@ -1,6 +1,8 @@
-
 document.addEventListener("DOMContentLoaded", () => {
   const label = document.createElement("div");
+
+  // Domyślnie współrzędne są ukryte
+  let visible = false;
 
   label.style.cssText = `
     position: fixed;
@@ -11,11 +13,26 @@ document.addEventListener("DOMContentLoaded", () => {
     font: 16px monospace;
     border-radius: 4px;
     pointer-events: none;
+    display: none;
   `;
 
   document.body.appendChild(label);
 
+  // Klawisz C włącza i wyłącza współrzędne
+  document.addEventListener("keydown", (e) => {
+    if (
+      e.key.toLowerCase() === "k" &&
+      !e.ctrlKey && !e.altKey && !e.metaKey &&
+      !e.repeat
+    ) {
+      visible = !visible;
+      label.style.display = visible ? "block" : "none";
+    }
+  });
+
   document.addEventListener("mousemove", (e) => {
+    if (!visible) return;
+
     const slide = Reveal.getCurrentSlide();
     if (!slide) return;
 
