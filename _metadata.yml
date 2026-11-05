@@ -5,7 +5,7 @@ format:
     height: 1080
     center: false
     margin: 0
-    theme: [default, custom.scss]
+    theme: [custom.scss]
     slide-number: true
     transition: none
     incremental: false
