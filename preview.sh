@@ -3,8 +3,9 @@
 set -euo pipefail
 
 cd "$(dirname "$0")"
+NAME=$(<aktualne)
 
-quarto preview test_size.qmd \
+quarto preview "${NAME}.qmd" \
   --to revealjs \
   --metadata-file _metadata.yml \
   --no-browser
