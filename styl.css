@@ -157,3 +157,19 @@
 .reveal textarea {
   font-family: "RobotoCondensedLocal", sans-serif;
 }
+
+.reveal .lista-zwarta ul {
+  margin-top: 4px;
+  margin-bottom: 10px;
+}
+
+.reveal .lista-zwarta li {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 1.0;
+}
+
+.reveal .lista-zwarta p {
+  margin-top: 6px;
+  margin-bottom: 4px;
+}

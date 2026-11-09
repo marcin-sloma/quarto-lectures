@@ -65,15 +65,46 @@ Korozja to proces stopniowego niszczenia materiałów przez czynniki środowisko
 
 *Stan użytkowania metali jest stanem sztucznym, nietrwałym termodynamicznie. Korozja jest więc naturalną tendencją osiągnięcia równowagi termodynamicznej czyli postaci, w której metale występują w przyrodzie.*
 
+```{=html}
+<svg class="fragment" data-fragment-index="1"
+     xmlns="http://www.w3.org/2000/svg"
+     width="1920" height="1080"
+     style="position:absolute; left:0; top:0; z-index:1000; pointer-events:none;">
+
+  <defs>
+    <marker id="arrow-a" markerWidth="12" markerHeight="12"
+            refX="11" refY="6" orient="auto"
+            markerUnits="userSpaceOnUse">
+      <path d="M1,1 L11,6 L1,11"
+            fill="none" stroke="red" stroke-width="2"/>
+    </marker>
+  </defs>
+
+  <line x1="810" y1="205" x2="500" y2="500"
+        stroke="red" stroke-width="3"
+        marker-end="url(#arrow-a)"/>
+  <line x1="1500" y1="205" x2="900" y2="550"
+        stroke="red" stroke-width="3"
+        marker-end="url(#arrow-a)"/>
+   <line x1="1200" y1="205" x2="1400" y2="580"
+        stroke="red" stroke-width="3"
+        marker-end="url(#arrow-a)"/>
+</svg>
+```
+
 
 <!-- Slajd 4 -->
 ## [TECHNOLOGIA POWŁOK]{style="display:block; text-align:center;"}
 
-Prędkość korozji [µm/rok]  
-Środowisko:  miejskie  wybrzeże  przemysłowe  pustynia  
-Fe    30÷90  60÷600  40÷100    2÷3  
-Zn    1÷6    4÷28    3÷11      0÷1  
-Al    ~0    12    1      b.d.  
+
+Prędkość korozji [µm/rok]
+
+| Środowisko: | miejskie | wybrzeże | przemysłowe | pustynia |
+|:-----------:|:--------:|:--------:|:-----------:|:--------:|
+| Fe          | 30÷90    | 60÷600   | 40÷100      | 2÷3      |
+| Zn          | 1÷6      | 4÷28     | 3÷11        | 0÷1      |
+| Al          | ~0       | 12       | 1           | b.d.     |
+
 
 ::: {style="position:absolute; left:160px; top:456px; width:624px;"}
 ![](images/03/slajd_04_ilustracja_01.webp){.nostretch width="100%"}
@@ -87,7 +118,10 @@ Al    ~0    12    1      b.d.
 <!-- Slajd 5 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
-- Powłoki metalowe (metale lub stopy) na metalach lub niemetalach:
+::: {.lista-zwarta}
+
+**Powłoki metalowe** (metale lub stopy) na metalach lub niemetalach:
+
 - Powłoki galwaniczne (galwanostegia) z metali lub stopów metali - elektrochemiczne.
 - Chemiczne (redukcja jonów metali), bezprądowe, na dowolnych tworzywach konstrukcyjnych.
 - Zanurzeniowe (ogniowe), w roztopionym metalu (Sn, Zn, Pb, Al i stopy).
@@ -96,90 +130,146 @@ Al    ~0    12    1      b.d.
 - Platerowane (nawalcowywanie warstwy Al, Cu, Ag, stali kwasoodpornej, także detonacyjnie).
 - Natopione (wiązką laserową, elektronów, elektroiskrowe).
 - Techniki PVD i CVD.
-- Powłoki niemetalowe (związki metali, ceramika, tworzywa sztuczne) na metalach lub niemetalach:
+
+**Powłoki niemetalowe** (związki metali, ceramika, tworzywa sztuczne) na metalach lub niemetalach:
+
 - Konwersyjne – anodowanie, fosforanowanie, chromianowanie, oksydowanie.
 - Emalie szkliste, ceramiczne (nieorganiczne).
 - Powłoki malarsko-lakiernicze.
 - Powłoki z tworzyw sztucznych (natryskiwanie, fluidyzacja).
 - Techniki PVD i CVD.
 
+:::
+
 
 <!-- Slajd 6 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
-Powłoki galwaniczne  
-Metale lub stopy metali nakładane w oparciu o prawa elektrolizy Faraday’a - galwanostegia.  
-Trwale związane z podłożem, w odróżnieniu od galwanoplastyki (oddzielane od wzorca).  
-m = k ⋅ I ⋅ t = k ⋅ Q  
+Powłoki galwaniczne 
 
-k ×        ×            k ×  
+- Metale lub stopy metali nakładane w oparciu o prawa elektrolizy Faraday’a - <u>galwanostegia</u>.  
+- Trwale związane z podłożem, w odróżnieniu od ~~[galwanoplastyki](https://pl.wikipedia.org/wiki/Galwanoplastyka){style="color:inherit; text-decoration:none;"}~~ (oddzielane od wzorca).
 
-k - równoważnik elektrochemiczny [g⋅h-1⋅A-1]  
-1,2               0,3          4,0  
 
-::: {style="position:absolute; left:128px; top:713px; width:392px;"}
-![](images/03/slajd_06_ilustracja_01.webp){.nostretch width="100%"}
+
+::: {.fragment data-fragment-index="2" style="font-size:160%; text-align:center; transform:translateY(-70px);"}
+
+$$
+m = k \cdot I \cdot t = k \cdot Q
+$$
+
 :::
 
-::: {style="position:absolute; left:749px; top:713px; width:211px;"}
-![](images/03/slajd_06_ilustracja_02.webp){.nostretch width="100%"}
+
+::: {.fragment data-fragment-index="2" style="display:flex; align-items:center; justify-content:space-between; width:100%; gap:12px; margin:30px 0; transform:translateY(-110px);"}
+
+![](images/03/weight.svg){.nostretch height="180px"}
+
+<svg width="140" height="95" viewBox="0 0 140 95">
+  <path d="M2 25 H92 V3 L138 47.5 L92 92 V70 H2 Z"
+        fill="#f0eee5" stroke="#24558a" stroke-width="1.5"/>
+</svg>
+
+[ $k \times$ ]{style="font-size:170%; white-space:nowrap;"}
+
+![](images/03/electric.svg){.nostretch height="155px"}
+
+[ $\times$ ]{style="font-size:170%;"}
+
+![](images/03/zegar.svg){.nostretch height="155px"}
+
+<svg width="140" height="95" viewBox="0 0 140 95">
+  <path d="M2 25 H92 V3 L138 47.5 L92 92 V70 H2 Z"
+        fill="#f0eee5" stroke="#24558a" stroke-width="1.5"/>
+</svg>
+
+[ $k \times$ ]{style="font-size:170%; white-space:nowrap;"}
+
+![](images/03/slajd_06_ilustracja_07.webp){.nostretch height="155px"}
+
 :::
 
-::: {style="position:absolute; left:1178px; top:713px; width:292px;"}
-![](images/03/slajd_06_ilustracja_03.webp){.nostretch width="100%"}
+::: {.fragment data-fragment-index="3" style="width:100%; margin:20px 0; transform:translateY(-110px);"}
+
+$k$ – równoważnik elektrochemiczny $[\mathrm{g}\cdot\mathrm{h}^{-1}\cdot\mathrm{A}^{-1}]$
+
+<!-- ILUSTRACJE -->
+
+::: {style="display:flex; align-items:flex-start; justify-content:space-around; width:100%;"}
+
+::: {style="flex:1; text-align:center;"}
+![](images/03/slajd_06_ilustracja_01.webp){.nostretch height="220px"}
 :::
 
-::: {style="position:absolute; left:84px; top:398px; width:357px;"}
-![](images/03/slajd_06_ilustracja_04.webp){.nostretch width="100%"}
+::: {style="flex:1; text-align:center;"}
+![](images/03/slajd_06_ilustracja_02.webp){.nostretch height="220px"}
 :::
 
-::: {style="position:absolute; left:751px; top:432px; width:211px;"}
-![](images/03/slajd_06_ilustracja_05.webp){.nostretch width="100%"}
+::: {style="flex:1; text-align:center;"}
+![](images/03/slajd_06_ilustracja_03.webp){.nostretch height="220px"}
 :::
 
-::: {style="position:absolute; left:1016px; top:432px; width:254px;"}
-![](images/03/slajd_06_ilustracja_06.webp){.nostretch width="100%"}
 :::
 
-::: {style="position:absolute; left:1617px; top:439px; width:231px;"}
-![](images/03/slajd_06_ilustracja_07.webp){.nostretch width="100%"}
+
+<!-- NAPISY – NIEZALEŻNA WARSTWA -->
+
+::: {style="position:relative; width:100%; height:0; transform:translateY(-220px); pointer-events:none;"}
+
+::: {style="position:absolute; left:0%; top:0; font-size:160%; font-weight:bold;"}
+1,2
+:::
+
+::: {style="position:absolute; left:38%; top:0; font-size:160%; font-weight:bold;"}
+0,3
+:::
+
+::: {style="position:absolute; left:68%; top:0; font-size:160%; font-weight:bold;"}
+4,0
+:::
+
+:::
+
 :::
 
 
 <!-- Slajd 7 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
-### Powłoki galwaniczne
+### Powłoki galwaniczne (parametry technologiczne)
 
-- (parametry technologiczne)
-- Skład elektrolitu
-- Temperatura elektrolitu T
-- Gęstość prądu If
-- Czas trwania procesu t
-- Materiał anody
+:::: {style="position:relative;"}
 
-::: {style="position:absolute; left:1194px; top:151px; width:647px;"}
-![](images/03/slajd_07_ilustracja_01.webp){.nostretch width="100%"}
+- [Skład elektrolitu]{.fragment data-fragment-index="1"}
+- [Temperatura elektrolitu $T$]{.fragment data-fragment-index="2"}
+- [Gęstość prądu $I_f$]{.fragment data-fragment-index="3"}
+- [Czas trwania procesu $t$]{.fragment data-fragment-index="4"}
+- [Materiał anody]{.fragment data-fragment-index="5"}
+
+::::
+
+::: {.fragment data-fragment-index="1" style="position:absolute; left:60px;"}
+![](images/02/kolba_laboratoryjna.svg){.nostretch height="250px"}
 :::
 
-::: {style="position:absolute; left:93px; top:478px; width:267px;"}
-![](images/03/slajd_07_ilustracja_02.webp){.nostretch width="100%"}
+::: {.fragment data-fragment-index="2" style="position:absolute; left:300px;"}
+![](images/02/termometr.svg){.nostretch height="250px"}
 :::
 
-::: {style="position:absolute; left:344px; top:536px; width:189px;"}
-![](images/03/slajd_07_ilustracja_03.webp){.nostretch width="100%"}
+::: {.fragment data-fragment-index="3" style="position:absolute; left:400px;"}
+![](images/02/electric.svg){.nostretch height="250px"}
 :::
 
-::: {style="position:absolute; left:520px; top:467px; width:267px;"}
-![](images/03/slajd_07_ilustracja_04.webp){.nostretch width="100%"}
+::: {.fragment data-fragment-index="4" style="position:absolute; left:660px;"}
+![](images/02/zegar.svg){.nostretch height="250px"}
 :::
 
-::: {style="position:absolute; left:727px; top:648px; width:353px;"}
-![](images/03/slajd_07_ilustracja_05.webp){.nostretch width="100%"}
+::: {.fragment data-fragment-index="5" style="position:absolute; left:950px;"}
+![](images/03/sztabka.webp){.nostretch height="250px"}
 :::
 
-::: {style="position:absolute; left:806px; top:464px; width:353px;"}
-![](images/03/slajd_07_ilustracja_06.webp){.nostretch width="100%"}
+::: {.fragment data-fragment-index="6" style="position:absolute; left:1194px; top:151px; width:647px;"}
+![](images/03/powlekanie_zbiornik.svg){.nostretch width="100%"}
 :::
 
 
@@ -188,17 +278,17 @@ k - równoważnik elektrochemiczny [g⋅h-1⋅A-1]
 
 ### Powłoki galwaniczne  (parametry technologiczne)
 
-### Wraz ze wzrostem gęstości prądu wzrasta masa osadzanej warstwy - do czasu.
+Wraz ze wzrostem gęstości prądu wzrasta masa osadzanej warstwy - do czasu.
 
-::: {style="position:absolute; left:354px; top:240px; width:1165px;"}
-![](images/03/slajd_08_ilustracja_01.webp){.nostretch width="100%"}
+::: {style="position:absolute; left:470px; top:240px; width:1000px;"}
+![](images/03/wykres_gestosc_pradu.svg){.nostretch width="100%"}
 :::
 
-::: {style="position:absolute; left:72px; top:439px; width:390px;"}
+::: {style="position:absolute; left:72px; top:350px; width:390px;"}
 ![](images/03/slajd_08_ilustracja_02.webp){.nostretch width="100%"}
 :::
 
-::: {style="position:absolute; left:1454px; top:319px; width:445px;"}
+::: {style="position:absolute; left:1454px; top:320px; width:445px;"}
 ![](images/03/slajd_08_ilustracja_03.webp){.nostretch width="100%"}
 :::
 
@@ -214,17 +304,12 @@ k - równoważnik elektrochemiczny [g⋅h-1⋅A-1]
 - Czas trwania procesu - grubość powłoki.
 - Materiał anody - rodzaj powłoki, jakość materiału powłoki.
 
+### Powłoki galwaniczne (przebieg procesu)  
 
-<!-- Slajd 10 -->
-## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
-
-### Powłoki galwaniczne
-
-(przebieg procesu)  
-Przygotowanie powierzchni: czyszczenie (piaskowanie, szczotkowanie, polerowanie ścierne), odtłuszczanie (rozpuszczalniki, detergenty, chemiczne), trawienie, polerowanie elektrochemiczne.  
-Właściwe nakładanie powłoki jedno lub wielowarstwowej.  
-Kilkustopniowe mycie, suszenie.  
-Obróbka wykończeniowa powłoki (opcjonalnie): pasywacja, dodatkowe zabezpieczenie.  
+- Przygotowanie powierzchni: czyszczenie (piaskowanie, szczotkowanie, polerowanie ścierne), odtłuszczanie (rozpuszczalniki, detergenty, chemiczne), trawienie, polerowanie elektrochemiczne.  
+- Właściwe nakładanie powłoki jedno lub wielowarstwowej.  
+- Kilkustopniowe mycie, suszenie.  
+- Obróbka wykończeniowa powłoki (opcjonalnie): pasywacja, dodatkowe zabezpieczenie.  
 
 
 <!-- Slajd 11 -->
@@ -232,30 +317,42 @@ Obróbka wykończeniowa powłoki (opcjonalnie): pasywacja, dodatkowe zabezpiecze
 
 ### Powłoki galwaniczne
 
-::: {style="position:absolute; left:32px; top:256px; width:878px;"}
-![](images/03/slajd_11_ilustracja_01.webp){.nostretch width="100%"}
+::: {style="position:relative; width:100%;"}
+
+<!-- PIERWSZY FILM – CAŁA SZEROKOŚĆ -->
+{{< ytvideo eMXqpeyKJgY >}}
+
+<!-- DRUGI FILM – NAKŁADANY W GÓRNEJ CZĘŚCI -->
+::: {style="position:absolute; left:1300px; top:-70px; width:33%;"}
+{{< ytvideo a3V7xHRuaUs >}}
 :::
 
-::: {style="position:absolute; left:942px; top:256px; width:878px;"}
-![](images/03/slajd_11_ilustracja_02.webp){.nostretch width="100%"}
 :::
 
+::: {.footer}
+
+KKY create https://www.youtube.com/watch?v=BZGDxL9pBC4 &emsp; FuseSchool - Global Education https://www.youtube.com/watch?v=OxhCU_jBiOA
+
+:::
 
 <!-- Slajd 12 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
-### Powłoki galwaniczne
+### Powłoki galwaniczne (Miedziowanie)
 
-### Miedziowanie
+Kąpiel do miedziowania stali (przykład):
 
-- Kąpiel do miedziowania stali (przykład):
+::: {.lista-zwarta}
+
 - NaCN (cyjanek sodowy) 55g/l
 - CuCN (cyjanek miedziawy) 40g/l
 - NaOH 15g/l
 - Winian sodowo-potasowy 40g/l
-- Warunki: T = 18÷25°C, If = 0,5÷1 A/dm2, t = kilka minut,
+- Warunki: T = 18÷25°C, I~f~ = 0,5÷1 A/dm^2^, t = kilka minut,
 - grubość powłoki h=f(t).
 - Anody wykonane z Cu (99,7%)
+
+:::
 
 ::: {style="position:absolute; left:724px; top:555px; width:514px;"}
 ![](images/03/slajd_12_ilustracja_01.webp){.nostretch width="100%"}
@@ -273,17 +370,15 @@ PHU Omega, LPKF AG
 <!-- Slajd 13 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
-### Powłoki galwaniczne
-
-### Niklowanie
+### Powłoki galwaniczne (Niklowanie)
 
 - Kąpiel do niklowania z połyskiem (przykład):
-- NiSO4 (siarczan niklawy) 200-400 g/l
-- NiCl2 (chlorek niklawy) 5-80 g/l
-- H3BO3 (kwas borowy) 25-40 g/l
-- Substancje nabłyszczające (związki organiczne, sole metali ciężkich).
-- Warunki: T=45÷55°C, If = 1÷5 A/dm2.
-- Anody niklowe (nikiel elektrolityczny).
+- NiSO~4~ (siarczan niklawy) 200-400 g/l
+- NiCl~2~ (chlorek niklawy) 5-80 g/l
+- H~3~BO~3~ (kwas borowy) 25-40 g/l
+- Substancje nabłyszczające (związki organiczne, sole metali ciężkich)
+- Warunki: T=45÷55°C, I~f~ = 1÷5 A/dm^2^
+- Anody niklowe (nikiel elektrolityczny)
 - Czas procesu zależny od oczekiwanej grubości powłoki
 
 ::: {style="position:absolute; left:1364px; top:167px; width:474px;"}
@@ -302,61 +397,61 @@ Thomasnet, TaylorsFirearms
 <!-- Slajd 14 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
-### Powłoki galwaniczne
-
-### Chromowanie
+### Powłoki galwaniczne (Chromowanie)
 
 - Kąpiel do chromowania dekoracyjnego g ≤ 3μm:
-- - CrO3 - 400g/l
-- - H2SO4 - 4g/l
-- Warunki: T = 45÷55°C, If = 15÷30 A/dm2, t = kilka minut.
+  - CrO~3~ - 400g/l
+  - H~2~SO~4~ - 4g/l
+- Warunki: T = 45÷55°C, I~f~ = 15÷30 A/dm^2^, t = kilka minut
 - Anoda: Pb lub Pb+Sb (6-8%)
 - Kąpiel do chromowania technicznego g=12-400μm:
-- - CrO3 - 150g/l
-- - H2SO4 - 1,5 g/l
-- Warunki: T = 53÷54°C, If = 30÷45A/dm2, t = godziny.
+  - CrO~3~ - 150g/l
+  - H~2~SO~4~ - 1,5 g/l
+- Warunki: T = 53÷54°C, I~f~ = 30÷45 A/dm^2^, t = godziny
 - miedziowanie – niklowanie – chromowanie
 
-::: {style="position:absolute; left:1208px; top:148px; width:641px;"}
+::: {style="position:absolute; left:1200px; top:100px; width:650px;"}
 ![](images/03/slajd_14_ilustracja_01.webp){.nostretch width="100%"}
 :::
 
-::: {style="position:absolute; left:1280px; top:570px; width:546px;"}
-![](images/03/slajd_14_ilustracja_02.webp){.nostretch width="100%"}
+::: {style="position:absolute; left:1200px; top:500px; width:650px;"}
+![](images/03/tloczysko.webp){.nostretch width="100%"}
 :::
 
+::: {.footer}
+HydroFlex
+:::
 
 <!-- Slajd 15 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
-### Powłoki galwaniczne
+### Powłoki galwaniczne (Złocenie)
 
-### Złocenie
+Przykład elektrolitu do złocenia (pozłacania):
 
-- Przykład elektrolitu do złocenia (pozłacania):
-- - K[Au(CN)2] cyjanozłocian potasowy lub cyjanek złotawo-potasowy 10g/l
-- - C6H8O7 kwas cytrynowy 20g/l
-- - Dodatki nabłyszczające: Ni (0,25g/l), Co (0,35g/l)
-- Warunki: T = 20÷35°C, If = 0,4÷0,6A/dm2.
+- K[Au(CN)2] cyjanozłocian potasowy lub cyjanek złotawo-potasowy 10g/l
+- C~6~H~8~O~7~ kwas cytrynowy 20g/l
+- Dodatki nabłyszczające: Ni (0,25g/l), Co (0,35g/l)
+- Warunki: T = 20÷35°C, I~f~ = 0,4÷0,6 A/dm^2^.
 - Anody: ze stali kwasoodpornej, czasami ze złota.
 
-::: {style="position:absolute; left:72px; top:625px; width:366px;"}
-![](images/03/slajd_15_ilustracja_01.webp){.nostretch width="100%"}
+::: {style="position:absolute; left:72px; top:625px;"}
+![](images/03/slajd_15_ilustracja_01.webp){.nostretch height="300px"}
 :::
 
-::: {style="position:absolute; left:865px; top:625px; width:347px;"}
-![](images/03/slajd_15_ilustracja_02.webp){.nostretch width="100%"}
+::: {style="position:absolute; left:965px; top:625px;"}
+![](images/03/slajd_15_ilustracja_02.webp){.nostretch height="300px"}
 :::
 
-::: {style="position:absolute; left:458px; top:623px; width:366px;"}
-![](images/03/slajd_15_ilustracja_03.webp){.nostretch width="100%"}
+::: {style="position:absolute; left:520px; top:625px; "}
+![](images/03/slajd_15_ilustracja_03.webp){.nostretch height="300px"}
 :::
 
 ::: {style="position:absolute; left:921px; top:339px; width:466px;"}
 ![](images/03/slajd_15_ilustracja_04.webp){.nostretch width="100%"}
 :::
 
-::: {style="position:absolute; left:1408px; top:338px; width:429px;"}
+::: {style="position:absolute; left:1408px; top:339px; width:429px;"}
 ![](images/03/slajd_15_ilustracja_05.webp){.nostretch width="100%"}
 :::
 
@@ -364,19 +459,18 @@ Thomasnet, TaylorsFirearms
 <!-- Slajd 16 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
-### Powłoki galwaniczne          Złocenie
+### Powłoki galwaniczne (złocenie)
 
-::: {style="position:absolute; left:433px; top:228px; width:951px;"}
-![](images/03/slajd_16_ilustracja_01.webp){.nostretch width="100%"}
+{{< ytvideo BtdFGjWRBSM >}}
+
+::: {.footer}
+Gold Plating Services https://www.youtube.com/watch?v=EW0f3PrXdZQ
 :::
-
 
 <!-- Slajd 17 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
-### Powłoki galwaniczne
-
-### Srebrzenie
+### Powłoki galwaniczne (Srebrzenie)
 
 - Umożliwia wytworzenia powłoki o dużej odporności chemicznej i korozyjnej, z doskonałą przewodnością elektryczną i cieplną, także stykową.
 - Na podłoża aluminiowe i inne metale.
@@ -402,33 +496,29 @@ Elbit, UPRP
 :::
 
 ::: {.footer}
-marcello.iq.pl/pannonia/Galwanizacja.pdf
+https://archive.org/embed/stefansekowski/1 Sękowski Stefan - Galwanotechnika domowa
 :::
 
 
 <!-- Slajd 19 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
-### Powłoki galwaniczne
-
-(właściwości powłok)  
-Korozja elektrochemiczna (galwaniczna)  
+### Powłoki galwaniczne (właściwości powłok)  
+<u>Korozja elektrochemiczna (galwaniczna)</u>  
 Mikroogniwo na styku metali w środowisku elektrolitycznym  
-Zn jest bardziej elektroujemny od Fe (aktywny chemicznie), chroni Fe elektrochemicznie, sam ulegając korozji. Powłoka zachowuje się jak anoda (roztwarza się) - powłoka anodowa.  
+Zn jest bardziej elektroujemny od Fe (aktywny chemicznie), chroni Fe elektrochemicznie, sam ulegając korozji. Powłoka zachowuje się jak anoda (roztwarza się) - <u>powłoka anodowa</u>.  
 Ni chroni podłoże tylko mechanicznie, ale w przypadku przerwania powłoki, roztwarzaniu (korozji) ulega Fe - (Ni) powłoka katodowa. Warstwa pośrednia Cu zapewnia odporność (+0,34 V).  
 
 ::: {style="position:absolute; left:83px; top:552px; width:1742px;"}
-![](images/03/slajd_19_ilustracja_01.webp){.nostretch width="100%"}
+![](images/03/anoda_katoda_powloki_korozja.svg){.nostretch width="100%"}
 :::
 
 
 <!-- Slajd 20 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
-### Powłoki galwaniczne
-
-(właściwości powłok)  
-Naprężenia mechaniczne (własne) są przyczyną pękania powłok, odwarstwiania lub powstawania pęcherzy. Kontrolę rodzaju naprężeń prowadzi się pokrywając jednostronnie cienkie blaszki.  
+### Powłoki galwaniczne (właściwości powłok)  
+<u>Naprężenia mechaniczne</u> (własne) są przyczyną pękania powłok, odwarstwiania lub powstawania pęcherzy. Kontrolę rodzaju naprężeń prowadzi się pokrywając jednostronnie cienkie blaszki.  
 Ni, Co, Rh, Mn, Cr: naprężenia rozciągające (+)  
 Zn, Cd, Pb: naprężenia ściskające (-)  
 Rodzaj i wartości naprężeń są związane z temperaturą topnienia metalu i różnym typem krystalizacji.  
@@ -455,13 +545,14 @@ AZO Materials, Hudson Plating Works,; Whulanza Y., Mechanical Engineering 6.6 (2
 
 ### Powłoki konwersyjne
 
-Powłoki niemetalowe, nieorganiczne (najczęściej tlenki metali lub związki z resztami kwasowymi), utworzone (elektro)chemicznie z udziałem metalu podłoża. Przejście metalu ze stanu wolnego do związku, czyli konwersja (stąd nazwa), w którym jest bardziej stabilny pod względem termodynamicznym.  
+Powłoki <u>niemetalowe, nieorganiczne</u> (najczęściej tlenki metali lub związki z resztami kwasowymi), utworzone (elektro)chemicznie <u>z udziałem metalu podłoża</u>. Przejście metalu ze stanu wolnego do związku, czyli konwersja (stąd nazwa), w którym jest bardziej stabilny pod względem termodynamicznym.  
 
-Najważniejsze procesy:  
-a) anodowe utlenianie Al (elektrolityczne)  
-b) fosforanowanie stali  
-c) utlenianie stali (oksydowanie)  
-d) chromianowanie Al, Zn, Cd.  
+<u>Najważniejsze procesy:</u>  
+
+- anodowe utlenianie Al (elektrolityczne)  
+- fosforanowanie stali  
+- utlenianie stali (oksydowanie)  
+- chromianowanie Al, Zn, Cd.  
 
 
 <!-- Slajd 22 -->
@@ -469,19 +560,34 @@ d) chromianowanie Al, Zn, Cd.
 
 ### Anodowanie
 
-Wytworzenie warstwy Al2O3 na powierzchni aluminium lub jego stopu z udziałem prądu elektrycznego.  
-Przedmiot pokrywany: anoda (stąd nazwa).  
-Elektrolit: wodny roztwór kwasu siarkowego.  
-Katoda odporna chemicznie: Pb.  
-2Al3(+) + 3SO42(-) + 3H2O → Al2O3 + 3H2SO4  
-Właściwości:  
-Porowata powłoka nie spełnia funkcji zabezpieczającej przed wpływem czynników zewnętrznych.  
-Można ją nasycać barwnikami organicznymi lub nieorganicznymi (T ≈ 60÷70°C).  
-Uszczelnianie zasklepiające pory: 100°C H2O (1h) lub roztwory soli (minuty).  
-Powłoki Al2O3 są twarde, odporne na ścieranie odporne na korozję, estetyczne, kruche.  
-Parametry technologiczne procesu: U = 10÷20 V, If = 1,2÷1,5 A/dm2 , T = 18÷20°C.  
+Wytworzenie warstwy Al~2~O~3~ na powierzchni aluminium lub jego stopu z udziałem prądu elektrycznego.  
 
-### Powłoki konwersyjne
+- Przedmiot pokrywany: anoda (stąd nazwa).  
+- Elektrolit: wodny roztwór kwasu siarkowego.  
+- Katoda odporna chemicznie: Pb. 
+
+$$
+2\mathrm{Al}^{3+} + 3\mathrm{SO_4}^{2-} + 3\mathrm{H_2O}
+\longrightarrow
+\mathrm{Al_2O_3} + 3\mathrm{H_2SO_4}
+$$
+
+Właściwości:
+
+::: {.lista-zwarta}
+
+- Porowata powłoka nie spełnia funkcji zabezpieczającej przed wpływem czynników zewnętrznych.  
+- Można ją nasycać barwnikami organicznymi lub nieorganicznymi (T ≈ 60÷70°C).  
+- Uszczelnianie zasklepiające pory: 100°C H~2~O (1h) lub roztwory soli (minuty).  
+- Powłoki Al~2~O~3~ są twarde, odporne na ścieranie odporne na korozję, estetyczne, kruche.  
+- Parametry technologiczne procesu: U = 10÷20 V, I~f~ = 1,2÷1,5 A/dm^2^ , T = 18÷20°C.  
+
+:::
+
+
+## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
+
+### Anodowanie
 
 ::: {style="position:absolute; left:72px; top:278px; width:1015px;"}
 ![](images/03/slajd_22_ilustracja_01.webp){.nostretch width="100%"}
@@ -501,8 +607,8 @@ Wickwerks
 
 ### Fosforanowanie
 
-- Wytworzenie powłoki FePO4 (fosforanu żelazowego) oraz Fe2O3. (również dla Zn, Al i ich stopów)
-- Zanurzeniu elementu w roztworze H3PO4.
+- Wytworzenie powłoki FePO~4~ (fosforanu żelazowego) oraz Fe~2~O~3~. (również dla Zn, Al i ich stopów)
+- Zanurzeniu elementu w roztworze H~3~PO~4~.
 - Budowa amorficzna (g 1÷1,5μm) lub krystaliczna (g 1÷20μm).
 - Elastyczne, miękkie i dobrze związane z podłożem.
 - Porowata powłoka i nie stanowi zabezpieczenia antykorozyjnego (olejowanie, woskowanie).
@@ -512,13 +618,11 @@ Wickwerks
 - powłoki przeciwcierne
 - (blachy do przeróbki plastycznej, narzędzia, wkręty).
 
-### Powłoki konwersyjne
-
 ::: {style="position:absolute; left:1581px; top:599px; width:245px;"}
 ![](images/03/slajd_23_ilustracja_01.webp){.nostretch width="100%"}
 :::
 
-::: {style="position:absolute; left:1126px; top:501px; width:419px;"}
+::: {style="position:absolute; left:1126px; top:550px; width:419px;"}
 ![](images/03/slajd_23_ilustracja_02.webp){.nostretch width="100%"}
 :::
 
@@ -532,6 +636,8 @@ Viega, Castorama
 
 ### Oksydowanie (czernienie)
 
+::: {.lista-zwarta}
+
 - Chemiczne przekształcenie żelaza w najbardziej trwały tlenek Fe3O4 (magnetyt).
 - Proces wytwarzania:
 - W stężonych roztworach NaOH, NaNO3, NaNO2.
@@ -540,7 +646,7 @@ Viega, Castorama
 - Płukanie w ciepłym roztworze detergentów, suszenie, olejowanie lub woskowanie.
 - Zastosowanie: dekoracyjne, elementy przyrządów optycznych, broń.
 
-### Powłoki konwersyjne
+:::
 
 ::: {style="position:absolute; left:200px; top:589px; width:535px;"}
 ![](images/03/slajd_24_ilustracja_01.webp){.nostretch width="100%"}
@@ -550,8 +656,8 @@ Viega, Castorama
 ![](images/03/slajd_24_ilustracja_02.webp){.nostretch width="100%"}
 :::
 
-::: {style="position:absolute; left:1296px; top:589px; width:356px;"}
-![](images/03/slajd_24_ilustracja_03.webp){.nostretch width="100%"}
+::: {style="position:absolute; left:1296px; top:589px;"}
+![](images/03/nasadki_udarowe.webp){.nostretch height="300px"}
 :::
 
 ::: {.footer}
