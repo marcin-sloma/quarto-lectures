@@ -45,26 +45,33 @@ Powłoka to warstwa materiału <u>wytworzona lub nałożona</u> na powierzchnię
 <!-- Slajd 3 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
-Powlekanie zanurzeniowe (ogniowe)  
-metale lub stopy na podłożach metalowych (lub niemetalach)  
-temperatura topnienia powłoki < temperatura topnienia podłoża  
-Sn (232°C), Pb (327°C), Zn (419°C) i Al (660°C)  [Fe 1540°C, Cu 1083°C]  
-grubość powłoki 30 - 150 μm  
-Przykłady zastosowań  
-Zn – zabezpieczenie przed korozją drutów, blach, rur itp.  
-Sn – ścieżki PCB (HASL), lutowanie na fali, zabezpieczenia antykorozyjne w przemyśle spożywczym.  
-Al – zabezpieczenie elementów pracujących w agresywnych gazach w wysokiej temperaturze.  
-Pb – zabezpieczenie antykorozyjne elementów przed agresywnymi chemikaliami, np. H2SO4.  
+### Powlekanie zanurzeniowe (ogniowe)
+
+- metale lub stopy na podłożach metalowych (lub niemetalach)  
+- temperatura topnienia powłoki < temperatura topnienia podłoża  
+   - Sn (232°C), Pb (327°C), Zn (419°C) i Al (660°C)  [Fe 1540°C, Cu 1083°C]  
+grubość powłoki 30 - 150 μm
+
+
+Przykłady zastosowań:
+
+- Zn – zabezpieczenie przed korozją drutów, blach, rur itp.  
+- Sn – ścieżki PCB (HASL), lutowanie na fali, zabezpieczenia antykorozyjne w przemyśle spożywczym.  
+- Al – zabezpieczenie elementów pracujących w agresywnych gazach w wysokiej temperaturze.  
+- Pb – zabezpieczenie antykorozyjne elementów przed agresywnymi chemikaliami, np. H~2~SO~4~.  
 
 
 <!-- Slajd 4 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
-(proces)  
-obróbka wstępna: usuwanie zanieczyszczeń, odtłuszczanie, trawienie i płukanie,  
-zanurzenie w topniku (topnikowanie): oczyszczenie z tlenków i zapobieganie ponownemu utlenianiu, ułatwienie zwilżenia powierzchni przez ciekły metal,  
-nakładanie powłoki metalowej: zanurzenie lub przeciąganie elementów przez stopiony metal, kontrola zwilżalności pokrywanego metalu (topnik) oraz stanu powlekanej powierzchni, regulacja grubości powłoki przez zgarnianie lub zdmuchiwanie nadmiaru ciekłego metalu,  
+### Powlekanie zanurzeniowe (proces)  
+
+- obróbka wstępna: usuwanie zanieczyszczeń, odtłuszczanie, trawienie i płukanie,  
+- zanurzenie w topniku (topnikowanie): oczyszczenie z tlenków i zapobieganie ponownemu utlenianiu, ułatwienie zwilżenia powierzchni przez ciekły metal,  
+- nakładanie powłoki metalowej: zanurzenie lub przeciąganie elementów przez stopiony metal, kontrola zwilżalności pokrywanego metalu (topnik) oraz stanu powlekanej powierzchni, regulacja grubości powłoki przez - zgarnianie lub zdmuchiwanie nadmiaru ciekłego metalu,  
 obróbka końcowa (wyrównanie grubości, wygładzenie, poprawa właściwości i wyglądu – o. cieplna).  
+
+### Powlekanie zanurzeniowe (proces)  
 
 Powlekanie zanurzeniowe  
 
@@ -79,24 +86,20 @@ Powlekanie zanurzeniowe
 ![](images/04/slajd_04_ilustracja_02.webp){.nostretch width="100%"}
 :::
 
-::: {style="position:absolute; left:287px; top:224px; width:1388px;"}
-![](images/04/slajd_04_ilustracja_03.webp){.nostretch width="100%"}
-:::
-
 ::: {.footer}
 Nepean
 :::
 
+### Powlekanie zanurzeniowe (proces)  
+
+::: {style="position:absolute; left:287px; top:224px; width:1388px;"}
+![](images/04/slajd_04_ilustracja_03.webp){.nostretch width="100%"}
+:::
 
 <!-- Slajd 5 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
-### Powlekanie zanurzeniowe
-
-### (proces i charakterystyka)
-
-- 1 – faza gamma Γ  2 – faza delta δ
-- 3 – faza dzeta ζ    4 – cynk.
+### Powlekanie zanurzeniowe (proces i charakterystyka)
 
 ::: {style="position:absolute; left:72px; top:240px; width:684px;"}
 ![](images/04/slajd_05_ilustracja_01.webp){.nostretch width="100%"}
@@ -109,6 +112,9 @@ Nepean
 ::: {style="position:absolute; left:362px; top:333px; width:566px;"}
 ![](images/04/slajd_05_ilustracja_03.webp){.nostretch width="100%"}
 :::
+
+- 1 – faza gamma Γ  2 – faza delta δ
+- 3 – faza dzeta ζ    4 – cynk.
 
 
 <!-- Slajd 6 -->
@@ -137,11 +143,11 @@ Epec Engineered Technologies https://www.youtube.com/watch?v=KUP9Flhn_5o
 
 :::
 
-
 <!-- Slajd 8 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
-- Powlekanie natryskowe
+### Powlekanie natryskowe
+
 - stopienie metalu powłoki w płomieniu gazu, w łuku elektrycznym, w plazmie, …,
 - rozpylenie pneumatyczne i nadanie dużej energii kinetycznej,
 - wywarcie nacisku umożliwiające dobrą przyczepność powłoki do podłoża,
@@ -159,38 +165,40 @@ Epec Engineered Technologies https://www.youtube.com/watch?v=KUP9Flhn_5o
 Castolin, Mostostal
 :::
 
-
 <!-- Slajd 9 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
-- (proces)
+### Powlekanie natryskowe (proces)
+
 - podawanie materiału w stanie stałym lub ciekłym (proszek, drut, taśma) do strefy topienia,
 - ciągłe topienie i rozpylanie metalu sprężonym gazem (powietrze, gazy spalinowe): t ~ 10-3 s,
 - lot stopionych cząstek kulistych z dyszy w kierunku powierzchni (utlenienie powierzchniowe),
 - tworzenie powłoki: zetknięcie cząstek z powierzchnią aż do ostygnięcia powłoki.
 
-### Powlekanie natryskowe
+Rodzaje powlekania natryskowego metali:
 
-- Rodzaje powlekania natryskowego metali:
-- - płomieniowe\*
-- - detonacyjne\*
-- - naddźwiękowe (też detonacyjne)
-- - elektryczne łukowe
-- - plazmowe
-- - laserowe
+- płomieniowe\*
+- detonacyjne\*
+- naddźwiękowe (też detonacyjne)
+- elektryczne łukowe
+- plazmowe
+- laserowe
+
+:::
+
+### Powlekanie natryskowe (proces)
+
+::: {style="position:absolute; left:72px; top:200px; width:779px;"}
+![](images/04/slajd_09_ilustracja_02.webp){.nostretch width="100%"}
+:::
+
+::: {style="position:absolute; left:72px; top:483px; width:998px;"}
+![](images/04/slajd_09_ilustracja_03.webp){.nostretch width="100%"}
+:::
 
 ::: {style="position:absolute; left:1313px; top:167px; width:525px;"}
 ![](images/04/slajd_09_ilustracja_01.webp){.nostretch width="100%"}
 :::
-
-::: {style="position:absolute; left:72px; top:435px; width:779px;"}
-![](images/04/slajd_09_ilustracja_02.webp){.nostretch width="100%"}
-:::
-
-::: {style="position:absolute; left:856px; top:483px; width:998px;"}
-![](images/04/slajd_09_ilustracja_03.webp){.nostretch width="100%"}
-:::
-
 
 <!-- Slajd 10 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
@@ -233,10 +241,10 @@ PNC s.c. https://www.youtube.com/watch?v=pjSi7nSfMkc&t=24s
 
 ### Platerowanie
 
-pokrycie metalu podłoża innym metalem lub stopem przez wytworzenie nacisku na metal pokrywający np. przez walcowanie, detonację - wiązania międzyatomowe.  
-grubość powłoki zależy od grubości zastosowanego materiału i wynosi od 0,25÷3 mm,  
-platerowanie na zimno: walcowanie, tłoczenie, przeciąganie, platerowanie wybuchem,  
-platerowanie na gorąco: walcowanie, przeciąganie, wylewanie, natapianie, napawanie, spiekanie.  
+- pokrycie metalu podłoża innym metalem lub stopem przez wytworzenie nacisku na metal pokrywający np. przez walcowanie, detonację - wiązania międzyatomowe.  
+- grubość powłoki zależy od grubości zastosowanego materiału i wynosi od 0,25÷3 mm,  
+- platerowanie na zimno: walcowanie, tłoczenie, przeciąganie, platerowanie wybuchem,  
+- platerowanie na gorąco: walcowanie, przeciąganie, wylewanie, natapianie, napawanie, spiekanie.  
 
 ::: {style="position:absolute; left:202px; top:490px; width:713px;"}
 ![](images/04/slajd_13_ilustracja_01.webp){.nostretch width="100%"}
@@ -260,32 +268,48 @@ GrafEngin https://www.youtube.com/watch?v=ciCxNgROtm4&t=16s
 
 :::
 
+## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
+
+### Platerowanie DAĆ WYBUCHOWE
+
+{{< ytvideo 7ukqrMgCoT0 >}}
+
+::: {.footer}
+
+GrafEngin https://www.youtube.com/watch?v=ciCxNgROtm4&t=16s
+
+:::
+
 <!-- Slajd 15 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
 ### Powłoki naparowywane
 
-Chemiczne osadzanie z fazy gazowej CVD (Chemical Vapor Deposition)  
-Prekursor powłoki jest wprowadzany do całej objętości komory reaktora, a kontrola przepływu, stężenia, temperatury procesu i ciśnienia, zapewnia nam kontrolę nad składem powłoki. Cząstki prekursora w bliskości warstwy wierzchniej osadzają się na niej w wyniku reakcji chemicznych.  
-Fizyczne osadzanie z fazy gazowej PVD (Physical Vapor Deposition)  
-Atomy lub cząsteczki powłoki są dostarczane na powierzchnię w postaci par lub kinetycznie, w komorze reaktora będącej pod obniżonym ciśnieniem. Powłoka powstaje na powierzchni w wyniku zjawisk fizycznych.  
-naparowywanie próżniowe,  
-rozpylanie katodowe, rozpylanie magnetronowe (sputtering),  
-epitaksja z wiązek molekularnych.  
+<u>Chemiczne osadzanie z fazy gazowej CVD (Chemical Vapor Deposition)</u>
 
+Prekursor powłoki jest wprowadzany do całej objętości komory reaktora, a kontrola przepływu, stężenia, temperatury procesu i ciśnienia, zapewnia nam kontrolę nad składem powłoki. Cząstki prekursora w bliskości warstwy wierzchniej osadzają się na niej w wyniku reakcji chemicznych.
+
+<u>Fizyczne osadzanie z fazy gazowej PVD (Physical Vapor Deposition)</u>  
+
+Atomy lub cząsteczki powłoki są dostarczane na powierzchnię w postaci par lub kinetycznie, w komorze reaktora będącej pod obniżonym ciśnieniem. Powłoka powstaje na powierzchni w wyniku zjawisk fizycznych.
+
+- naparowywanie próżniowe,  
+- rozpylanie katodowe, rozpylanie magnetronowe (sputtering),  
+- epitaksja z wiązek molekularnych.  
 
 <!-- Slajd 16 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
-- Chemiczne osadzanie z fazy gazowej CVD (Chemical Vapor Deposition)
+### Powłoki naparowywane
+
+<u>Chemiczne osadzanie z fazy gazowej CVD (Chemical Vapor Deposition)</u>
+
 - wysoka temperatura podłoża zapewnia dobrą przyczepność i utworzenie litej warstwy (900÷1200°C)
 - do pokrywania narzędzi z węglików spiekanych (warstwy TiN )
 - warstwy diamentowe i diamentopodobne
 - grafen epitaksjalny
 - elementy mikroelektroniczne oraz optoelektroniczne
 - pokrycia materiałów ceramicznych.
-
-### Powłoki naparowywane
 
 ::: {style="position:absolute; left:238px; top:299px; width:1486px;"}
 ![](images/04/slajd_16_ilustracja_01.webp){.nostretch width="100%"}
@@ -295,15 +319,20 @@ epitaksja z wiązek molekularnych.
 <!-- Slajd 17 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
+### Powłoki naparowywane
+
 ### Warstwy diamentowe i diamentopodobne (CVD)
 
-warstwy diamentowe (Diamond Film) i diamentopodobne (Diamond Like Carbon)  
-nie posiadają struktury krystalicznej diamentu: struktura krystaliczna (DF) bądź amorficzna (DLC)  
-wykazują podobieństwo wielu cech do diamentu  
-amorficzne warstwy DLC są idealnie gładkie, twarde, odporne chemicznie, bardzo dobre przewodzą ciepło, są pozbawione wad związanych z granicami ziaren, charakteryzują się doskonałą adhezją do wielu gładkich podłoży  
-mogą być wytwarzane w procesach niskotemperaturowych (temperatura podłoża < 300°C)  
+<u>Warstwy diamentowe (Diamond Film) i diamentopodobne (Diamond Like Carbon)</u>
+
+- nie posiadają struktury krystalicznej diamentu: struktura krystaliczna (DF) bądź amorficzna (DLC)  
+- wykazują podobieństwo wielu cech do diamentu  
+- amorficzne warstwy DLC są idealnie gładkie, twarde, odporne chemicznie, bardzo dobre przewodzą ciepło, są pozbawione wad związanych z granicami ziaren, charakteryzują się doskonałą adhezją do wielu gładkich podłoży  
+- mogą być wytwarzane w procesach niskotemperaturowych (temperatura podłoża < 300°C)  
 
 ### Powłoki naparowywane
+
+### Warstwy diamentowe i diamentopodobne (CVD)  
 
 ::: {style="position:absolute; left:198px; top:273px; width:886px;"}
 ![](images/04/slajd_17_ilustracja_01.webp){.nostretch width="100%"}
@@ -321,48 +350,58 @@ mogą być wytwarzane w procesach niskotemperaturowych (temperatura podłoża < 
 Balzers, Mitsubishi
 :::
 
-
 <!-- Slajd 18 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
-- Fizyczne osadzanie z fazy gazowej PVD (Physical Vapor Deposition)
-- Naparowanie próżniowe
+### Powłoki naparowywane
+
+<u>Fizyczne osadzanie z fazy gazowej PVD (Physical Vapor Deposition)</u>
+&emsp; <u>Naparowanie próżniowe</u>
+
 - Na pokrywanej powierzchni następuje kondensacja materiału, podgrzanego do temperatury parowania.
 - Al 119°C (1000Pa), 660°C/2450°C
 - Cu 127°C (1000Pa), 1083°C/2595°C
 - Cr 92°C (1000Pa), 1875°C/2665°C
 - Au 117°C (1000Pa), 1063°C/2970°C
 
-### Powłoki naparowywane
-
-### 2) klosz, 4) uchwyt elementów, 5) elementy pokrywane,
-
-- 6) zasilanie elektryczne grzejnika, 7) grzejnik (łódka),
-- 8) ruchoma przesłona, 9) przewód pompy próżniowej,
-
 ::: {style="position:absolute; left:1055px; top:278px; width:783px;"}
 ![](images/04/slajd_18_ilustracja_01.webp){.nostretch width="100%"}
 :::
 
+2) klosz, 4) uchwyt elementów, 5) elementy pokrywane,
+6) zasilanie elektryczne grzejnika, 7) grzejnik (łódka),
+8) ruchoma przesłona, 9) przewód pompy próżniowej,
 
 <!-- Slajd 19 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
-Rozpylanie katodowe  
+### Powłoki naparowywane
+
+<u>Fizyczne osadzanie z fazy gazowej PVD (Physical Vapor Deposition)</u>
+&emsp; <u>Rozpylanie katodowe</u>
+
 Zjawisko parowania bądź wytrącania cząstek metalu katody pod wpływem bombardowania jonowego w rozrzedzonej atmosferze gazu szlachetnego (jarzeniowe).  
-Rozpylanie magnetronowe  
+
+&emsp; <u>Rozpylanie magnetronowe</u>
+
 Jony gazu obojętnego przyspieszane w polu magnetycznym.  
 
 Powłoki naparowywane  
 Fizyczne osadzanie z fazy gazowej PVD (Physical Vapor Deposition)  
 
+::: {style="position:absolute; left:921px; top:277px; width:917px;"}
+![](images/04/slajd_19_ilustracja_01.webp){.nostretch width="100%"}
+:::
+
 2) klosz, 4) tarcza (target), 5) katoda,  
 7) anoda (element), 10) zasilanie katody,  
 12) zasilanie anody, 13) przewód pompy próżniowej  
 
-::: {style="position:absolute; left:921px; top:277px; width:917px;"}
-![](images/04/slajd_19_ilustracja_01.webp){.nostretch width="100%"}
-:::
+## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
+
+### Powłoki naparowywane
+
+<u>Fizyczne osadzanie z fazy gazowej PVD (Physical Vapor Deposition)</u>
 
 ::: {style="position:absolute; left:300px; top:274px; width:580px;"}
 ![](images/04/slajd_19_ilustracja_02.webp){.nostretch width="100%"}
@@ -376,18 +415,18 @@ Fizyczne osadzanie z fazy gazowej PVD (Physical Vapor Deposition)
 CEI, Ferro Tech
 :::
 
-
 <!-- Slajd 20 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
-Epitaksja z wiązek molekularnych MBE (Molecular Beam Epitaxy)  
-osadzanie cienkich powłok (nanometry)  
-ściśle określony skład chemiczny i precyzyjny rozkład profilu koncentracji domieszki  
-doprowadzenie składników warstwy oddzielnymi wiązkami molekularnymi  
-w ultrawysokiej próżni (UHV) przy ciśnieniu rzędu 10Pa.  
+### Powłoki naparowywane
 
-Powłoki naparowywane  
-Fizyczne osadzanie z fazy gazowej PVD (Physical Vapor Deposition)  
+<u>Fizyczne osadzanie z fazy gazowej PVD (Physical Vapor Deposition)</u>
+&emsp; <u>Epitaksja z wiązek molekularnych MBE (Molecular Beam Epitaxy)</u>
+
+- osadzanie cienkich powłok (nanometry)  
+- ściśle określony skład chemiczny i precyzyjny rozkład profilu koncentracji domieszki  
+- doprowadzenie składników warstwy oddzielnymi wiązkami molekularnymi  
+- w ultrawysokiej próżni (UHV) przy ciśnieniu rzędu 10Pa.  
 
 ::: {style="position:absolute; left:426px; top:334px; width:966px;"}
 ![](images/04/slajd_20_ilustracja_01.webp){.nostretch width="100%"}
@@ -397,16 +436,14 @@ Fizyczne osadzanie z fazy gazowej PVD (Physical Vapor Deposition)
 Laboratoria.net
 :::
 
-
 <!-- Slajd 21 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
-(zastosowanie)  
-w optyce: przeciwodblaskowe (MgF2; CaF2) i odblaskowe (Al, Cr, Au), filtry,  
-w elektronice: przewodzące, (Al), rezystywne (Ni, Cr), dielektryczne (SiO2), magnetyczne (FeNiCo),  
-warstwy ścierne narzędzi (TiN, TiCN),  
+### Powłoki naparowywane (zastosowanie)  
 
-### Powłoki naparowywane
+- w optyce: przeciwodblaskowe (MgF~2~; CaF~2~) i odblaskowe (Al, Cr, Au), filtry,  
+- w elektronice: przewodzące, (Al), rezystywne (Ni, Cr), dielektryczne (SiO~2~), magnetyczne (FeNiCo),  
+- warstwy ścierne narzędzi (TiN, TiCN),  
 
 ::: {style="position:absolute; left:72px; top:378px; width:377px;"}
 ![](images/04/slajd_21_ilustracja_01.webp){.nostretch width="100%"}
@@ -438,33 +475,41 @@ Vacaero, Templeman Opticians, UTexas
 
 ### Nasycanie dyfuzyjne
 
-nasycanie warstwy wierzchniej metali pierwiastkami obcymi  
-w ośrodkach stałych, ciekłych lub gazowych  
-zmiany składu chemicznego, struktury i właściwości  
+- nasycanie warstwy wierzchniej metali pierwiastkami obcymi  
+- w ośrodkach stałych, ciekłych lub gazowych  
+- zmiany składu chemicznego, struktury i właściwości  
+
 Przykłady procesów: aluminiowanie, chromowanie, tytanowanie, wanadowanie, cynkowanie, nawęglanie, azotowanie, borowanie, chromoaluminiowanie, chromokrzemowanie, borochromowanie, węglotytanowanie, węgloazotowanie, węgloazototytanowanie  
+
+::: {style="text-align:center;"}
+
 Nasycanie dyfuzyjne w ośrodku ciekłym jest podobne do pokrywania zanurzeniowego – dłuższy czas umożliwia jonom dyfuzję na większą głębokość.  
+
 Stężenie jonów do 50 % w warstwie o grubości poniżej 1 mm. Im bliżej powierzchni tym stężenie jest większe, aż do pełnego pokrycia metalem powłoki w przypadku stosowania ośrodków ciekłych.  
 
+:::
 
 <!-- Slajd 23 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
-(przykłady)  
-Aluminiowanie  
-stałe: proszek Al, Al2O3, żelazoglin, kaolin; 850÷1050°C; azot, wodór; t = 1÷10 h (rozmiar elementów)  
+### Nasycanie dyfuzyjne (przykłady)  
+<u>Aluminiowanie</u>  
+stałe: proszek Al, Al~2~O~3~, żelazoglin, kaolin; 850÷1050°C; azot, wodór; t = 1÷10 h (rozmiar elementów)  
 ciekłe: 92÷94 % Al i 6÷8 % Fe; 750÷800°C; t = 0,5÷1h,  
-gazowe: proszek Al, Al2O3, chlorek amonu; 900÷1050°C; azot, wodór; t = 2 h.  
-Chromowanie  
+gazowe: proszek Al, Al~2~O~3~, chlorek amonu; 900÷1050°C; azot, wodór; t = 2 h.  
+<u>Chromowanie</u>  
 stałe: żelazochrom lub chrom, chlorek amonowy, piasek kwarcowy, kaolin; 950°C,  
 ciekłe: chlorek chromu, chlorek sodu i żelazochrom; 950÷1000°C,  
 gazowe: chlorek chromu; 950÷1000°C.  
-Chromoaluminiowanie  
+<u>Chromoaluminiowanie</u>  
 stałe: aluminium, żelazochrom; argon, azot lub wodór; 950÷1000°C; 5÷10 h,  
 gazowe: halogenki chromu i glinu; argon, azot lub wodór; 950÷1000°C; 5÷10 h.  
-Azotowanie: gazowe (amoniak, 10÷130 h, 550°C); twardość, odporności na korozję; azotki metali (Fe4N).  
-Nawęglanie: dla stali niskowęglowej (<0,25%), zwiększenie twardość zachowując elastyczny rdzeń. Zawartość węgla do 1÷1,3% (0,5÷2 mm); proszkowe, gazowe, ciekłe, 950°C, 10 h, konieczne hartowanie.  
+<u>Azotowanie</u>: gazowe (amoniak, 10÷130 h, 550°C); twardość, odporności na korozję; azotki metali (Fe4N).  
+<u>Nawęglanie</u>: dla stali niskowęglowej (<0,25%), zwiększenie twardość zachowując elastyczny rdzeń. Zawartość węgla do 1÷1,3% (0,5÷2 mm); proszkowe, gazowe, ciekłe, 950°C, 10 h, konieczne hartowanie.  
 
-### Nasycanie dyfuzyjne
+## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
+
+### Nasycanie dyfuzyjne (przykłady)  
 
 ::: {style="position:absolute; left:400px; top:224px; width:1055px;"}
 ![](images/04/slajd_23_ilustracja_01.webp){.nostretch width="100%"}
@@ -474,10 +519,12 @@ Nawęglanie: dla stali niskowęglowej (<0,25%), zwiększenie twardość zachowuj
 <!-- Slajd 24 -->
 ## [QUIZ]{style="display:block; text-align:center;"}
 
+::: {.incremental}
+
 - Jak przeprowadza się powlekanie zanurzeniowe (ogniowe) elementów metalowych?
 - Jak przeprowadza się powlekanie natryskowe stopionymi proszkami metali?
 - W jaki sposób prowadzi się nasycanie dyfuzyjne?
 - W jakim celu obniża się ciśnienie atmosferyczne w procesach naparowania?
 - W jaki sposób wytwarza się warstwy węglowe, diamentowe, diamentopodobne i grafen na metalach?
 
-
+:::
