@@ -244,7 +244,9 @@ $k$ – równoważnik elektrochemiczny $[\mathrm{g}\cdot\mathrm{h}^{-1}\cdot\mat
 - [Temperatura elektrolitu $T$]{.fragment data-fragment-index="2"}
 - [Gęstość prądu $I_f$]{.fragment data-fragment-index="3"}
 - [Czas trwania procesu $t$]{.fragment data-fragment-index="4"}
-- [Materiał anody]{.fragment data-fragment-index="5"}
+- ::: {.fragment data-fragment-index="5"}
+  Materiał anody <span style="color:lightgray;">(*lub skład elektrolitu - jony metalu*)</span>
+  :::
 
 ::::
 
@@ -429,7 +431,7 @@ HydroFlex
 
 Przykład elektrolitu do złocenia (pozłacania):
 
-- K[Au(CN)2] cyjanozłocian potasowy lub cyjanek złotawo-potasowy 10g/l
+- K[Au(CN)~2~] cyjanozłocian potasowy lub cyjanek złotawo-potasowy 10g/l
 - C~6~H~8~O~7~ kwas cytrynowy 20g/l
 - Dodatki nabłyszczające: Ni (0,25g/l), Co (0,35g/l)
 - Warunki: T = 20÷35°C, I~f~ = 0,4÷0,6 A/dm^2^.
@@ -505,9 +507,10 @@ https://archive.org/embed/stefansekowski/1 Sękowski Stefan - Galwanotechnika do
 
 ### Powłoki galwaniczne (właściwości powłok)  
 <u>Korozja elektrochemiczna (galwaniczna)</u>  
-Mikroogniwo na styku metali w środowisku elektrolitycznym  
-Zn jest bardziej elektroujemny od Fe (aktywny chemicznie), chroni Fe elektrochemicznie, sam ulegając korozji. Powłoka zachowuje się jak anoda (roztwarza się) - <u>powłoka anodowa</u>.  
-Ni chroni podłoże tylko mechanicznie, ale w przypadku przerwania powłoki, roztwarzaniu (korozji) ulega Fe - (Ni) powłoka katodowa. Warstwa pośrednia Cu zapewnia odporność (+0,34 V).  
+
+- Mikroogniwo na styku metali w środowisku elektrolitycznym  
+- Zn jest bardziej elektroujemny od Fe (aktywny chemicznie), chroni Fe elektrochemicznie, sam ulegając korozji. Powłoka zachowuje się jak anoda (roztwarza się) - <u>powłoka anodowa</u>.  
+- Ni chroni podłoże tylko mechanicznie, ale w przypadku przerwania powłoki, roztwarzaniu (korozji) ulega Fe - (Ni) powłoka katodowa. Warstwa pośrednia Cu zapewnia odporność (+0,34 V).  
 
 ::: {style="position:absolute; left:83px; top:552px; width:1742px;"}
 ![](images/03/anoda_katoda_powloki_korozja.svg){.nostretch width="100%"}
@@ -638,18 +641,18 @@ Viega, Castorama
 
 ::: {.lista-zwarta}
 
-- Chemiczne przekształcenie żelaza w najbardziej trwały tlenek Fe3O4 (magnetyt).
+- Chemiczne przekształcenie żelaza w najbardziej trwały tlenek Fe~3~O~4~ (magnetyt).
 - Proces wytwarzania:
-- W stężonych roztworach NaOH, NaNO3, NaNO2.
+- W stężonych roztworach NaOH, NaNO~3~, NaNO~2~.
 - Przygotowanie: odtłuszczanie, trawienie
 - Utlenianie chemiczne
 - Płukanie w ciepłym roztworze detergentów, suszenie, olejowanie lub woskowanie.
-- Zastosowanie: dekoracyjne, elementy przyrządów optycznych, broń.
+- Zastosowanie: dekoracyjne, elementy przyrządów optycznych, broń, narzędzia.
 
 :::
 
 ::: {style="position:absolute; left:200px; top:589px; width:535px;"}
-![](images/03/slajd_24_ilustracja_01.webp){.nostretch width="100%"}
+![](images/03/brytfanna_czerniona.webp){.nostretch width="100%"}
 :::
 
 ::: {style="position:absolute; left:761px; top:590px; width:535px;"}
@@ -661,7 +664,7 @@ Viega, Castorama
 :::
 
 ::: {.footer}
-ExBake, Browning, Kipp
+Lodge, Browning, Beta
 :::
 
 
@@ -670,15 +673,17 @@ ExBake, Browning, Kipp
 
 ### Chromianowanie
 
+::: {.lista-zwarta}
+
 - Pasywna powłoka tlenków Cr na detalach metalowych.
 - Znacznie poprawia odporność na korozję, zachowując wytrzymałość mechaniczną i termiczną.
 - Na elementy Zn, Cd, Cu, Ag, Mg, Al i wybrane stopy tych metali.
 - Grubość 0,1÷1 μm.
 - Przed wysuszeniem (po procesie) jest porowata.
-- Roztwory CrO3 + Na2SO4 + H2O, temperatura pokojowa, kilka minut.
+- Roztwory CrO~3~ + Na~2~SO~4~ + H~2~O, temperatura pokojowa, kilka minut.
 - Zastosowanie: ochronne i dekoracyjne (barwienie), podkład pod powłoki malarskie.
 
-### Powłoki konwersyjne
+:::
 
 ::: {style="position:absolute; left:448px; top:591px; width:600px;"}
 ![](images/03/slajd_25_ilustracja_01.webp){.nostretch width="100%"}
@@ -696,38 +701,13 @@ ECM
 <!-- Slajd 26 -->
 ## [QUIZ]{style="display:block; text-align:center;"}
 
+::: {.incremental}
+
 - Podobieństwa i różnice polerowania i powlekania elektrochemicznego.
 - Jakie zjawiska zachodzą w trawieniu i miedziowaniu elektrochemicznym?
 - Podczas procesu galwanostegii (lub galwanoplastyki) można prowadzić trawienie elektrochemiczne?
 - Czy w chromowaniu technicznym elementów wytwarzamy twardą warstwę tlenku chromu?
 - Kiedy i dla jakich materiałów można prowadzić proces utleniania?
 
-::: {.footer}
-mars@mchtr.pw.edu.pl
-:::
-
-
-<!-- Slajd 27 -->
-## [DODATEK]{style="display:block; text-align:center;"}
-
-- Projekt systemu kontroli dozowania antybiotyków w kroplach do oczu
-- rejestracja dozowania kropli
-- (otwarcie, przechylenie, …)
-- okres kuracji - miesiąc
-- przechowywanie w lodówce
-- wiek pacjentów 20-80
-- termin realizacji 2020
-- budżet minimalny ale jakiś jest
-
-::: {style="position:absolute; left:999px; top:335px; width:397px;"}
-![](images/03/slajd_27_ilustracja_01.webp){.nostretch width="100%"}
-:::
-
-::: {style="position:absolute; left:1416px; top:335px; width:424px;"}
-![](images/03/slajd_27_ilustracja_02.webp){.nostretch width="100%"}
-:::
-
-::: {style="position:absolute; left:831px; top:477px; width:148px;"}
-![](images/03/slajd_27_ilustracja_03.webp){.nostretch width="100%"}
 :::
 
