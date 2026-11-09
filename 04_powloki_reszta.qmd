@@ -197,21 +197,21 @@ Castolin, Mostostal
 
 ### Powlekanie natryskowe (proces)
 
-:::: {.columns style="display:flex; width:100%; gap:20px; align-items:center;"}
+<!-- LEWY FILM -->
 
-::: {.column style="flex:1; min-width:0;"}
+::: {style="position:absolute; left:-90px; top:200px; width:1200px;"}
 {{< ytvideo LM9xhTxRx4M >}}
 :::
 
-::: {.column style="flex:1; min-width:0;"}
+<!-- PRAWY FILM -->
+
+::: {style="position:absolute; left:860px; top:200px; width:1200px;"}
 {{< ytvideo hlwTHuOJ3oE >}}
 :::
 
-::::
-
 ::: {.footer}
 
-marekd70 https://www.youtube.com/watch?v=o_9bIGInAPw Plasma Nowa https://www.youtube.com/watch?v=4xfmsXHYtrg&t=52s
+marekd70 https://www.youtube.com/watch?v=o_9bIGInAPw &emsp; Plasma Nowa https://www.youtube.com/watch?v=4xfmsXHYtrg&t=52s
 
 :::
 
