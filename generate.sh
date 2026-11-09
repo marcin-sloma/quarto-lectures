@@ -2,7 +2,7 @@
 set -euo pipefail
 
 cd "$(dirname "$0")"
-NAME=$(<aktualne)
+NAME=$(<_aktualne)
 
 echo "=== 1. Przygotowanie miniaturek YouTube ==="
 python3 download-thumbnails.py

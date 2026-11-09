@@ -3,7 +3,7 @@
 set -euo pipefail
 
 cd "$(dirname "$0")"
-NAME=$(<aktualne)
+NAME=$(<_aktualne)
 
 quarto preview "${NAME}.qmd" \
   --to revealjs \
