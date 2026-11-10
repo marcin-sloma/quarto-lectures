@@ -337,8 +337,6 @@ Atomy lub cząsteczki powłoki są dostarczane na powierzchnię w postaci par lu
 
 ### Powłoki naparowywane
 
-### Warstwy diamentowe i diamentopodobne (CVD)
-
 <u>Warstwy diamentowe (Diamond Film) i diamentopodobne (Diamond Like Carbon)</u>
 
 - nie posiadają struktury krystalicznej diamentu: struktura krystaliczna (DF) bądź amorficzna (DLC)  
@@ -350,7 +348,7 @@ Atomy lub cząsteczki powłoki są dostarczane na powierzchnię w postaci par lu
 
 ### Powłoki naparowywane
 
-### Warstwy diamentowe i diamentopodobne (CVD)  
+<u>Warstwy diamentowe (Diamond Film) i diamentopodobne (Diamond Like Carbon)</u>
 
 ::: {style="position:absolute; left:198px; top:273px; width:886px;"}
 ![](images/04/slajd_17_ilustracja_01.webp){.nostretch width="100%"}
