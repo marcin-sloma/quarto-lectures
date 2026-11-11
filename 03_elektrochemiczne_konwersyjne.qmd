@@ -629,6 +629,8 @@ Wickwerks
 ![](images/03/slajd_23_ilustracja_02.webp){.nostretch width="100%"}
 :::
 
+<small>*Breaking Taps, Low-tech coating is a microscopic marvel* <a href="https://www.youtube.com/watch?v=O0-6g6NJMmE" >https://www.youtube.com/watch?v=O0-6g6NJMmE</a></small>
+
 ::: {.footer}
 Viega, Castorama
 :::
@@ -651,7 +653,7 @@ Viega, Castorama
 
 :::
 
-:::: {style="--img-height:340px; display:flex; position:relative;left:50%; transform:translateX(-50%); width:max-content; max-width:none; align-items:center; gap:10px;  z-index:-1; margin-bottom:-50px; top:-50px; "}
+:::: {style="--img-height:400px; display:flex; position:relative;left:50%; transform:translateX(-50%); width:max-content; max-width:none; align-items:center; gap:10px;  z-index:-1; margin-bottom:-50px; top:-50px; "}
 
 ::: {style="flex:0 0 auto; margin:0;"}
 ![](images/03/brytfanna_czerniona.webp){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
@@ -666,8 +668,6 @@ Viega, Castorama
 :::
 
 ::::
-
-<small>*Breaking Taps, Low-tech coating is a microscopic marvel* <a href="https://www.youtube.com/watch?v=O0-6g6NJMmE" >https://www.youtube.com/watch?v=O0-6g6NJMmE</a></small>
 
 ::: {.footer}
 Lodge, Browning, Beta
@@ -691,13 +691,17 @@ Lodge, Browning, Beta
 
 :::
 
-::: {style="position:absolute; left:448px; top:591px; width:600px;"}
-![](images/03/slajd_25_ilustracja_01.webp){.nostretch width="100%"}
+:::: {style="--img-height:400px; display:flex; position:relative;left:50%; transform:translateX(-50%); width:max-content; max-width:none; align-items:center; gap:10px;  z-index:-1; margin-bottom:-50px; top:-30px; "}
+
+::: {style="flex:0 0 auto; margin:0;"}
+![](images/03/slajd_25_ilustracja_01.webp){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
 :::
 
-::: {style="position:absolute; left:1072px; top:591px; width:357px;"}
-![](images/03/slajd_25_ilustracja_02.webp){.nostretch width="100%"}
+::: {style="flex:0 0 auto; margin:0;"}
+![](images/03/slajd_25_ilustracja_02.webp){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
 :::
+
+::::
 
 ::: {.footer}
 ECM
