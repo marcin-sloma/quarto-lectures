@@ -12,7 +12,7 @@ ids = set()
 for qmd in root.glob("*.qmd"):
     text = qmd.read_text(encoding="utf-8")
     ids.update(re.findall(
-        r"\{\{<\s*ytvideo\s+([A-Za-z0-9_-]{11})\s*>\}\}",
+        r"\{\{<\s*ytvideo\s+([A-Za-z0-9_-]{11})(?:\s+[^>]*)?\s*>\}\}",
         text
     ))
 

@@ -17,6 +17,35 @@ return {
     local video_id = html_escape(id)
     local url = "https://www.youtube.com/watch?v=" .. video_id
 
+    -- NOWE: parametry początku i końca odtwarzania
+    local start_time = tonumber(pandoc.utils.stringify(args[2] or ""))
+    local end_time = tonumber(pandoc.utils.stringify(args[3] or ""))
+
+    if start_time and (start_time < 0 or start_time ~= math.floor(start_time)) then
+      error("Start time must be a non-negative integer")
+    end
+
+    if end_time and (end_time < 0 or end_time ~= math.floor(end_time)) then
+      error("End time must be a non-negative integer")
+    end
+
+    if start_time and end_time and end_time <= start_time then
+      error("End time must be greater than start time")
+    end
+
+    -- NOWE: budowanie parametrów YouTube
+    local params = {"mute=1", "cc_load_policy=0"}
+
+    if start_time then
+      table.insert(params, "start=" .. start_time)
+    end
+
+    if end_time then
+      table.insert(params, "end=" .. end_time)
+    end
+
+    local player_params = table.concat(params, "&")
+
     local html = string.format([[
 <div class="yt-adaptive"
      style="width:85%%;margin:auto;position:relative;
@@ -62,7 +91,7 @@ return {
   const player = container.querySelector(".yt-player");
   const thumbnail = container.querySelector(".yt-thumbnail");
 
-    // Próba przywrócenia fokusu prezentacji po kliknięciu YouTube
+  // Próba przywrócenia fokusu prezentacji po kliknięciu YouTube
   window.addEventListener("blur", function() {
     if (document.activeElement === player) {
       player.blur();
@@ -74,15 +103,14 @@ return {
     player.remove();
     thumbnail.style.display = "block";
   } else {
+    // ZMIENIONE: parametry start i end przekazywane do YouTube
     player.src = "https://www.youtube.com/embed/" +
-             player.dataset.videoId + "?mute=1&cc_load_policy=0";
+             player.dataset.videoId + "?%s";
   }
 })();
 </script>
 
-
-
-]], html_escape(url), video_id, video_id)
+]], html_escape(url), video_id, video_id, player_params)
 
     return pandoc.RawBlock("html", html)
   end

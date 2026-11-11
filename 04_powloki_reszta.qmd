@@ -76,20 +76,22 @@ Przykłady zastosowań:
 
 ### Powlekanie zanurzeniowe (proces)  
 
-:::: {style="--img-height:650px; display:flex; position:relative; left:50%; transform:translateX(-50%); width:max-content; max-width:none; align-items:center; gap:10px;"}
-
-::: {style="flex:0 0 auto; margin:0;"}
-![](images/04/powlekanie_blach.svg){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
-:::
+:::: {style="--img-height:650px; display:flex; position:relative; left:50%; transform:translateX(-50%); width:max-content; max-width:none; align-items:center; gap:70px;"}
 
 ::: {style="flex:0 0 auto; margin:0;"}
 ![](images/04/slajd_04_ilustracja_02.webp){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
 :::
 
+::: {style="flex:0 0 auto; margin:0;"}
+![](images/04/powlekanie_blach.svg){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
+:::
+
 ::::
 
+::: {style="text-align:right;  width:100%;"}
 1 – walec kierujący blachę, 2 – topnik,  
-3 – stopiona cyna, 4 – olej chłodzący.  
+3 – stopiona cyna, 4 – olej chłodzący
+:::
 
 ::: {.footer}
 Nepean
@@ -99,7 +101,7 @@ Nepean
 
 ### Powlekanie zanurzeniowe (proces)  
 
-::: {style="position:relative; left:40px; top:1px; width:1700px;"}
+::: {style="position:relative; left:40px; top:-20px; width:1700px;"}
 ![](images/04/powlekanie_ciagle.webp){.nostretch width="100%"}
 :::
 
@@ -110,20 +112,24 @@ Schemat typowej linii ciągłego cynkowania zanurzeniowego: 1 i 20-rozwijarki, 2
 
 ### Powlekanie zanurzeniowe (proces i charakterystyka)
 
-::: {style="position:absolute; left:72px; top:240px; width:684px;"}
-![](images/04/slajd_05_ilustracja_01.webp){.nostretch width="100%"}
+:::: {style="--img-height:640px; display:flex; position:relative; left:50%; transform:translateX(-50%); width:max-content; max-width:none; align-items:center; gap:10px;"}
+
+::: {style="flex:0 0 auto; margin:0;"}
+![](images/04/slajd_05_ilustracja_01.webp){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
 :::
 
-::: {style="position:absolute; left:953px; top:240px; width:888px;"}
-![](images/04/slajd_05_ilustracja_02.webp){.nostretch width="100%"}
+::: {style="flex:0 0 auto; margin:0;"}
+![](images/04/slajd_05_ilustracja_03.webp){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
 :::
 
-::: {style="position:absolute; left:362px; top:333px; width:566px;"}
-![](images/04/slajd_05_ilustracja_03.webp){.nostretch width="100%"}
+::: {style="flex:0 0 auto; margin:0;"}
+![](images/04/fazowy_Fe-Zn.webp){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
 :::
 
-- 1 – faza gamma Γ  2 – faza delta δ
-- 3 – faza dzeta ζ    4 – cynk.
+::::
+
+
+1 – faza gamma Γ &emsp; 2 – faza delta δ &emsp; 3 – faza dzeta ζ &emsp; 4 – cynk
 
 
 <!-- Slajd 6 -->
@@ -131,7 +137,7 @@ Schemat typowej linii ciągłego cynkowania zanurzeniowego: 1 i 20-rozwijarki, 2
 
 ### Powlekanie zanurzeniowe (proces)
 
-{{< ytvideo 2DQkHST6QLc >}}
+{{< ytvideo 2DQkHST6QLc 1 153 >}}
 
 ::: {.footer}
 
@@ -197,16 +203,20 @@ Rodzaje powlekania natryskowego metali:
 
 ### Powlekanie natryskowe (proces)
 
-::: {style="position:absolute; left:72px; top:200px; width:779px;"}
-![](images/04/slajd_09_ilustracja_02.webp){.nostretch width="100%"}
+
+::: {style="display:flex; gap:100px; align-items:flex-start; width:1600px; margin-inline:auto;"}
+
+::: {style="flex:3; min-width:0;"}
+
+![](images/04/powlekanie_natryskowe_gazowe.webp){.nostretch width="100%" style="display:block; margin:0;"}
+
+![](images/04/powlekanie_natryskowe_wybuchowe.webp){.nostretch width="100%" style="display:block; margin:0;"}
 :::
 
-::: {style="position:absolute; left:72px; top:483px; width:998px;"}
-![](images/04/slajd_09_ilustracja_03.webp){.nostretch width="100%"}
+::: {style="flex:2; min-width:0;"}
+![](images/04/natrysk_schemat_krople_metalu.webp){.nostretch width="100%"}
 :::
 
-::: {style="position:absolute; left:1313px; top:167px; width:525px;"}
-![](images/04/slajd_09_ilustracja_01.webp){.nostretch width="100%"}
 :::
 
 <!-- Slajd 10 -->
@@ -237,55 +247,63 @@ marekd70 https://www.youtube.com/watch?v=o_9bIGInAPw &emsp; Plasma Nowa https://
 
 ### Powlekanie natryskowe (proces)
 
+::: {style="position:absolute; left:-90px; top:200px; width:1200px;"}
 {{< ytvideo qEY8UNI3U4M >}}
+:::
+
+<!-- PRAWY FILM -->
+
+::: {style="position:absolute; left:860px; top:200px; width:1200px;"}
+{{< ytvideo 34UHs2Mgr70 >}}
+:::
 
 ::: {.footer}
 
-PNC s.c. https://www.youtube.com/watch?v=pjSi7nSfMkc&t=24s
+PNC s.c. https://www.youtube.com/watch?v=pjSi7nSfMkc&t=24s  &emsp; VIRT https://www.youtube.com/watch?v=LhN2PUJw_fo
 
 :::
 
 <!-- Slajd 13 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
-### Platerowanie
+### Platerowanie (*cladding*)
 
-- pokrycie metalu podłoża innym metalem lub stopem przez wytworzenie nacisku na metal pokrywający np. przez walcowanie, detonację - wiązania międzyatomowe.  
-- grubość powłoki zależy od grubości zastosowanego materiału i wynosi od 0,25÷3 mm,  
-- platerowanie na zimno: walcowanie, tłoczenie, przeciąganie, platerowanie wybuchem,  
-- platerowanie na gorąco: walcowanie, przeciąganie, wylewanie, natapianie, napawanie, spiekanie.  
+Trwałe łączenie materiału podłoża (metalu lub polimeru) z warstwą powłokową (folią lub arkuszem metalu/stopu) bez użycia prądu elektrycznego. Połączenie powstaje przez wywarcie silnego nacisku (np. walcowanie, detonacja) i utworzenie trwałych wiązań międzyatomowych (metalurgicznych lub adhezyjnych).
 
-::: {style="position:absolute; left:202px; top:490px; width:713px;"}
-![](images/04/slajd_13_ilustracja_01.webp){.nostretch width="100%"}
-:::
-
-::: {style="position:absolute; left:959px; top:490px; width:750px;"}
-![](images/04/slajd_13_ilustracja_02.webp){.nostretch width="100%"}
-:::
+- Grubość powłoki: Zależy od grubości użytego materiału i wynosi zazwyczaj od 0,25 do 3 mm (znacznie więcej niż w galwanotechnice).
+- Platerowanie na zimno: Walcowanie, tłoczenie, przeciąganie, platerowanie wybuchem oraz bębnowe platerowanie kuleczkowe.
+- Platerowanie na gorąco: Walcowanie, przeciąganie, wylewanie, natapianie, napawanie, spiekanie (zgrzewanie dyfuzyjne) oraz laminowanie termiczne (np. folie metalowe na podłożach polimerowych).
+- Główne zalety: Możliwość łączenia niekompatybilnych materiałów (np. stal–tytan, miedź–polimer), brak kruchości wodorowej oraz wysoka odporność powłok.
 
 
-<!-- Slajd 14 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
 ### Platerowanie
 
-{{< ytvideo 7ukqrMgCoT0 >}}
+::: {style="display:flex; gap:10px; align-items:flex-start; width:1900px; margin-inline:auto;"}
 
-::: {.footer}
+::: {style="flex:1; min-width:0;"}
 
-GrafEngin https://www.youtube.com/watch?v=ciCxNgROtm4&t=16s
+{{< ytvideo 3wpiKVYpE_8 11 71 >}}
+
+::: {style="width:700px; "}
+{{< ytvideo ymXid7CUvjk 1 >}} 
+:::
 
 :::
 
-## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
-
-### Platerowanie DAĆ WYBUCHOWE
+::: {style="flex:1; min-width:0;"}
 
 {{< ytvideo 7ukqrMgCoT0 >}}
 
+![](images/04/platerowanie_wybuchowe.webp){.nostretch width="100%" style="display:block; margin:0 0 0 -100px;"}
+:::
+
+:::
+
 ::: {.footer}
 
-GrafEngin https://www.youtube.com/watch?v=ciCxNgROtm4&t=16s
+<small>GrafEngin https://www.youtube.com/watch?v=ciCxNgROtm4&t=16s  &emsp;  NobelClad https://www.youtube.com/watch?v=u9_bqafUJfA&t=28s  &emsp;  ADTW Study https://www.youtube.com/watch?v=d87dd5T2yYg&t</small>
 
 :::
 
@@ -329,7 +347,7 @@ Atomy lub cząsteczki powłoki są dostarczane na powierzchnię w postaci par lu
 <u>Chemiczne osadzanie z fazy gazowej CVD (Chemical Vapor Deposition)</u>
 
 ::: {style="position:absolute; left:238px; top:299px; width:1486px;"}
-![](images/04/slajd_16_ilustracja_01.webp){.nostretch width="100%"}
+![](images/04/cvd_schemat.webp){.nostretch width="100%"}
 :::
 
 <!-- Slajd 17 -->
@@ -350,17 +368,21 @@ Atomy lub cząsteczki powłoki są dostarczane na powierzchnię w postaci par lu
 
 <u>Warstwy diamentowe (Diamond Film) i diamentopodobne (Diamond Like Carbon)</u>
 
-::: {style="position:absolute; left:198px; top:273px; width:886px;"}
-![](images/04/slajd_17_ilustracja_01.webp){.nostretch width="100%"}
+:::: {style="--img-height:540px; display:flex; position:relative; align-items:center; justify-content:center; gap:10px;"}
+
+::: {style="flex:0 0 auto; margin:0;"}
+![](images/04/cvd_diamondlike_schemat.webp){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
 :::
 
-::: {style="position:absolute; left:1116px; top:273px; width:633px;"}
-![](images/04/slajd_17_ilustracja_02.webp){.nostretch width="100%"}
+::: {style="flex:0 0 auto; margin:0;"}
+![](images/04/slajd_17_ilustracja_02.webp){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
 :::
 
-::: {style="position:absolute; left:535px; top:273px; width:866px;"}
-![](images/04/slajd_17_ilustracja_03.webp){.nostretch width="100%"}
+::: {style="flex:0 0 auto; margin:0;"}
+![](images/04/slajd_17_ilustracja_03.webp){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
 :::
+
+::::
 
 ::: {.footer}
 Balzers, Mitsubishi
@@ -385,9 +407,10 @@ Balzers, Mitsubishi
 ![](images/04/slajd_18_ilustracja_01.webp){.nostretch width="100%"}
 :::
 
-2) klosz, 4) uchwyt elementów, 5) elementy pokrywane,
-6) zasilanie elektryczne grzejnika, 7) grzejnik (łódka),
-8) ruchoma przesłona, 9) przewód pompy próżniowej,
+2. klosz, 4. uchwyt elementów, 5. elementy pokrywane,
+6. zasilanie elektryczne grzejnika, 7. grzejnik (łódka),
+8. ruchoma przesłona, 9. przewód pompy próżniowej,
+
 
 <!-- Slajd 19 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
@@ -402,18 +425,16 @@ Zjawisko parowania bądź wytrącania cząstek metalu katody pod wpływem bombar
 
 &emsp; <u>Rozpylanie magnetronowe</u>
 
-Jony gazu obojętnego przyspieszane w polu magnetycznym.  
+Jony gazu obojętnego przyspieszane w polu magnetycznym
 
-Powłoki naparowywane  
-Fizyczne osadzanie z fazy gazowej PVD (Physical Vapor Deposition)  
-
-::: {style="position:absolute; left:921px; top:377px; width:917px;"}
+::: {style="position:absolute; left:1000px; top:350px; width:917px;"}
 ![](images/04/slajd_19_ilustracja_01.webp){.nostretch width="100%"}
 :::
 
-2) klosz, 4) tarcza (target), 5) katoda,  
-7) anoda (element), 10) zasilanie katody,  
-12) zasilanie anody, 13) przewód pompy próżniowej  
+ 2. klosz, 4. tarcza (target), 5. katoda,
+ 7. anoda (element), 10. zasilanie katody,
+ 12. zasilanie anody, 13. przewód pompy próżniowej
+
 
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
@@ -421,18 +442,12 @@ Fizyczne osadzanie z fazy gazowej PVD (Physical Vapor Deposition)
 
 <u>Fizyczne osadzanie z fazy gazowej PVD (Physical Vapor Deposition)</u>
 
-<u>Rozpylanie katodowe</u> &emsp; <u>Rozpylanie magnetronowe</u>
+<u>Rozpylanie katodowe, Rozpylanie magnetronowe</u>
 
-::: {style="position:absolute; left:300px; top:274px; width:580px;"}
-![](images/04/slajd_19_ilustracja_02.webp){.nostretch width="100%"}
-:::
-
-::: {style="position:absolute; left:895px; top:274px; width:735px;"}
-![](images/04/slajd_19_ilustracja_03.webp){.nostretch width="100%"}
-:::
+![](images/04/sputtering.webp){.nostretch height="700px" style="display:block; width:auto; max-width:none; margin:0 auto;"}
 
 ::: {.footer}
-CEI, Ferro Tech
+Kintech
 :::
 
 <!-- Slajd 20 -->
@@ -444,47 +459,62 @@ CEI, Ferro Tech
 
 &emsp; <u>Epitaksja z wiązek molekularnych MBE (Molecular Beam Epitaxy)</u>
 
+::: {style="position:absolute; left:926px; top:250px; width:966px; z-index:-1;"}
+![](images/04/efuzyjne_pvd.webp){.nostretch width="100%"}
+:::
+
+- składniki nakładane oddzielnymi wiązkami molekularnymi  
 - osadzanie cienkich powłok (nanometry)  
-- ściśle określony skład chemiczny i precyzyjny rozkład profilu koncentracji domieszki  
-- doprowadzenie składników warstwy oddzielnymi wiązkami molekularnymi  
-- w ultrawysokiej próżni (UHV) przy ciśnieniu rzędu 10Pa.  
-
-::: {style="position:absolute; left:426px; top:334px; width:966px;"}
-![](images/04/slajd_20_ilustracja_01.webp){.nostretch width="100%"}
-:::
-
-::: {.footer}
-Laboratoria.net
-:::
+- ściśle określony skład chemiczny
+- precyzyjny rozkład profilu koncentracji domieszki  
+- w ultrawysokiej próżni (UHV) ~10Pa.  
 
 <!-- Slajd 21 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
 ### Powłoki naparowywane (zastosowanie)  
 
+::: {.lista-zwarta}
 - w optyce: przeciwodblaskowe (MgF~2~, CaF~2~) i odblaskowe (Al, Cr, Au), filtry,  
 - w elektronice: przewodzące, (Al), rezystywne (Ni, Cr), dielektryczne (SiO~2~), magnetyczne (FeNiCo),  
 - warstwy ścierne narzędzi (TiN, TiCN),  
-
-::: {style="position:absolute; left:72px; top:378px; width:377px;"}
-![](images/04/slajd_21_ilustracja_01.webp){.nostretch width="100%"}
 :::
 
-::: {style="position:absolute; left:264px; top:719px; width:709px;"}
-![](images/04/slajd_21_ilustracja_02.webp){.nostretch width="100%"}
+:::: {style="display:flex; flex-direction:column; gap:0; width:1800px; margin:-30px auto 0;"}
+
+::: {style="display:flex; gap:0; align-items:stretch;"}
+
+::: {style="--img-height:350px; flex:1; min-width:0; display:flex; gap:0;"}
+
+::: {style="flex:1; min-width:0; display:flex; align-items:center;"}
+![](images/04/slajd_21_ilustracja_01.webp){.nostretch style="height:var(--img-height); width:auto; margin:0;"}
 :::
 
-::: {style="position:absolute; left:469px; top:375px; width:521px;"}
-![](images/04/slajd_21_ilustracja_03.webp){.nostretch width="100%"}
+::: {style="flex:1; min-width:0; display:flex; align-items:center;"}
+![](images/04/slajd_21_ilustracja_03.webp){.nostretch style="height:var(--img-height); width:auto; margin:0;"}
 :::
 
-::: {style="position:absolute; left:1136px; top:719px; width:700px;"}
-![](images/04/slajd_21_ilustracja_04.webp){.nostretch width="100%"}
 :::
 
-::: {style="position:absolute; left:1126px; top:378px; width:714px;"}
-![](images/04/slajd_21_ilustracja_05.webp){.nostretch width="100%"}
+::: {style="flex:1; min-width:0;"}
+![](images/04/slajd_21_ilustracja_05.webp){.nostretch width="80%" style="display:block; margin:0 0 0 200px;"}
 :::
+
+:::
+
+::: {style="display:flex; gap:0; align-items:stretch;"}
+
+::: {style="flex:1; min-width:0;"}
+![](images/04/slajd_21_ilustracja_02.webp){.nostretch width="95%" style="display:block; margin:0;"}
+:::
+
+::: {style="flex:1; min-width:0;"}
+![](images/04/slajd_21_ilustracja_04.webp){.nostretch width="98%" style="display:block; margin:0 0 0 50px;"}
+:::
+
+:::
+
+::::
 
 ::: {.footer}
 Vacaero, Templeman Opticians, UTexas
@@ -519,31 +549,34 @@ Stężenie jonów do 50 % w warstwie o grubości poniżej 1 mm. Im bliżej powie
 
 ### Nasycanie dyfuzyjne (przykłady)  
 
-<u>Aluminiowanie</u>  
+::: {.lista-zwarta}
 
-- stałe: proszek Al, Al~2~O~3~, żelazoglin, kaolin; 850÷1050°C; azot, wodór; t = 1÷10 h (rozmiar elementów)  
-- ciekłe: 92÷94 % Al i 6÷8 % Fe; 750÷800°C; t = 0,5÷1h,  
-- gazowe: proszek Al, Al~2~O~3~, chlorek amonu; 900÷1050°C; azot, wodór; t = 2 h.  
+- <u>Aluminiowanie</u>  
+  - stałe: proszek Al, Al~2~O~3~, żelazoglin, kaolin; 850÷1050°C; azot, wodór; t = 1÷10 h (rozmiar elementów)  
+  - ciekłe: 92÷94 % Al i 6÷8 % Fe; 750÷800°C; t = 0,5÷1h,  
+  - gazowe: proszek Al, Al~2~O~3~, chlorek amonu; 900÷1050°C; azot, wodór; t = 2 h.  
+- <u>Chromowanie</u>  
+  - stałe: żelazochrom lub chrom, chlorek amonowy, piasek kwarcowy, kaolin; 950°C,  
+  - ciekłe: chlorek chromu, chlorek sodu i żelazochrom; 950÷1000°C,  
+  - gazowe: chlorek chromu; 950÷1000°C.  
+- <u>Chromoaluminiowanie</u>  
+  - stałe: aluminium, żelazochrom; argon, azot lub wodór; 950÷1000°C; 5÷10 h,  
+  - gazowe: halogenki chromu i glinu; argon, azot lub wodór; 950÷1000°C; 5÷10 h.  
+  - <u>Azotowanie</u>: gazowe (amoniak, 10÷130 h, 550°C); twardość, odporności na korozję; azotki metali (Fe~4~N).  
+  - <u>Nawęglanie</u>: dla stali niskowęglowej (<0,25%), <u>zwiększenie twardość zachowując elastyczny rdzeń.</u> Zawartość węgla do 1÷1,3% (0,5÷2 mm); proszkowe, gazowe, ciekłe, 950°C, 10 h, konieczne hartowanie.  
 
-<u>Chromowanie</u>  
-
-- stałe: żelazochrom lub chrom, chlorek amonowy, piasek kwarcowy, kaolin; 950°C,  
-- ciekłe: chlorek chromu, chlorek sodu i żelazochrom; 950÷1000°C,  
-- gazowe: chlorek chromu; 950÷1000°C.  
-
-<u>Chromoaluminiowanie</u>  
-
-- stałe: aluminium, żelazochrom; argon, azot lub wodór; 950÷1000°C; 5÷10 h,  
-- gazowe: halogenki chromu i glinu; argon, azot lub wodór; 950÷1000°C; 5÷10 h.  
-- <u>Azotowanie</u>: gazowe (amoniak, 10÷130 h, 550°C); twardość, odporności na korozję; azotki metali (Fe~4~N).  
-- <u>Nawęglanie</u>: dla stali niskowęglowej (<0,25%), zwiększenie twardość zachowując elastyczny rdzeń. Zawartość węgla do 1÷1,3% (0,5÷2 mm); proszkowe, gazowe, ciekłe, 950°C, 10 h, konieczne hartowanie.  
+:::
 
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
 ### Nasycanie dyfuzyjne (przykłady)  
 
-::: {style="position:absolute; left:400px; top:224px; width:1055px;"}
-![](images/04/slajd_23_ilustracja_01.webp){.nostretch width="100%"}
+![](images/04/nasycanie_dyfuzyjne.webp){.nostretch width="100%"}
+
+Powłoka dyfuzyjna uzyskana w wyniku kompleksowego nasycania borem, chromem i tytanem: (a) na stali 45, (b) na stali 38Kh2MYuA
+
+::: {.footer}
+<small> Guryev, M. A., et al. "Influence of the chemical composition of steel on the structure and properties of diffusion coatings obtained by simultaneous saturation of structural steels with Boron, Chromium, and Titanium." Physics of the Solid State 65.1 (2023): 62-65.</small>
 :::
 
 

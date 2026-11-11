@@ -5,7 +5,7 @@
    height="717.96698"
    version="1.1"
    id="svg83"
-   sodipodi:docname="gemini-svg.svg"
+   sodipodi:docname="powlekanie_blach.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,17 +21,31 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="551.54329"
-     inkscape:cy="315.16759"
+     inkscape:zoom="0.7"
+     inkscape:cx="414.28571"
+     inkscape:cy="438.57143"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="882"
+     inkscape:window-y="2160"
      inkscape:window-maximized="1"
      inkscape:current-layer="g81" />
   <defs
      id="defs15">
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2470" />
+    </marker>
     <pattern
        inkscape:collect="always"
        xlink:href="#hatch"
@@ -1093,7 +1107,7 @@
   <!-- LINIE STRUKTURALNE ZEWNĘTRZNE (Szrafowane) -->
   <!-- Główna obudowa (lewa, dół, prawa ścianka) -->
   <path
-     d="M 1,16.966991 H 21 V 416.96699 l 130,280 126.48205,-0.50508 17.36696,-59.599 21.28938,4.3416 -15.22847,56.26756 L 601,696.96699 l 100,-360 h 60 v 20 h -40 l -100,360 H 131 l -130,-280 z"
+     d="M 1,16.966991 H 21 L 20.285714,436.2527 143.92439,696.26283 l 133.55766,0.19908 17.36696,-59.599 21.28938,4.3416 -15.22847,56.26756 L 601,696.96699 l 100,-360 h 60 v 20 h -40 l -100,360 H 131 l -130,-280 z"
      fill="url(#hatch)"
      stroke="#000000"
      stroke-width="2"
@@ -1149,7 +1163,7 @@
   <!-- Kule w lewym zbiorniku (pary) -->
   <!-- Górne -->
   <circle
-     cx="146"
+     cx="151.17859"
      cy="86.966988"
      r="30"
      fill="#ffffff"
@@ -1157,8 +1171,8 @@
      stroke-width="2"
      id="circle33" />
   <circle
-     cx="226"
-     cy="86.966988"
+     cx="220.46428"
+     cy="86.788414"
      r="30"
      fill="#ffffff"
      stroke="#000000"
@@ -1166,16 +1180,16 @@
      id="circle35" />
   <!-- Środkowe -->
   <circle
-     cx="146"
-     cy="246.967"
+     cx="151.53571"
+     cy="246.60985"
      r="30"
      fill="#ffffff"
      stroke="#000000"
      stroke-width="2"
      id="circle37" />
   <circle
-     cx="226"
-     cy="246.967"
+     cx="220.96088"
+     cy="247.32414"
      r="30"
      fill="#ffffff"
      stroke="#000000"
@@ -1183,15 +1197,15 @@
      id="circle39" />
   <!-- Dolne (przed wlotem) -->
   <circle
-     cx="146"
-     cy="406.96698"
+     cx="150.82143"
+     cy="406.60983"
      r="30"
      fill="#ffffff"
      stroke="#000000"
      stroke-width="2"
      id="circle41" />
   <circle
-     cx="226"
+     cx="220.28572"
      cy="406.96698"
      r="30"
      fill="#ffffff"
@@ -1208,8 +1222,8 @@
      stroke-width="2"
      id="circle45" />
   <circle
-     cx="375.43216"
-     cy="571.2818"
+     cx="377.93216"
+     cy="592.92566"
      r="30"
      fill="#ffffff"
      stroke="#000000"
@@ -1301,7 +1315,7 @@
        stroke-width="1.5"
        marker-end="url(#arrow-3)"
        id="line71-7"
-       style="marker-end:url(#arrow-3)" />
+       style="marker-end:url(#Arrow1Lend);stroke:#ff0000;stroke-opacity:1" />
     <!-- Oznaczenie 3 (Górna komora nad cieczą w prawym zbiorniku) -->
     <text
        x="827.27734"
