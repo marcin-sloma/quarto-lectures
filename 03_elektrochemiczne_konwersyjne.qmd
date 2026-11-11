@@ -643,25 +643,31 @@ Viega, Castorama
 
 - Chemiczne przekształcenie żelaza w najbardziej trwały tlenek Fe~3~O~4~ (magnetyt).
 - Proces wytwarzania:
-- W stężonych roztworach NaOH, NaNO~3~, NaNO~2~.
+- W stężonych roztworach NaOH, NaNO~3~, NaNO~2~
 - Przygotowanie: odtłuszczanie, trawienie
 - Utlenianie chemiczne
-- Płukanie w ciepłym roztworze detergentów, suszenie, olejowanie lub woskowanie.
+- Płukanie w ciepłym roztworze detergentów, suszenie, olejowanie lub woskowanie
 - Zastosowanie: dekoracyjne, elementy przyrządów optycznych, broń, narzędzia.
 
 :::
 
-::: {style="position:absolute; left:200px; top:589px; width:535px;"}
-![](images/03/brytfanna_czerniona.webp){.nostretch width="100%"}
+:::: {style="--img-height:340px; display:flex; position:relative;left:50%; transform:translateX(-50%); width:max-content; max-width:none; align-items:center; gap:10px;  z-index:-1; margin-bottom:-50px; top:-50px; "}
+
+::: {style="flex:0 0 auto; margin:0;"}
+![](images/03/brytfanna_czerniona.webp){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
 :::
 
-::: {style="position:absolute; left:761px; top:590px; width:535px;"}
-![](images/03/slajd_24_ilustracja_02.webp){.nostretch width="100%"}
+::: {style="flex:0 0 auto; margin:0;"}
+![](images/03/slajd_24_ilustracja_02.webp){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
 :::
 
-::: {style="position:absolute; left:1296px; top:589px;"}
-![](images/03/nasadki_udarowe.webp){.nostretch height="300px"}
+::: {style="flex:0 0 auto; margin:0;"}
+![](images/03/nasadki_udarowe.webp){.nostretch style="height:var(--img-height); width:auto; max-width:none; max-height:none; margin:0;"}
 :::
+
+::::
+
+<small>*Breaking Taps, Low-tech coating is a microscopic marvel* <a href="https://www.youtube.com/watch?v=O0-6g6NJMmE" >https://www.youtube.com/watch?v=O0-6g6NJMmE</a></small>
 
 ::: {.footer}
 Lodge, Browning, Beta
