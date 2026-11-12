@@ -185,8 +185,8 @@ Castolin, Mostostal
 
 ### Powlekanie natryskowe (proces)
 
-- podawanie materiału w stanie stałym lub ciekłym (proszek, drut, taśma) do strefy topienia,
-- ciągłe topienie i rozpylanie metalu sprężonym gazem (powietrze, gazy spalinowe): t ~ 10-3 s,
+- podawanie materiału w stanie stałym (proszek, drut, taśma) do strefy topienia,
+- ciągłe topienie i rozpylanie metalu sprężonym gazem (powietrze, gazy spalinowe): t ~ 10^-3^ s,
 - lot stopionych cząstek kulistych z dyszy w kierunku powierzchni (utlenienie powierzchniowe),
 - tworzenie powłoki: zetknięcie cząstek z powierzchnią aż do ostygnięcia powłoki.
 

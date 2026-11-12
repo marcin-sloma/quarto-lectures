@@ -145,7 +145,7 @@ Prędkość korozji [µm/rok]
 <!-- Slajd 6 -->
 ## [TECHNIKI WYTWARZANIA POWŁOK]{style="display:block; text-align:center;"}
 
-Powłoki galwaniczne 
+### Powłoki galwaniczne 
 
 - Metale lub stopy metali nakładane w oparciu o prawa elektrolizy Faraday’a - <u>galwanostegia</u>.  
 - Trwale związane z podłożem, w odróżnieniu od ~~[galwanoplastyki](https://pl.wikipedia.org/wiki/Galwanoplastyka){style="color:inherit; text-decoration:none;"}~~ (oddzielane od wzorca).
