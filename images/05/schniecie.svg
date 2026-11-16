@@ -1,0 +1,1447 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 715.8916 399.4043"
+   width="715.8916"
+   height="399.4043"
+   version="1.1"
+   id="svg327"
+   sodipodi:docname="gemini-svg-poprawiony.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview329"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.3125"
+     inkscape:cx="356.19048"
+     inkscape:cy="209.52381"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg327" />
+  <defs
+     id="defs23">
+    <!-- Gładki gradient metalicznego podłoża -->
+    <linearGradient
+       id="substrateGradient"
+       x1="21.54729"
+       y1="580.11935"
+       x2="21.54729"
+       y2="881.78141"
+       gradientTransform="matrix(2.3204774,0,0,0.4309458,-43.100586,-30.195312)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#7a7a7a"
+         id="stop2" />
+      <stop
+         offset="25%"
+         stop-color="#cacaca"
+         id="stop4" />
+      <stop
+         offset="50%"
+         stop-color="#f8f8f8"
+         id="stop6" />
+      <stop
+         offset="75%"
+         stop-color="#cccccc"
+         id="stop8" />
+      <stop
+         offset="100%"
+         stop-color="#808080"
+         id="stop10" />
+    </linearGradient>
+    <!-- Maska przycinająca do obszaru powłoki -->
+    <clipPath
+       id="filmClip">
+      <polygon
+         points="200,160 600,220 750,220 750,250 50,250 50,150 "
+         id="polygon13" />
+    </clipPath>
+    <!-- Groty strzałek -->
+    <marker
+       id="arrowhead"
+       viewBox="0 0 10 10"
+       refX="8"
+       refY="5"
+       markerWidth="6"
+       markerHeight="6"
+       orient="auto-start-reverse">
+      <path
+         d="M 0,1.5 10,5 0,8.5 Z"
+         fill="#000000"
+         id="path16" />
+    </marker>
+    <!-- Wycentrowane warianty cząsteczek spoiwa -->
+    <path
+       id="m1"
+       d="M -11,0 Q -5,-7 0,0 5,7 11,-2"
+       fill="none"
+       stroke="#222222"
+       stroke-width="1.2"
+       stroke-linecap="round" />
+    <path
+       id="m2"
+       d="M -10,0 Q -6,6 0,0 6,-6 10,3"
+       fill="none"
+       stroke="#222222"
+       stroke-width="1.2"
+       stroke-linecap="round" />
+    <path
+       id="m3"
+       d="M -9,-2 Q -4,5 2,2 8,-1 9,4"
+       fill="none"
+       stroke="#222222"
+       stroke-width="1.2"
+       stroke-linecap="round" />
+    <path
+       id="m4"
+       d="m -9,1 q 5,-6 9,1 4,7 9,-3"
+       fill="none"
+       stroke="#222222"
+       stroke-width="1.2"
+       stroke-linecap="round" />
+  </defs>
+  <!-- Tło -->
+  <!-- Podłoże -->
+  <rect
+     x="6.8994141"
+     y="219.80469"
+     width="700"
+     height="130"
+     fill="url(#substrateGradient)"
+     id="rect27"
+     style="fill:url(#substrateGradient)" />
+  <!-- Warstwa powłoki -->
+  <polygon
+     points="600,220 750,220 750,250 50,250 50,150 200,160 "
+     fill="#f8dfbd"
+     id="polygon29"
+     transform="translate(-43.100586,-30.195312)" />
+  <!-- Strzałki parowania rozpuszczalnika -->
+  <g
+     stroke="#000000"
+     stroke-width="1.5"
+     marker-end="url(#arrowhead)"
+     id="g41"
+     transform="translate(-43.100586,-30.195312)">
+    <line
+       x1="200"
+       y1="145"
+       x2="200"
+       y2="65"
+       id="line31" />
+    <line
+       x1="280"
+       y1="155"
+       x2="280"
+       y2="65"
+       id="line33" />
+    <line
+       x1="360"
+       y1="165"
+       x2="360"
+       y2="65"
+       id="line35" />
+    <line
+       x1="440"
+       y1="175"
+       x2="440"
+       y2="65"
+       id="line37" />
+    <line
+       x1="520"
+       y1="185"
+       x2="520"
+       y2="65"
+       id="line39" />
+  </g>
+  <!-- Opis górny -->
+  <text
+     x="316.89941"
+     y="14.804688"
+     font-family="'Segoe UI', Arial, sans-serif"
+     font-size="20px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#000000"
+     id="text43">Parowanie rozpuszczalnika</text>
+  <!-- Legenda po prawej stronie -->
+  <use
+     href="#m2"
+     xlink:href="#m2"
+     x="610"
+     y="106"
+     transform="rotate(-15,473.77162,254.59307)"
+     id="use45"
+     width="100%"
+     height="100%" />
+  <text
+     x="586.89941"
+     y="81.804688"
+     font-family="'Segoe UI', Arial, sans-serif"
+     font-size="16px"
+     font-weight="bold"
+     fill="#000000"
+     id="text47">Cząsteczka spoiwa</text>
+  <!-- Opisy dolne i strzałka procesu -->
+  <text
+     x="66.899414"
+     y="394.80469"
+     font-family="'Segoe UI', Arial, sans-serif"
+     font-size="20px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#000000"
+     id="text49">Mokra powłoka</text>
+  <text
+     x="646.89941"
+     y="394.80469"
+     font-family="'Segoe UI', Arial, sans-serif"
+     font-size="20px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#000000"
+     id="text51">Sucha powłoka</text>
+  <line
+     x1="146.89941"
+     y1="387.80469"
+     x2="556.89941"
+     y2="387.80469"
+     stroke="#000000"
+     stroke-width="2"
+     marker-end="url(#arrowhead)"
+     id="line53" />
+  <!-- Równomiernie rozmieszczone cząsteczki spoiwa z zagęszczeniem ku prawej stronie -->
+  <g
+     clip-path="url(#filmClip)"
+     id="g325"
+     transform="translate(-43.100586,-30.195312)">
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="68"
+       y="168"
+       transform="rotate(26.1,68,168)"
+       id="use55"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="79.300003"
+       y="193.10001"
+       transform="rotate(-2.1,79.3,193.1)"
+       id="use57"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="72.099998"
+       y="216"
+       transform="rotate(6.5,72.1,216)"
+       id="use59"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="68.599998"
+       y="241.39999"
+       transform="rotate(-0.9,68.6,241.4)"
+       id="use61"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="92.300003"
+       y="161.3"
+       transform="rotate(-10.9,92.3,161.3)"
+       id="use63"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="100.2"
+       y="183.60001"
+       transform="rotate(-27.5,100.2,183.6)"
+       id="use65"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="106"
+       y="213"
+       transform="rotate(-21.7,106,213)"
+       id="use67"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="93.900002"
+       y="237.10001"
+       transform="rotate(17.3,93.9,237.1)"
+       id="use69"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="122.9"
+       y="177.89999"
+       transform="rotate(-19.7,122.9,177.9)"
+       id="use71"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="128.7"
+       y="204.2"
+       transform="rotate(-16.7,128.7,204.2)"
+       id="use73"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="134.2"
+       y="226.2"
+       transform="rotate(-5,134.2,226.2)"
+       id="use75"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="116.7"
+       y="241.2"
+       transform="rotate(-4.5,116.7,241.2)"
+       id="use77"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="156.8"
+       y="172.39999"
+       transform="rotate(-18.4,156.8,172.4)"
+       id="use79"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="155.10001"
+       y="199.8"
+       transform="rotate(10.5,155.1,199.8)"
+       id="use81"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="184.5"
+       y="183.8"
+       transform="rotate(-6.7,184.5,183.8)"
+       id="use83"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="184.89999"
+       y="208.60001"
+       transform="rotate(-17.3,184.9,208.6)"
+       id="use85"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="165.7"
+       y="230.8"
+       transform="rotate(-6.1,165.7,230.8)"
+       id="use87"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="208.3"
+       y="221.10001"
+       transform="rotate(-31.6,208.3,221.1)"
+       id="use89"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="188.39999"
+       y="238.89999"
+       transform="rotate(-18.1,188.4,238.9)"
+       id="use91"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="212.5"
+       y="243.2"
+       transform="rotate(-9.9,212.5,243.2)"
+       id="use93"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="212.7"
+       y="172.10001"
+       transform="rotate(-8.3,212.7,172.1)"
+       id="use95"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="219"
+       y="193.2"
+       transform="rotate(-31.4,219,193.2)"
+       id="use97"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="235.2"
+       y="230.39999"
+       transform="rotate(31.1,235.2,230.4)"
+       id="use99"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="241.3"
+       y="173.7"
+       transform="rotate(-20.4,241.3,173.7)"
+       id="use101"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="251.8"
+       y="199.60001"
+       transform="rotate(16.9,251.8,199.6)"
+       id="use103"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="256.29999"
+       y="242.39999"
+       transform="rotate(11.8,256.3,242.4)"
+       id="use105"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="262.60001"
+       y="178.10001"
+       transform="rotate(25.4,262.6,178.1)"
+       id="use107"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="280.20001"
+       y="188.8"
+       transform="rotate(-21.4,280.2,188.8)"
+       id="use109"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="264.29999"
+       y="218.60001"
+       transform="rotate(23.6,264.3,218.6)"
+       id="use111"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="282.39999"
+       y="239.89999"
+       transform="rotate(12.2,282.4,239.9)"
+       id="use113"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="300.29999"
+       y="187.3"
+       transform="rotate(29,300.3,187.3)"
+       id="use115"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="294.79999"
+       y="213.89999"
+       transform="rotate(-30,294.8,213.9)"
+       id="use117"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="310.29999"
+       y="242.60001"
+       transform="rotate(2.2,310.3,242.6)"
+       id="use119"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="334.39999"
+       y="187.89999"
+       transform="rotate(21.7,334.4,187.9)"
+       id="use121"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="325.29999"
+       y="205.39999"
+       transform="rotate(11.3,325.3,205.4)"
+       id="use123"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="326.29999"
+       y="223.89999"
+       transform="rotate(18.7,326.3,223.9)"
+       id="use125"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="334.29999"
+       y="243"
+       transform="rotate(11.9,334.3,243)"
+       id="use127"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="350"
+       y="200"
+       transform="rotate(11.4,350,200)"
+       id="use129"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="346.29999"
+       y="219.7"
+       transform="rotate(30.4,346.3,219.7)"
+       id="use131"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="352.29999"
+       y="236.39999"
+       transform="rotate(-20.1,352.3,236.4)"
+       id="use133"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="372.70001"
+       y="205.89999"
+       transform="rotate(18.5,372.7,205.9)"
+       id="use135"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="370.60001"
+       y="225.60001"
+       transform="rotate(-6,370.6,225.6)"
+       id="use137"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="372.5"
+       y="243.3"
+       transform="rotate(2.3,372.5,243.3)"
+       id="use139"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="388.39999"
+       y="198.60001"
+       transform="rotate(-1.8,388.4,198.6)"
+       id="use141"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="389.89999"
+       y="215.5"
+       transform="rotate(-10.6,389.9,215.5)"
+       id="use143"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="402.29999"
+       y="226.39999"
+       transform="rotate(-19.6,402.3,226.4)"
+       id="use145"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="390.29999"
+       y="239.8"
+       transform="rotate(-12,390.3,239.8)"
+       id="use147"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="409.70001"
+       y="242.3"
+       transform="rotate(-3.6,409.7,242.3)"
+       id="use149"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="429.70001"
+       y="202.39999"
+       transform="rotate(-12.3,429.7,202.4)"
+       id="use151"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="412.89999"
+       y="210.2"
+       transform="rotate(7.4,412.9,210.2)"
+       id="use153"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="431.79999"
+       y="222.2"
+       transform="rotate(-23.4,431.8,222.2)"
+       id="use155"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="417.70001"
+       y="227.2"
+       transform="rotate(17.1,417.7,227.2)"
+       id="use157"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="426.89999"
+       y="239.39999"
+       transform="rotate(7.5,426.9,239.4)"
+       id="use159"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="450.79999"
+       y="213.8"
+       transform="rotate(14.6,450.8,213.8)"
+       id="use161"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="442.70001"
+       y="232.5"
+       transform="rotate(14,442.7,232.5)"
+       id="use163"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="452.89999"
+       y="242.8"
+       transform="rotate(7.7,452.9,242.8)"
+       id="use165"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="473.20001"
+       y="210.60001"
+       transform="rotate(-8,473.2,210.6)"
+       id="use167"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="486.10001"
+       y="215.2"
+       transform="rotate(-10.2,486.1,215.2)"
+       id="use169"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="466"
+       y="221.5"
+       transform="rotate(18.9,466,221.5)"
+       id="use171"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="478.89999"
+       y="230.2"
+       transform="rotate(6.6,478.9,230.2)"
+       id="use173"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="466.5"
+       y="236.3"
+       transform="rotate(0.8,466.5,236.3)"
+       id="use175"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="483.10001"
+       y="242.3"
+       transform="rotate(-16.9,483.1,242.3)"
+       id="use177"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="499.60001"
+       y="219.8"
+       transform="rotate(-17,499.6,219.8)"
+       id="use179"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="507.29999"
+       y="230"
+       transform="rotate(-6.2,507.3,230)"
+       id="use181"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="492.60001"
+       y="233"
+       transform="rotate(17.3,492.6,233)"
+       id="use183"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="507.60001"
+       y="242.10001"
+       transform="rotate(8.5,507.6,242.1)"
+       id="use185"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="513.59998"
+       y="220.60001"
+       transform="rotate(0.6,513.6,220.6)"
+       id="use187"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="524.70001"
+       y="221"
+       transform="rotate(-17.9,524.7,221)"
+       id="use189"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="519.09998"
+       y="230.3"
+       transform="rotate(-9.6,519.1,230.3)"
+       id="use191"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="526.5"
+       y="238.60001"
+       transform="rotate(11.3,526.5,238.6)"
+       id="use193"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="548.5"
+       y="220.7"
+       transform="rotate(18.3,548.5,220.7)"
+       id="use195"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="560.79999"
+       y="226.5"
+       transform="rotate(-2.2,560.8,226.5)"
+       id="use197"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="538.79999"
+       y="227"
+       transform="rotate(12.1,538.8,227)"
+       id="use199"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="550.20001"
+       y="232.2"
+       transform="rotate(-21.6,550.2,232.2)"
+       id="use201"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="537.70001"
+       y="237.89999"
+       transform="rotate(11.5,537.7,237.9)"
+       id="use203"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="560.40002"
+       y="242.60001"
+       transform="rotate(-3,560.4,242.6)"
+       id="use205"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="550.09998"
+       y="244.89999"
+       transform="rotate(-11.1,550.1,244.9)"
+       id="use207"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="572.40002"
+       y="223.39999"
+       transform="rotate(21.6,572.4,223.4)"
+       id="use209"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="583.20001"
+       y="230.10001"
+       transform="rotate(22.8,583.2,230.1)"
+       id="use211"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="569.79999"
+       y="234.60001"
+       transform="rotate(-23.4,569.8,234.6)"
+       id="use213"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="583.90002"
+       y="239.7"
+       transform="rotate(8,583.9,239.7)"
+       id="use215"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="574.09998"
+       y="244.60001"
+       transform="rotate(-0.6,574.1,244.6)"
+       id="use217"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="595"
+       y="225.8"
+       transform="rotate(-22.3,595,225.8)"
+       id="use219"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="607.59998"
+       y="230.3"
+       transform="rotate(5,607.6,230.3)"
+       id="use221"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="600.5"
+       y="234.8"
+       transform="rotate(9.2,600.5,234.8)"
+       id="use223"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="611.09998"
+       y="238.39999"
+       transform="rotate(-7.7,611.1,238.4)"
+       id="use225"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="593.09998"
+       y="239"
+       transform="rotate(-17,593.1,239)"
+       id="use227"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="600.90002"
+       y="243.89999"
+       transform="rotate(-18.8,600.9,243.9)"
+       id="use229"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="626.59998"
+       y="225"
+       transform="rotate(-12.6,626.6,225)"
+       id="use231"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="615.29999"
+       y="225.7"
+       transform="rotate(6.9,615.3,225.7)"
+       id="use233"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="632"
+       y="232.8"
+       transform="rotate(23.1,632,232.8)"
+       id="use235"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="620"
+       y="233.8"
+       transform="rotate(7.3,620,233.8)"
+       id="use237"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="631.29999"
+       y="240.39999"
+       transform="rotate(11,631.3,240.4)"
+       id="use239"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="623.09998"
+       y="243"
+       transform="rotate(-2.5,623.1,243)"
+       id="use241"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="637.40002"
+       y="244.7"
+       transform="rotate(23.3,637.4,244.7)"
+       id="use243"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="638.29999"
+       y="226.2"
+       transform="rotate(-19,638.3,226.2)"
+       id="use245"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="649.5"
+       y="226.60001"
+       transform="rotate(-8,649.5,226.6)"
+       id="use247"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="655.90002"
+       y="230.10001"
+       transform="rotate(3.7,655.9,230.1)"
+       id="use249"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="646.40002"
+       y="232.89999"
+       transform="rotate(19.6,646.4,232.9)"
+       id="use251"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="658.29999"
+       y="237.2"
+       transform="rotate(-18.7,658.3,237.2)"
+       id="use253"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="642.59998"
+       y="239.7"
+       transform="rotate(-2.5,642.6,239.7)"
+       id="use255"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="649.29999"
+       y="243.60001"
+       transform="rotate(23.7,649.3,243.6)"
+       id="use257"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="660.09998"
+       y="244.3"
+       transform="rotate(12.2,660.1,244.3)"
+       id="use259"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="669.5"
+       y="225.60001"
+       transform="rotate(-18.4,669.5,225.6)"
+       id="use261"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="684.59998"
+       y="226.39999"
+       transform="rotate(23.3,684.6,226.4)"
+       id="use263"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="662.5"
+       y="228.5"
+       transform="rotate(-10.2,662.5,228.5)"
+       id="use265"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="676"
+       y="229.2"
+       transform="rotate(10.7,676,229.2)"
+       id="use267"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="684.20001"
+       y="233"
+       transform="rotate(7.5,684.2,233)"
+       id="use269"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="668.90002"
+       y="233.5"
+       transform="rotate(-16.7,668.9,233.5)"
+       id="use271"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="676.5"
+       y="236.8"
+       transform="rotate(9.5,676.5,236.8)"
+       id="use273"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="666.29999"
+       y="241.10001"
+       transform="rotate(-9.4,666.3,241.1)"
+       id="use275"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="684.20001"
+       y="242.8"
+       transform="rotate(-1.5,684.2,242.8)"
+       id="use277"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="674.79999"
+       y="245"
+       transform="rotate(-4.4,674.8,245)"
+       id="use279"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="693.5"
+       y="225.39999"
+       transform="rotate(-0.2,693.5,225.4)"
+       id="use281"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="709.70001"
+       y="226.10001"
+       transform="rotate(20.4,709.7,226.1)"
+       id="use283"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="702"
+       y="228.7"
+       transform="rotate(12.4,702,228.7)"
+       id="use285"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="690.79999"
+       y="231.10001"
+       transform="rotate(-8.2,690.8,231.1)"
+       id="use287"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="710"
+       y="232.89999"
+       transform="rotate(-13.2,710,232.9)"
+       id="use289"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="697.40002"
+       y="233.3"
+       transform="rotate(-22.4,697.4,233.3)"
+       id="use291"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="703.40002"
+       y="235.5"
+       transform="rotate(-17.8,703.4,235.5)"
+       id="use293"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="692.79999"
+       y="238.10001"
+       transform="rotate(13.2,692.8,238.1)"
+       id="use295"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="701.70001"
+       y="242.60001"
+       transform="rotate(5.6,701.7,242.6)"
+       id="use297"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="693"
+       y="244.60001"
+       transform="rotate(16.8,693,244.6)"
+       id="use299"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="709.29999"
+       y="244.8"
+       transform="rotate(-2.2,709.3,244.8)"
+       id="use301"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="725.90002"
+       y="225.2"
+       transform="rotate(-19.6,725.9,225.2)"
+       id="use303"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="732"
+       y="226.8"
+       transform="rotate(-6.2,732,226.8)"
+       id="use305"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="718.29999"
+       y="227.39999"
+       transform="rotate(16.9,718.3,227.4)"
+       id="use307"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="727.20001"
+       y="232.7"
+       transform="rotate(-21.9,727.2,232.7)"
+       id="use309"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m1"
+       xlink:href="#m1"
+       x="720.79999"
+       y="233.10001"
+       transform="rotate(-12.9,720.8,233.1)"
+       id="use311"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="735.5"
+       y="233.2"
+       transform="rotate(-18,735.5,233.2)"
+       id="use313"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="715.59998"
+       y="237.5"
+       transform="rotate(16.1,715.6,237.5)"
+       id="use315"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="724.40002"
+       y="238.8"
+       transform="rotate(-3.8,724.4,238.8)"
+       id="use317"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m4"
+       xlink:href="#m4"
+       x="732"
+       y="241.89999"
+       transform="rotate(-11.1,732,241.9)"
+       id="use319"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m2"
+       xlink:href="#m2"
+       x="719"
+       y="243.8"
+       transform="rotate(8.8,719,243.8)"
+       id="use321"
+       width="100%"
+       height="100%" />
+    <use
+       href="#m3"
+       xlink:href="#m3"
+       x="725.40002"
+       y="244.89999"
+       transform="rotate(17,725.4,244.9)"
+       id="use323"
+       width="100%"
+       height="100%" />
+  </g>
+</svg>

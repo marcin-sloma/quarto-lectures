@@ -1,0 +1,453 @@
+---
+title: "Technologie wytwarzania elementów<br>urządzeń mechatronicznych"
+subtitle: "dr hab. inż. Marcin Słoma, prof. PW"
+author: "Zakład Mikrotechnologii i Nanotechnologii"
+title-slide-attributes:
+  data-background-image: tlo_2.webp
+  data-background-size: contain
+  data-background-position: center
+  data-background-repeat: no-repeat
+---
+
+<!-- Slajd 2 -->
+## [TECHNOLOGIA POWŁOK]{style="display:block; text-align:center;"}
+
+Powłoka to warstwa materiału <u>wytworzona lub nałożona</u> na powierzchnię elementu w sposób naturalny lub sztuczny. Powłoka jest wykonana <u>z innego materiału niż element</u>. Celem powłoki jest uzyskanie określonych właściwości ochronnych, technicznych lub dekoracyjnych.  
+
+::: {style="position:absolute; left:272px; top:658px; width:367px;"}
+![](images/03/slajd_02_ilustracja_01.webp){.nostretch width="100%"}
+:::
+
+::: {style="position:absolute; left:155px; top:331px; width:413px;"}
+![](images/03/slajd_02_ilustracja_02.webp){.nostretch width="100%"}
+:::
+
+::: {style="position:absolute; left:751px; top:614px; width:426px;"}
+![](images/03/slajd_02_ilustracja_03.webp){.nostretch width="100%"}
+:::
+
+::: {style="position:absolute; left:632px; top:331px; width:367px;"}
+![](images/03/slajd_02_ilustracja_04.webp){.nostretch width="100%"}
+:::
+
+::: {style="position:absolute; left:1111px; top:331px; width:367px;"}
+![](images/03/slajd_02_ilustracja_05.webp){.nostretch width="100%"}
+:::
+
+::: {style="position:absolute; left:1300px; top:686px; width:388px;"}
+![](images/03/slajd_02_ilustracja_06.webp){.nostretch width="100%"}
+:::
+
+::: {style="position:absolute; left:1536px; top:331px; width:205px;"}
+![](images/03/slajd_02_ilustracja_07.webp){.nostretch width="100%"}
+:::
+
+<!-- Slajd 3 -->
+## [POWŁOKI ORGANICZNE]{style="display:block; text-align:center;"}
+
+### POWŁOKI MALARSKO-LAKIERNICZE
+
+Są to powłoki z tworzyw sztucznych, nanoszone w stanie ciekłym lub stałym, utwardzane chemicznie, przez odparowanie rozpuszczalników lub termicznie przez przetopienie cząstek.
+
+- farby,
+- lakiery,
+- (emalie).
+
+::: {style="position:absolute; left:657px; top:586px; width:522px;"}
+![](images/05/slajd_03_ilustracja_01.webp){.nostretch width="100%"}
+:::
+
+::: {style="position:absolute; left:69px; top:492px; width:614px;"}
+![](images/05/slajd_03_ilustracja_02.webp){.nostretch width="100%"}
+:::
+
+::: {style="position:absolute; left:1052px; top:375px; width:459px;"}
+![](images/05/slajd_03_ilustracja_03.webp){.nostretch width="100%"}
+:::
+
+::: {style="position:absolute; left:1385px; top:617px; width:474px;"}
+![](images/05/slajd_03_ilustracja_04.webp){.nostretch width="100%"}
+:::
+
+::: {style="position:absolute; left:122px; top:748px; width:487px;"}
+![](images/05/slajd_03_ilustracja_05.webp){.nostretch width="100%"}
+:::
+
+::: {.footer}
+Pneumat System, B&P Service, Vidaron, Autobilid.de, Anardi
+:::
+
+<!-- Slajd 4 -->
+## [POWŁOKI ORGANICZNE]{style="display:block; text-align:center;"}
+
+### POWŁOKI MALARSKO-LAKIERNICZE
+
+SKŁAD
+
+::: {.lista-zwarta}
+- Substancje organiczne (spoiwa, substancje błonotwórcze)
+- Olejne pokostowe
+- Olejno‐żywiczne
+- Ftalowe modyfikowane olejami (alkidowe)
+- Ftalowo‐aminowe
+- Kreodurowe
+- Poliwinylowe, chlorokauczukowe
+- Epoksydowe
+- Nitrocelulozowe
+- Akrylowe i metakrylowe
+- Ftalowe styrenowane
+- Emulsyjne: Poli(octan winylu), kopolimery styrenowo‐akrylowe
+- ...
+:::
+
+<!-- Slajd 5 -->
+## [POWŁOKI ORGANICZNE]{style="display:block; text-align:center;"}
+
+### POWŁOKI MALARSKO-LAKIERNICZE - SKŁAD
+
+### Rozpuszczalniki i rozcieńczalniki
+
+- Produkty ciekłe o możliwie niskiej temperaturze wrzenia i małej wartości ciepła parowania.
+- Nie wchodzą one w skład powłok - regulują sposób nanoszenia powłoki i jej jakość.
+- Przykłady: aceton, alkohole (izopropylowy, etylowy), benzyna, cyklododekan, ...
+
+Coraz częściej rozpuszczalniki organiczne są eliminowane, na rzecz wody i alkoholi (farby emulsyjne lub wodorozcieńczalne) i farb bezrozpuszczalnikowych (farby proszkowe, fotoutwardzalne).
+
+![](images/05/schniecie/svg){.nostretch width="100%"}
+
+<!-- Slajd 6 -->
+## [POWŁOKI ORGANICZNE]{style="display:block; text-align:center;"}
+
+### POWŁOKI MALARSKO-LAKIERNICZE - SKŁAD
+
+### Pigment i napełniacze
+
+- dekoracyjne
+- nadanie odporności na działanie światła
+- ograniczenie pęcznienia w wodzie (wobec pary wodnej) i w rozpuszczalnikach,
+- pasywacja powierzchni metalu,
+- ochrona elektrochemiczna (pył cynkowy),
+- zobojętnianie czynników kwaśnych (pigmenty zasadowe),
+- zwiększenie twardości i odporności na zarysowanie,
+- właściwości specjalne (przewodnictwo elektryczne i cieplne, luminescencja, właściwości dielektryczne i magnetyczne, ...)
+- ...
+
+<!-- Slajd 7 -->
+## [POWŁOKI ORGANICZNE]{style="display:block; text-align:center;"}
+
+### POWŁOKI MALARSKO-LAKIERNICZE - SKŁAD
+
+### Składniki modyfikujące i uszlachetniające
+
+- zapobiegające korzuszeniu,
+- zwilżające,
+- zagęszczające i tiksotropujące,
+- poprawiające rozlewność (zapobiegają powstawaniu pęcherzyków powietrza),
+- peptyzujące (zapobiegają ścinaniu),
+- matujące (zmniejszają połysk),
+- przeciwdziałające powstawaniu piany,
+- bakterio‐, grzybo‐ i owadobójcze,
+- inne (nadające odporność na działanie UV, inhibitujące korozję itp.).
+
+
+
+<!-- Slajd 8 -->
+## [POWŁOKI ORGANICZNE]{style="display:block; text-align:center;"}
+
+### POWŁOKI MALARSKO-LAKIERNICZE - NANOSZENIE
+
+### Produkcyjne sposoby nanoszenia powłok malarsko-lakierniczych
+
+- zanurzeniowe,
+- walcami (blachy, taśmy),
+- natryskowe (pneumatyczne, hydrodynamiczne),
+- w bębnach (elementy drobne),
+- pędzlami, wałkami,
+- elektroforetyczne.
+
+- Po nałożeniu warstwy konieczne jest jej wysuszenie.
+- Lakiery piecowe wymagają wypalania (utleniania) w celu utwardzenia.
+- Temperatury suszenia/wypalania (20°C) 60÷160°C.
+
+::: {style="position:absolute; left:1325px; top:151px; width:490px;"}
+![](images/05/slajd_08_ilustracja_01.webp){.nostretch width="100%"}
+:::
+
+::: {style="position:absolute; left:1016px; top:291px; width:356px;"}
+![](images/05/slajd_08_ilustracja_02.webp){.nostretch width="100%"}
+:::
+
+::: {style="position:absolute; left:1459px; top:512px; width:381px;"}
+![](images/05/slajd_08_ilustracja_03.webp){.nostretch width="100%"}
+:::
+
+::: {style="position:absolute; left:1188px; top:755px; width:339px;"}
+![](images/05/slajd_08_ilustracja_04.webp){.nostretch width="100%"}
+:::
+
+::: {.footer}
+BASF, Esiproof, Nordson, Alcor
+:::
+
+<!-- Slajd 9 -->
+## [POWŁOKI ORGANICZNE]{style="display:block; text-align:center;"}
+
+### POWŁOKI MALARSKO-LAKIERNICZE - NANOSZENIE
+
+### Metody natryskowe
+
+- pneumatyczna
+- hydrodynamiczna
+
+![](images/05/air-vs-hydraulic.webp){.nostretch width="100%"}
+
+::: {style="position:absolute; left:1225px; top:87px; width:573px;"}
+![](images/05/pistolet.webp){.nostretch width="100%"}
+:::
+
+::: {style="position:absolute; left:997px; top:442px; width:486px;"}
+![](images/05/slajd_09_ilustracja_02.webp){.nostretch width="100%"}
+:::
+
+::: {.footer}
+AFS, Aquamist, Gutubao
+:::
+
+<!-- Slajd 10 -->
+## [POWŁOKI ORGANICZNE]{style="display:block; text-align:center;"}
+
+### POWŁOKI MALARSKO-LAKIERNICZE - NANOSZENIE - Metody natryskowe
+
+{{< ytvideo zHhRoF8TJI8 11 >}}
+
+::: {.footer}
+Pneumatico.pl, https://www.youtube.com/watch?v=Vjw3KRXOZW0
+:::
+
+<!-- Slajd 11 -->
+## [POWŁOKI ORGANICZNE]{style="display:block; text-align:center;"}
+
+### POWŁOKI MALARSKO-LAKIERNICZE - NANOSZENIE - Metody zanurzeniowe
+
+{{< ytvideo qEKx0ZY00MI >}}
+
+::: {.footer}
+Jim Paterson https://www.youtube.com/watch?v=JauUjmXlTPE
+:::
+
+<!-- Slajd 12 -->
+## [POWŁOKI ORGANICZNE]{style="display:block; text-align:center;"}
+
+### POWŁOKI PROSZKOWE
+
+### Powlekanie elektrostatyczne i fluidyzacyjne
+
+Farby proszkowe: substancje termoplastyczne i termoutwardzalne (żywice epoksydowe, żywice poliestrowe, poliuretany i silikony, mieszanki poliestrowo‐epoksydowe).  
+Elementy są powlekane mgłą (aerozolem) proszku w stanie stałym. Proszek o wymiarach ziaren w przedziale µm może być nanoszony technikami:  
+
+- fluidyzacji,  
+- elektrostatyczną.  
+
+Po pomalowaniu elementy są nagrzewane (150÷250°C), w rezultacie czego farba proszkowa ulega przetopieniu tworząc jednolitą powłokę polimerową.  
+
+<!-- Slajd 13 -->
+## [POWŁOKI ORGANICZNE]{style="display:block; text-align:center;"}
+
+### POWŁOKI PROSZKOWE
+
+### Powlekanie fluidyzacyjne
+
+Fluidyzacja jest procesem, w którym farba w proszku nabiera cech materiałów płynnych (aerozolu) w wyniku przedmuchiwania farby od dołu ku górze za pomocą gazów.
+
+::: {style="position:absolute; left:168px; top:384px; width:667px;"}
+![](images/05/fluidyzacja.svg){.nostretch width="100%"}
+:::
+
+::: {style="position:absolute; left:883px; top:384px; width:814px;"}
+![](images/05/slajd_13_ilustracja_02.webp){.nostretch width="100%"}
+:::
+
+::: {style="position:absolute; bottom:30px; left:0; width:100%; text-align:center;"}
+<span class="fragment"><em>Przykład aerozolu proszkowego?</em></span>
+:::
+
+::: {.fragment style="position:absolute; left:453px; top:378px; width:967px;"}
+![](images/05/slajd_13_ilustracja_03.webp){.nostretch width="100%"}
+:::
+
+::: {.footer}
+Bater, Poldrut
+:::
+
+<!-- Slajd 14 -->
+## [POWŁOKI ORGANICZNE]{style="display:block; text-align:center;"}
+
+### POWŁOKI PROSZKOWE - NANOSZENIE - Powlekanie fluidyzacyjne
+
+{{< ytvideo CoCtdQe0nAc 40 100 >}}
+
+::: {.footer}
+BOSTEK - KIGO Scandinavia, Baltic & Poland https://www.youtube.com/watch?v=2C1z0PobLao
+:::
+
+<!-- Slajd 15 -->
+## [POWŁOKI ORGANICZNE]{style="display:block; text-align:center;"}
+
+### POWŁOKI PROSZKOWE
+
+### Powlekanie elektrostatyczne
+
+Powlekanie elektrostatyczne jest podobne do natrysku pneumatycznego, z tą różnicą że materiał powłoki występuje w postaci proszku (a nie ciekłej). Ziarna proszku uzyskują ładunek elektryczny w dyszy pistoletu, a następnie jest przyspieszany pneumatycznie i osiadają na uziemionych elementach.
+
+::: {style="position:absolute; left:136px; top:443px; width:708px;"}
+![](images/05/slajd_15_ilustracja_01.webp){.nostretch width="100%"}
+:::
+
+::: {style="position:absolute; left:859px; top:443px; width:940px;"}
+![](images/05/slajd_15_ilustracja_02.webp){.nostretch width="100%"}
+:::
+
+::: {.footer}
+Wagner, Rutmal
+:::
+
+<!-- Slajd 16 -->
+## [POWŁOKI ORGANICZNE]{style="display:block; text-align:center;"}
+
+### POWŁOKI PROSZKOWE - NANOSZENIE - Powlekanie elektrostatyczne
+
+{{< ytvideo et5l84gXJ4A >}}
+
+::: {.footer}
+AutoshineWheelClinic https://www.youtube.com/watch?v=HJpPM0Zn_hc
+:::
+
+<!-- Slajd 17 -->
+## [POWŁOKI NIEORGANICZNE]{style="display:block; text-align:center;"}
+
+### EMALIE SZKLISTE
+
+Masy emalierskie składające się z tlenków, fluorków, boranów i krzemianów metali. Są to substancje wyłącznie nieorganiczne i należy je odróżniać od lakierów nazywanych potocznie emaliami.
+
+::: {style="text-align:center;"}
+NAKŁADANIE WARSTWY ⇒ SUSZENIE ⇒ WYPALANIE (przetopienie, spiekanie) 500÷1000°C
+:::
+
+- Zastosowania ogólne i techniczne:
+- Pokrycia naczyń kuchennych i stołowych, zarówno metalowych jak i ceramicznych.
+- Ceramika łazienkowa: wanny, umywalki, glazura (kafelki).
+- Pokrycia izolatorów ceramicznych i grzejników oporowych.
+- Szkliwa do wykonywania układów grubowarstwowych.
+- Mozaiki, wyroby jubilerskie: ozdoby, medalierstwo, pamiątki.
+
+<!-- Slajd 18 -->
+## [POWŁOKI NIEORGANICZNE]{style="display:block; text-align:center;"}
+
+### EMALIE SZKLISTE
+
+::: {style="display:flex; gap:10px; align-items:flex-start; width:1900px; margin-inline:auto;"}
+
+::: {style="flex:1; min-width:0;"}
+
+{{< ytvideo 3wpiKVYpE_8 11 71 >}}
+
+::: {style="width:700px; "}
+{{< ytvideo ymXid7CUvjk 1 >}} 
+:::
+
+:::
+
+::: {style="flex:1; min-width:0;"}
+
+{{< ytvideo 7ukqrMgCoT0 >}}
+
+![](images/04/platerowanie_wybuchowe.webp){.nostretch width="100%" style="display:block; margin:0 0 0 -100px;"}
+:::
+
+:::
+
+::: {style="position:absolute; left:203px; top:216px; width:417px;"}
+![](images/05/slajd_18_ilustracja_01.webp){.nostretch width="100%"}
+:::
+
+::: {style="position:absolute; left:637px; top:216px; width:493px;"}
+![](images/05/slajd_18_ilustracja_02.webp){.nostretch width="100%"}
+:::
+
+::: {style="position:absolute; left:1130px; top:216px; width:323px;"}
+![](images/05/slajd_18_ilustracja_03.webp){.nostretch width="100%"}
+:::
+
+::: {style="position:absolute; left:1463px; top:216px; width:317px;"}
+![](images/05/slajd_18_ilustracja_04.webp){.nostretch width="100%"}
+:::
+
+::: {style="position:absolute; left:317px; top:600px; width:407px;"}
+![](images/05/slajd_18_ilustracja_05.webp){.nostretch width="100%"}
+:::
+
+::: {style="position:absolute; left:740px; top:601px; width:460px;"}
+![](images/05/slajd_18_ilustracja_06.webp){.nostretch width="100%"}
+:::
+
+::: {style="position:absolute; left:1214px; top:600px; width:489px;"}
+![](images/05/slajd_18_ilustracja_07.webp){.nostretch width="100%"}
+:::
+
+::: {.footer}
+Elektroonline, KristoArts, Emalia Olkusz, Bolesławiec, Heraeus, Farnell
+:::
+
+<!-- Slajd 19 -->
+## [POWŁOKI NIEORGANICZNE]{style="display:block; text-align:center;"}
+
+### EMALIE SZKLISTE
+
+::: {style="position:absolute; left:21px; top:326px; width:1884px;"}
+![](images/05/slajd_19_ilustracja_01.webp){.nostretch width="100%"}
+:::
+
+::: {style="position:absolute; left:447px; top:215px; width:404px;"}
+![](images/05/slajd_19_ilustracja_02.webp){.nostretch width="100%"}
+:::
+
+::: {style="position:absolute; left:924px; top:214px; width:404px;"}
+![](images/05/slajd_19_ilustracja_03.webp){.nostretch width="100%"}
+:::
+
+::: {style="position:absolute; left:1454px; top:616px; width:381px;"}
+![](images/05/slajd_19_ilustracja_04.webp){.nostretch width="100%"}
+:::
+
+<!-- Slajd 20 -->
+## [POWŁOKI NIEORGANICZNE]{style="display:block; text-align:center;"}
+
+### EMALIE SZKLISTE
+
+### Technologia grubowarstwowa
+
+Stosując technikę selektywnego druku sitowego (sitodruku), z wykorzystaniem past zawierających szkliwo i dodatki funkcjonalne (proszki metaliczne, tlenki rezystywne, dielektryczne itp.), możliwe jest wytwarzanie obwodów i elementów elektronicznych, na podłożach ceramicznych (Al2O3) i szklanych, spiekanych w temperaturach ok 850°C (ok 500°C na szkle).
+
+- srebrowe, złote
+- platynowe, palladowe
+- rutenowe, irydowe
+- tytanian baru i stronu, tlenek cyrkonu
+
+::: {style="position:absolute; left:940px; top:484px; width:898px;"}
+![](images/05/slajd_20_ilustracja_01.webp){.nostretch width="100%"}
+:::
+
+::: {.footer}
+Aurel
+:::
+
+<!-- Slajd 21 -->
+## [QUIZ]{style="display:block; text-align:center;"}
+
+### W jaki sposób i z jakich materiałów wytwarzamy powłoki malarskie i lakiernicze?
+
+::: {.incremental}
+
+- W jaki sposób wytwarzamy odporne chemicznie warstwy szkliwa?
+- Czy możliwe jest wytwarzanie elementów i układów elektronicznych z zastosowaniem technik malarskich?
+

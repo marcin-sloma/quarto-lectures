@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 711.98438 535.04883"
+   width="711.98438"
+   height="535.04883"
+   version="1.1"
+   id="svg96"
+   sodipodi:docname="fluidyzacja2.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview98"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.66489145"
+     inkscape:cx="590.32192"
+     inkscape:cy="386.52926"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg96" />
+  <defs
+     id="defs46">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pores"
+       id="pattern1022"
+       patternTransform="translate(-49.25,-85.701201)" />
+    <!-- Wzór cząsteczek złoża fluidalnego -->
+    <pattern
+       id="particles"
+       width="60"
+       height="60"
+       patternUnits="userSpaceOnUse">
+      <rect
+         x="10"
+         y="10"
+         width="3.5"
+         height="3.5"
+         fill="#2b2b2b"
+         id="rect2" />
+      <rect
+         x="35"
+         y="5"
+         width="3.5"
+         height="3.5"
+         fill="#2b2b2b"
+         id="rect4" />
+      <rect
+         x="50"
+         y="25"
+         width="3.5"
+         height="3.5"
+         fill="#2b2b2b"
+         id="rect6" />
+      <rect
+         x="20"
+         y="30"
+         width="3.5"
+         height="3.5"
+         fill="#2b2b2b"
+         id="rect8" />
+      <rect
+         x="5"
+         y="45"
+         width="3.5"
+         height="3.5"
+         fill="#2b2b2b"
+         id="rect10" />
+      <rect
+         x="40"
+         y="40"
+         width="3.5"
+         height="3.5"
+         fill="#2b2b2b"
+         id="rect12" />
+      <rect
+         x="25"
+         y="50"
+         width="3.5"
+         height="3.5"
+         fill="#2b2b2b"
+         id="rect14" />
+      <rect
+         x="55"
+         y="55"
+         width="3.5"
+         height="3.5"
+         fill="#2b2b2b"
+         id="rect16" />
+      <rect
+         x="15"
+         y="20"
+         width="3.5"
+         height="3.5"
+         fill="#2b2b2b"
+         id="rect18" />
+      <rect
+         x="45"
+         y="15"
+         width="3.5"
+         height="3.5"
+         fill="#2b2b2b"
+         id="rect20" />
+      <rect
+         x="30"
+         y="35"
+         width="3.5"
+         height="3.5"
+         fill="#2b2b2b"
+         id="rect22" />
+      <rect
+         x="55"
+         y="10"
+         width="3.5"
+         height="3.5"
+         fill="#2b2b2b"
+         id="rect24" />
+      <rect
+         x="5"
+         y="25"
+         width="3.5"
+         height="3.5"
+         fill="#2b2b2b"
+         id="rect26" />
+    </pattern>
+    <!-- Wzór membrany porowatej -->
+    <pattern
+       id="pores"
+       width="20"
+       height="20"
+       patternUnits="userSpaceOnUse">
+      <rect
+         width="20"
+         height="20"
+         fill="#4a433f"
+         id="rect29" />
+      <circle
+         cx="5"
+         cy="5"
+         r="2.5"
+         fill="#ffffff"
+         id="circle31" />
+      <circle
+         cx="15"
+         cy="15"
+         r="2.5"
+         fill="#ffffff"
+         id="circle33" />
+      <circle
+         cx="15"
+         cy="5"
+         r="1.5"
+         fill="#ffffff"
+         id="circle35" />
+      <circle
+         cx="5"
+         cy="15"
+         r="1.5"
+         fill="#ffffff"
+         id="circle37" />
+      <circle
+         cx="10"
+         cy="10"
+         r="1"
+         fill="#ffffff"
+         id="circle39" />
+      <circle
+         cx="0"
+         cy="10"
+         r="2"
+         fill="#ffffff"
+         id="circle41" />
+      <circle
+         cx="20"
+         cy="10"
+         r="2"
+         fill="#ffffff"
+         id="circle43" />
+    </pattern>
+  </defs>
+  <!-- Tło -->
+  <!-- ========================================== -->
+  <!-- ZŁOŻE FLUIDALNE -->
+  <!-- ========================================== -->
+  <g
+     id="fluidized-bed"
+     transform="translate(-49.25,-85.701201)">
+    <path
+       d="m 50,170 c 100,20 150,-15 250,0 100,15 150,-10 200,0 V 520 H 50 Z"
+       fill="#8c8a81"
+       stroke="#1a1a1a"
+       stroke-width="1.5"
+       id="path50" />
+    <path
+       d="m 50,170 c 100,20 150,-15 250,0 100,15 150,-10 200,0 V 520 H 50 Z"
+       fill="url(#particles)"
+       id="path52" />
+  </g>
+  <!-- ========================================== -->
+  <!-- ZAWIESZONY ELEMENT 3D (PIERŚCIEŃ) -->
+  <!-- ========================================== -->
+  <line
+     x1="160.69478"
+     y1="6.4938979"
+     x2="200.80522"
+     y2="154.29596"
+     stroke="#1a1a1a"
+     stroke-width="1.23117"
+     id="line55" />
+  <line
+     x1="280.75"
+     y1="0.079469316"
+     x2="260.75"
+     y2="157.2988"
+     stroke="#1a1a1a"
+     stroke-width="1.25948"
+     id="line57" />
+  <g
+     id="suspended-ring"
+     transform="translate(-49.25,-85.701201)">
+    <!-- Wewnętrzna ścianka otworu -->
+    <path
+       d="m 250,265 a 40,65 0 0 1 0,130 h 80 a 40,65 0 0 0 0,-130 z"
+       fill="#c2d3ed"
+       stroke="#1a1a1a"
+       stroke-width="1.5"
+       stroke-linejoin="round"
+       id="path59" />
+    <path
+       d="m 328.61249,421.24907 -79.96333,-2.422 a 60,90 1.7348931 0 1 5.44949,-179.91749 l 79.96333,2.422 a 60,90 1.7348931 0 0 -5.44949,179.91749 z"
+       fill="#dce6f7"
+       stroke="#1a1a1a"
+       stroke-width="1.5"
+       stroke-linejoin="round"
+       id="path61-3" />
+    <!-- Zewnętrzna powierzchnia walcowa -->
+    <path
+       d="m 250,240 h 80 a 60,90 0 0 1 0,180 h -80 a 60,90 0 0 0 0,-180 z"
+       fill="#dce6f7"
+       stroke="#1a1a1a"
+       stroke-width="1.5"
+       stroke-linejoin="round"
+       id="path61" />
+    <!-- Przednia płaszczyzna czołowa -->
+    <path
+       d="m 250,240 a 60,90 0 1 0 0,180 60,90 0 1 0 0,-180 z m 0,25 a 40,65 0 1 1 0,130 40,65 0 1 1 0,-130 z"
+       fill="#f4f7fc"
+       stroke="#1a1a1a"
+       stroke-width="1.5"
+       fill-rule="evenodd"
+       id="path63" />
+  </g>
+  <!-- ========================================== -->
+  <!-- KONSTRUKCJA ZBIORNIKA I MEMBRANA -->
+  <!-- ========================================== -->
+  <g
+     id="tank-structure"
+     stroke="#1a1a1a"
+     stroke-width="1.5"
+     fill="none"
+     transform="translate(-49.25,-85.701201)">
+    <!-- Lewa ściana -->
+    <line
+       x1="50"
+       y1="100"
+       x2="50"
+       y2="620"
+       id="line66" />
+    <!-- Dno komory powietrznej -->
+    <line
+       x1="50"
+       y1="620"
+       x2="680"
+       y2="620"
+       id="line68" />
+    <!-- Prawa ściana do kanału dolotowego -->
+    <line
+       x1="500"
+       y1="100"
+       x2="500"
+       y2="582"
+       id="line70" />
+    <!-- Górna krawędź kanału sprężonego powietrza -->
+    <line
+       x1="500"
+       y1="582"
+       x2="680"
+       y2="582"
+       id="line72" />
+  </g>
+  <!-- Membrana porowata -->
+  <rect
+     x="0.75"
+     y="434.2988"
+     width="450"
+     height="20"
+     fill="url(#pores)"
+     stroke="#1a1a1a"
+     stroke-width="1.5"
+     id="rect75"
+     style="fill:url(#pattern1022)" />
+  <!-- ========================================== -->
+  <!-- STRZAŁKI PRZEPŁYWU POWIETRZA (WIELOKĄTY) -->
+  <!-- ========================================== -->
+  <g
+     id="air-arrows"
+     transform="translate(-49.25,-85.701201)">
+    <!-- Strzałka wlotowa pozioma -->
+    <polygon
+       points="612,611 612,605 675,605 675,597 612,597 612,591 582,601 "
+       fill="#ffffff"
+       stroke="#1a1a1a"
+       stroke-width="1.5"
+       stroke-linejoin="miter"
+       id="polygon77"
+       transform="translate(-116)" />
+    <!-- Cztery strzałki ukośne pod membraną -->
+    <polygon
+       points="118.6,564.8 142.4,593.1 137,597.6 113.2,569.3 108.6,573.1 105,554 123.2,560.9 "
+       fill="#ffffff"
+       stroke="#1a1a1a"
+       stroke-width="1.5"
+       stroke-linejoin="miter"
+       id="polygon79" />
+    <polygon
+       points="218.6,564.8 242.4,593.1 237,597.6 213.2,569.3 208.6,573.1 205,554 223.2,560.9 "
+       fill="#ffffff"
+       stroke="#1a1a1a"
+       stroke-width="1.5"
+       stroke-linejoin="miter"
+       id="polygon81" />
+    <polygon
+       points="318.6,564.8 342.4,593.1 337,597.6 313.2,569.3 308.6,573.1 305,554 323.2,560.9 "
+       fill="#ffffff"
+       stroke="#1a1a1a"
+       stroke-width="1.5"
+       stroke-linejoin="miter"
+       id="polygon83" />
+    <polygon
+       points="418.6,564.8 442.4,593.1 437,597.6 413.2,569.3 408.6,573.1 405,554 423.2,560.9 "
+       fill="#ffffff"
+       stroke="#1a1a1a"
+       stroke-width="1.5"
+       stroke-linejoin="miter"
+       id="polygon85" />
+  </g>
+  <!-- ========================================== -->
+  <!-- ETYKIETY TEKSTOWE -->
+  <!-- ========================================== -->
+  <g
+     font-family="'Times New Roman', serif"
+     font-size="24px"
+     fill="#444444"
+     id="g94"
+     transform="translate(-49.25,-85.701201)">
+    <text
+       x="530"
+       y="325"
+       id="text88">Złoże fluidalne</text>
+    <text
+       x="530"
+       y="535"
+       id="text90">Membrana porowata</text>
+    <text
+       x="572"
+       y="607"
+       id="text92">Sprężone powietrze</text>
+  </g>
+</svg>
