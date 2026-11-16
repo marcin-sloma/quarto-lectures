@@ -9,7 +9,6 @@ title-slide-attributes:
   data-background-repeat: no-repeat
 ---
 
-<!-- Slajd 2 -->
 ## [TECHNOLOGIA POWŁOK]{style="display:block; text-align:center;"}
 
 Powłoka to warstwa materiału <u>wytworzona lub nałożona</u> na powierzchnię elementu w sposób naturalny lub sztuczny. Powłoka jest wykonana <u>z innego materiału niż element</u>. Celem powłoki jest uzyskanie określonych właściwości ochronnych, technicznych lub dekoracyjnych.  
@@ -49,9 +48,13 @@ Powłoka to warstwa materiału <u>wytworzona lub nałożona</u> na powierzchnię
 
 Są to powłoki z tworzyw sztucznych, nanoszone w stanie ciekłym lub stałym, utwardzane chemicznie, przez odparowanie rozpuszczalników lub termicznie przez przetopienie cząstek.
 
-- farby,
-- lakiery,
-- (emalie).
+::: {.lista-zwarta}
+
+- farby
+- lakiery
+- (emalie)
+
+:::
 
 ::: {style="position:absolute; left:657px; top:586px; width:522px;"}
 ![](images/05/slajd_03_ilustracja_01.webp){.nostretch width="100%"}
@@ -82,7 +85,7 @@ Pneumat System, B&P Service, Vidaron, Autobilid.de, Anardi
 
 ### POWŁOKI MALARSKO-LAKIERNICZE
 
-SKŁAD
+### SKŁAD
 
 ::: {.lista-zwarta}
 - Substancje organiczne (spoiwa, substancje błonotwórcze)
@@ -107,13 +110,17 @@ SKŁAD
 
 ### Rozpuszczalniki i rozcieńczalniki
 
+::: {.lista-zwarta}
+
 - Produkty ciekłe o możliwie niskiej temperaturze wrzenia i małej wartości ciepła parowania.
 - Nie wchodzą one w skład powłok - regulują sposób nanoszenia powłoki i jej jakość.
 - Przykłady: aceton, alkohole (izopropylowy, etylowy), benzyna, cyklododekan, ...
 
+:::
+
 Coraz częściej rozpuszczalniki organiczne są eliminowane, na rzecz wody i alkoholi (farby emulsyjne lub wodorozcieńczalne) i farb bezrozpuszczalnikowych (farby proszkowe, fotoutwardzalne).
 
-![](images/05/schniecie/svg){.nostretch width="100%"}
+![](images/05/schniecie.svg){.nostretch height="400px" style="width:auto; display:block; margin:0 auto;"}
 
 <!-- Slajd 6 -->
 ## [POWŁOKI ORGANICZNE]{style="display:block; text-align:center;"}
@@ -158,6 +165,8 @@ Coraz częściej rozpuszczalniki organiczne są eliminowane, na rzecz wody i alk
 
 ### Produkcyjne sposoby nanoszenia powłok malarsko-lakierniczych
 
+::: {.lista-zwarta}
+
 - zanurzeniowe,
 - walcami (blachy, taśmy),
 - natryskowe (pneumatyczne, hydrodynamiczne),
@@ -165,23 +174,27 @@ Coraz częściej rozpuszczalniki organiczne są eliminowane, na rzecz wody i alk
 - pędzlami, wałkami,
 - elektroforetyczne.
 
+&nbsp;
+
 - Po nałożeniu warstwy konieczne jest jej wysuszenie.
 - Lakiery piecowe wymagają wypalania (utleniania) w celu utwardzenia.
 - Temperatury suszenia/wypalania (20°C) 60÷160°C.
 
-::: {style="position:absolute; left:1325px; top:151px; width:490px;"}
-![](images/05/slajd_08_ilustracja_01.webp){.nostretch width="100%"}
 :::
 
 ::: {style="position:absolute; left:1016px; top:291px; width:356px;"}
 ![](images/05/slajd_08_ilustracja_02.webp){.nostretch width="100%"}
 :::
 
+::: {style="position:absolute; left:1420px; top:151px; width:490px;"}
+![](images/05/slajd_08_ilustracja_01.webp){.nostretch width="100%"}
+:::
+
 ::: {style="position:absolute; left:1459px; top:512px; width:381px;"}
 ![](images/05/slajd_08_ilustracja_03.webp){.nostretch width="100%"}
 :::
 
-::: {style="position:absolute; left:1188px; top:755px; width:339px;"}
+::: {style="position:absolute; left:1250px; top:755px; width:339px;"}
 ![](images/05/slajd_08_ilustracja_04.webp){.nostretch width="100%"}
 :::
 
@@ -196,10 +209,16 @@ BASF, Esiproof, Nordson, Alcor
 
 ### Metody natryskowe
 
+::: {.lista-zwarta}
+
 - pneumatyczna
 - hydrodynamiczna
 
+:::
+
+::: {style="position:absolute; left:270px; top:360px; width:573px;"}
 ![](images/05/air-vs-hydraulic.webp){.nostretch width="100%"}
+:::
 
 ::: {style="position:absolute; left:1225px; top:87px; width:573px;"}
 ![](images/05/pistolet.webp){.nostretch width="100%"}
@@ -267,7 +286,7 @@ Fluidyzacja jest procesem, w którym farba w proszku nabiera cech materiałów p
 ![](images/05/slajd_13_ilustracja_02.webp){.nostretch width="100%"}
 :::
 
-::: {style="position:absolute; bottom:30px; left:0; width:100%; text-align:center;"}
+::: {style="position:absolute; bottom:50px; left:0; width:100%; text-align:center;"}
 <span class="fragment"><em>Przykład aerozolu proszkowego?</em></span>
 :::
 
@@ -299,12 +318,9 @@ BOSTEK - KIGO Scandinavia, Baltic & Poland https://www.youtube.com/watch?v=2C1z0
 
 Powlekanie elektrostatyczne jest podobne do natrysku pneumatycznego, z tą różnicą że materiał powłoki występuje w postaci proszku (a nie ciekłej). Ziarna proszku uzyskują ładunek elektryczny w dyszy pistoletu, a następnie jest przyspieszany pneumatycznie i osiadają na uziemionych elementach.
 
-::: {style="position:absolute; left:136px; top:443px; width:708px;"}
-![](images/05/slajd_15_ilustracja_01.webp){.nostretch width="100%"}
-:::
-
-::: {style="position:absolute; left:859px; top:443px; width:940px;"}
-![](images/05/slajd_15_ilustracja_02.webp){.nostretch width="100%"}
+::: {style="display:flex; align-items:center; justify-content:center; gap:12px; width:max-content; --img-height:560px;"}
+![](images/05/proszkowe.svg){.nostretch style="height:var(--img-height); width:auto; margin:0;"}
+![](images/05/slajd_15_ilustracja_02.webp){.nostretch style="height:var(--img-height); width:auto; margin:0;"}
 :::
 
 ::: {.footer}
@@ -345,54 +361,23 @@ NAKŁADANIE WARSTWY ⇒ SUSZENIE ⇒ WYPALANIE (przetopienie, spiekanie) 500÷10
 
 ### EMALIE SZKLISTE
 
-::: {style="display:flex; gap:10px; align-items:flex-start; width:1900px; margin-inline:auto;"}
+::: {style="display:flex; flex-direction:column; align-items:center; gap:0px; margin:-30px auto 0;"}
 
-::: {style="flex:1; min-width:0;"}
+::: {style="display:flex; align-items:center; justify-content:center; gap:12px; width:max-content; --img-height:450px;"}
+![](images/05/slajd_18_ilustracja_01.webp){.nostretch style="height:var(--img-height); width:auto; margin:0;"}
+![](images/05/slajd_18_ilustracja_02.webp){.nostretch style="height:var(--img-height); width:auto; margin:0;"}
+![](images/05/slajd_18_ilustracja_03.webp){.nostretch style="height:var(--img-height); width:auto; margin:0;"}
+![](images/05/slajd_18_ilustracja_04.webp){.nostretch style="height:var(--img-height); width:auto; margin:0;"}
+:::
 
-{{< ytvideo 3wpiKVYpE_8 11 71 >}}
-
-::: {style="width:700px; "}
-{{< ytvideo ymXid7CUvjk 1 >}} 
+::: {style="display:flex; align-items:center; justify-content:center; gap:12px; width:max-content; --img-height:350px;"}
+![](images/05/slajd_18_ilustracja_05.webp){.nostretch style="height:var(--img-height); width:auto; margin:0;"}
+![](images/05/slajd_18_ilustracja_06.webp){.nostretch style="height:var(--img-height); width:auto; margin:0;"}
+![](images/05/slajd_18_ilustracja_07.webp){.nostretch style="height:var(--img-height); width:auto; margin:0;"}
 :::
 
 :::
 
-::: {style="flex:1; min-width:0;"}
-
-{{< ytvideo 7ukqrMgCoT0 >}}
-
-![](images/04/platerowanie_wybuchowe.webp){.nostretch width="100%" style="display:block; margin:0 0 0 -100px;"}
-:::
-
-:::
-
-::: {style="position:absolute; left:203px; top:216px; width:417px;"}
-![](images/05/slajd_18_ilustracja_01.webp){.nostretch width="100%"}
-:::
-
-::: {style="position:absolute; left:637px; top:216px; width:493px;"}
-![](images/05/slajd_18_ilustracja_02.webp){.nostretch width="100%"}
-:::
-
-::: {style="position:absolute; left:1130px; top:216px; width:323px;"}
-![](images/05/slajd_18_ilustracja_03.webp){.nostretch width="100%"}
-:::
-
-::: {style="position:absolute; left:1463px; top:216px; width:317px;"}
-![](images/05/slajd_18_ilustracja_04.webp){.nostretch width="100%"}
-:::
-
-::: {style="position:absolute; left:317px; top:600px; width:407px;"}
-![](images/05/slajd_18_ilustracja_05.webp){.nostretch width="100%"}
-:::
-
-::: {style="position:absolute; left:740px; top:601px; width:460px;"}
-![](images/05/slajd_18_ilustracja_06.webp){.nostretch width="100%"}
-:::
-
-::: {style="position:absolute; left:1214px; top:600px; width:489px;"}
-![](images/05/slajd_18_ilustracja_07.webp){.nostretch width="100%"}
-:::
 
 ::: {.footer}
 Elektroonline, KristoArts, Emalia Olkusz, Bolesławiec, Heraeus, Farnell
@@ -407,17 +392,18 @@ Elektroonline, KristoArts, Emalia Olkusz, Bolesławiec, Heraeus, Farnell
 ![](images/05/slajd_19_ilustracja_01.webp){.nostretch width="100%"}
 :::
 
-::: {style="position:absolute; left:447px; top:215px; width:404px;"}
+::: {.fragment style="position:absolute; left:447px; top:215px; width:404px;"}
 ![](images/05/slajd_19_ilustracja_02.webp){.nostretch width="100%"}
 :::
 
-::: {style="position:absolute; left:924px; top:214px; width:404px;"}
+::: {.fragment style="position:absolute; left:924px; top:214px; width:404px;"}
 ![](images/05/slajd_19_ilustracja_03.webp){.nostretch width="100%"}
 :::
 
-::: {style="position:absolute; left:1454px; top:616px; width:381px;"}
+::: {.fragment style="position:absolute; left:1454px; top:616px; width:381px;"}
 ![](images/05/slajd_19_ilustracja_04.webp){.nostretch width="100%"}
 :::
+
 
 <!-- Slajd 20 -->
 ## [POWŁOKI NIEORGANICZNE]{style="display:block; text-align:center;"}
@@ -426,7 +412,7 @@ Elektroonline, KristoArts, Emalia Olkusz, Bolesławiec, Heraeus, Farnell
 
 ### Technologia grubowarstwowa
 
-Stosując technikę selektywnego druku sitowego (sitodruku), z wykorzystaniem past zawierających szkliwo i dodatki funkcjonalne (proszki metaliczne, tlenki rezystywne, dielektryczne itp.), możliwe jest wytwarzanie obwodów i elementów elektronicznych, na podłożach ceramicznych (Al2O3) i szklanych, spiekanych w temperaturach ok 850°C (ok 500°C na szkle).
+Stosując technikę selektywnego druku sitowego (sitodruku), z wykorzystaniem past zawierających szkliwo i dodatki funkcjonalne (proszki metaliczne, tlenki rezystywne, dielektryczne itp.), możliwe jest wytwarzanie obwodów i elementów elektronicznych, na podłożach ceramicznych (Al~2~O~3~) i szklanych, spiekanych w temperaturach ok 850°C (ok 500°C na szkle).
 
 - srebrowe, złote
 - platynowe, palladowe
@@ -444,10 +430,9 @@ Aurel
 <!-- Slajd 21 -->
 ## [QUIZ]{style="display:block; text-align:center;"}
 
-### W jaki sposób i z jakich materiałów wytwarzamy powłoki malarskie i lakiernicze?
-
 ::: {.incremental}
 
+- W jaki sposób i z jakich materiałów wytwarzamy powłoki malarskie i lakiernicze?
 - W jaki sposób wytwarzamy odporne chemicznie warstwy szkliwa?
 - Czy możliwe jest wytwarzanie elementów i układów elektronicznych z zastosowaniem technik malarskich?
 

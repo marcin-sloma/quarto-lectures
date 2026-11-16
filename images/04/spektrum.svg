@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 917.5 347.96899"
+   width="917.5"
+   height="347.96899"
+   version="1.1"
+   id="svg151"
+   sodipodi:docname="spektrum.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview153"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.89095454"
+     inkscape:cx="538.18683"
+     inkscape:cy="230.0903"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg151" />
+  <defs
+     id="defs5">
+    <marker
+       style="overflow:visible"
+       id="marker7534"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path7532" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path7267" />
+    </marker>
+    <!-- Strzałka -->
+    <marker
+       id="arrow"
+       viewBox="0 0 10 10"
+       refX="5"
+       refY="0"
+       markerWidth="6"
+       markerHeight="6"
+       orient="auto">
+      <path
+         d="M 0,10 5,0 10,10 Z"
+         fill="#000000"
+         id="path2" />
+    </marker>
+  </defs>
+  <!-- =============================== -->
+  <!-- LEGENDA (Lewa strona) -->
+  <!-- =============================== -->
+  <g
+     font-family="Arial, sans-serif"
+     font-size="16px"
+     font-weight="bold"
+     fill="#000000"
+     id="g25"
+     transform="translate(-33.25,-63.031021)">
+    <!-- Bez powłoki (Uncoated) -->
+    <circle
+       cx="50"
+       cy="120"
+       r="16"
+       fill="#fde047"
+       stroke="#eab308"
+       stroke-width="1.5"
+       id="circle7" />
+    <text
+       x="80"
+       y="125"
+       id="text9">Bez powłoki</text>
+    <!-- Powłoka jednowarstwowa (Single Coating) -->
+    <circle
+       cx="50"
+       cy="200"
+       r="16"
+       fill="#86efac"
+       stroke="#22c55e"
+       stroke-width="1.5"
+       id="circle11" />
+    <text
+       x="80"
+       y="205"
+       id="text13">Powłoka jednowarstwowa</text>
+    <!-- Powłoka wielowarstwowa (Multi-coating) -->
+    <circle
+       cx="50"
+       cy="280"
+       r="16"
+       fill="#93c5fd"
+       stroke="#3b82f6"
+       stroke-width="1.5"
+       id="circle15" />
+    <text
+       x="80"
+       y="285"
+       id="text17">Powłoka wielowarstwowa</text>
+    <!-- T3 Powłoka wielowarstw. z fluorytem -->
+    <circle
+       cx="50"
+       cy="360"
+       r="16"
+       fill="#ef4444"
+       stroke="#b91c1c"
+       stroke-width="1.5"
+       id="circle19" />
+    <text
+       x="80"
+       y="355"
+       id="text21">T3 Powłoka wielowarstwowa</text>
+    <text
+       x="80"
+       y="375"
+       id="text23">z fluorytem</text>
+  </g>
+  <!-- =============================== -->
+  <!-- TYTUŁ I OŚ Y (Procent przepuszczalności) -->
+  <!-- =============================== -->
+  <text
+     x="281.03571"
+     y="16.016602"
+     font-family="Arial, sans-serif"
+     font-size="22px"
+     font-weight="bold"
+     fill="#000000"
+     id="text27">% TRANSMITANCJA OPTYCZNA</text>
+  <g
+     font-family="Arial, sans-serif"
+     font-size="16px"
+     font-weight="bold"
+     fill="#000000"
+     text-anchor="end"
+     id="g49"
+     transform="translate(-33.25,-63.031021)">
+    <text
+       x="330"
+       y="105"
+       id="text29">55</text>
+    <text
+       x="330"
+       y="130"
+       id="text31">60</text>
+    <text
+       x="330"
+       y="155"
+       id="text33">65</text>
+    <text
+       x="330"
+       y="180"
+       id="text35">70</text>
+    <text
+       x="330"
+       y="205"
+       id="text37">75</text>
+    <text
+       x="330"
+       y="230"
+       id="text39">80</text>
+    <text
+       x="330"
+       y="255"
+       id="text41">85</text>
+    <text
+       x="330"
+       y="280"
+       id="text43">90</text>
+    <text
+       x="330"
+       y="305"
+       id="text45">95</text>
+    <text
+       x="330"
+       y="330"
+       id="text47">100</text>
+  </g>
+  <!-- =============================== -->
+  <!-- SIATKA WYKRESU (GRID) -->
+  <!-- =============================== -->
+  <!-- Skala na osi Y jest odwrócona (najmniej u góry, najwięcej na dole) 
+       Siatka od y=100 do y=325, co 25px -->
+  <g
+     stroke="#4b5563"
+     stroke-width="1.5"
+     id="g121"
+     transform="translate(-33.25,-63.031021)">
+    <!-- Linie poziome -->
+    <line
+       x1="350"
+       y1="100"
+       x2="950"
+       y2="100"
+       id="line51" />
+    <line
+       x1="350"
+       y1="125"
+       x2="950"
+       y2="125"
+       id="line53" />
+    <line
+       x1="350"
+       y1="150"
+       x2="950"
+       y2="150"
+       id="line55" />
+    <line
+       x1="350"
+       y1="175"
+       x2="950"
+       y2="175"
+       id="line57" />
+    <line
+       x1="350"
+       y1="200"
+       x2="950"
+       y2="200"
+       id="line59" />
+    <line
+       x1="350"
+       y1="225"
+       x2="950"
+       y2="225"
+       id="line61" />
+    <line
+       x1="350"
+       y1="250"
+       x2="950"
+       y2="250"
+       id="line63" />
+    <line
+       x1="350"
+       y1="275"
+       x2="950"
+       y2="275"
+       id="line65" />
+    <line
+       x1="350"
+       y1="300"
+       x2="950"
+       y2="300"
+       id="line67" />
+    <line
+       x1="350"
+       y1="325"
+       x2="950"
+       y2="325"
+       id="line69" />
+    <!-- Linie pionowe -->
+    <!-- Mamy 24 kratki w poziomie, 950-350 = 600px. Szerokość kratki to 25px -->
+    <line
+       x1="350"
+       y1="100"
+       x2="350"
+       y2="325"
+       id="line71" />
+    <line
+       x1="375"
+       y1="100"
+       x2="375"
+       y2="325"
+       id="line73" />
+    <line
+       x1="400"
+       y1="100"
+       x2="400"
+       y2="325"
+       id="line75" />
+    <line
+       x1="425"
+       y1="100"
+       x2="425"
+       y2="325"
+       id="line77" />
+    <line
+       x1="450"
+       y1="100"
+       x2="450"
+       y2="325"
+       id="line79" />
+    <line
+       x1="475"
+       y1="100"
+       x2="475"
+       y2="325"
+       id="line81" />
+    <line
+       x1="500"
+       y1="100"
+       x2="500"
+       y2="325"
+       id="line83" />
+    <line
+       x1="525"
+       y1="100"
+       x2="525"
+       y2="325"
+       id="line85" />
+    <line
+       x1="550"
+       y1="100"
+       x2="550"
+       y2="325"
+       id="line87" />
+    <line
+       x1="575"
+       y1="100"
+       x2="575"
+       y2="325"
+       id="line89" />
+    <line
+       x1="600"
+       y1="100"
+       x2="600"
+       y2="325"
+       id="line91" />
+    <line
+       x1="625"
+       y1="100"
+       x2="625"
+       y2="325"
+       id="line93" />
+    <line
+       x1="650"
+       y1="100"
+       x2="650"
+       y2="325"
+       id="line95" />
+    <line
+       x1="675"
+       y1="100"
+       x2="675"
+       y2="325"
+       id="line97" />
+    <line
+       x1="700"
+       y1="100"
+       x2="700"
+       y2="325"
+       id="line99" />
+    <line
+       x1="725"
+       y1="100"
+       x2="725"
+       y2="325"
+       id="line101" />
+    <line
+       x1="750"
+       y1="100"
+       x2="750"
+       y2="325"
+       id="line103" />
+    <line
+       x1="775"
+       y1="100"
+       x2="775"
+       y2="325"
+       id="line105" />
+    <line
+       x1="800"
+       y1="100"
+       x2="800"
+       y2="325"
+       id="line107" />
+    <line
+       x1="825"
+       y1="100"
+       x2="825"
+       y2="325"
+       id="line109" />
+    <line
+       x1="850"
+       y1="100"
+       x2="850"
+       y2="325"
+       id="line111" />
+    <line
+       x1="875"
+       y1="100"
+       x2="875"
+       y2="325"
+       id="line113" />
+    <line
+       x1="900"
+       y1="100"
+       x2="900"
+       y2="325"
+       id="line115" />
+    <line
+       x1="925"
+       y1="100"
+       x2="925"
+       y2="325"
+       id="line117" />
+    <line
+       x1="950"
+       y1="100"
+       x2="950"
+       y2="325"
+       id="line119" />
+  </g>
+  <!-- =============================== -->
+  <!-- KRZYWE PRZEPUSZCZALNOŚCI -->
+  <!-- =============================== -->
+  <!-- 
+    Y = 100 to 55%
+    Y = 325 to 100% 
+    Różnica Y=225px to 45% (skala 5px = 1%) 
+  -->
+  <!-- Bez powłoki (Żółta prosta linia, ok 58%) -->
+  <line
+     x1="316.75"
+     y1="51.968979"
+     x2="892.56506"
+     y2="51.968979"
+     stroke="#fde047"
+     stroke-width="5.116"
+     id="line123" />
+  <!-- Powłoka jednowarstwowa (Zielona krzywa) -->
+  <path
+     d="m 316.75,51.968979 c 30,65.000001 80,150.000001 170,155.000001 130,5 280,-5 405,-35"
+     fill="none"
+     stroke="#4ade80"
+     stroke-width="5"
+     stroke-linecap="round"
+     id="path125" />
+  <!-- Powłoka wielowarstwowa (Niebieska krzywa) -->
+  <path
+     d="m 316.75,111.96898 c 50,75 100,110 170,120 130,10 260,-10 405,-35"
+     fill="none"
+     stroke="#60a5fa"
+     stroke-width="5"
+     stroke-linecap="round"
+     id="path127" />
+  <!-- T3 Powłoka wielowarstw. z fluorytem (Czerwona krzywa falująca blisko 100%) -->
+  <path
+     d="m 316.75,221.96898 c 20,35 50,40 100,25 20,-10 40,15 100,10 100,-5 200,5 375,-35"
+     fill="none"
+     stroke="#ef4444"
+     stroke-width="5"
+     stroke-linecap="round"
+     id="path129" />
+  <!-- =============================== -->
+  <!-- OŚ X (WIDMO ŚWIATŁA WIDZIALNEGO) -->
+  <!-- =============================== -->
+  <!-- Etykiety 400, 500, 600, 700 nm -->
+  <!-- Dopasowanie X: 400nm to lewa granica, 700nm to prawa -->
+  <g
+     font-family="Arial, sans-serif"
+     font-size="16px"
+     font-weight="bold"
+     fill="#000000"
+     id="g141"
+     transform="translate(-33.25,-63.031021)">
+    <text
+       x="390"
+       y="355"
+       id="text131">400</text>
+    <text
+       x="560"
+       y="355"
+       id="text133">500</text>
+    <text
+       x="730"
+       y="355"
+       id="text135">600</text>
+    <text
+       x="880"
+       y="355"
+       id="text137">700 nm</text>
+  </g>
+  <!-- Strzałki zakresu widma -->
+  <line
+     x1="346.75"
+     y1="346.96899"
+     x2="346.75"
+     y2="281.96899"
+     stroke="#000000"
+     stroke-width="4"
+     marker-end="url(#arrow)"
+     id="line143"
+     style="stroke-width:2;stroke-miterlimit:3.3;stroke-dasharray:none;marker-end:url(#Arrow1Lend)" />
+  <line
+     x1="836.75"
+     y1="346.96899"
+     x2="836.75"
+     y2="281.96899"
+     stroke="#000000"
+     stroke-width="4"
+     marker-end="url(#arrow)"
+     id="line145"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker7534)" />
+  <line
+     x1="346.75"
+     y1="346.96899"
+     x2="836.75"
+     y2="346.96899"
+     stroke="#000000"
+     stroke-width="3"
+     id="line147"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+  <!-- Tytuł pod osią X -->
+  <text
+     x="591.75"
+     y="331.96899"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     font-weight="bold"
+     fill="#000000"
+     text-anchor="middle"
+     id="text149">WIDMO ŚWIATŁA WIDZIALNEGO</text>
+</svg>

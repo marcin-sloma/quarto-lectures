@@ -346,8 +346,8 @@ Atomy lub cząsteczki powłoki są dostarczane na powierzchnię w postaci par lu
 
 <u>Chemiczne osadzanie z fazy gazowej CVD (Chemical Vapor Deposition)</u>
 
-::: {style="position:absolute; left:238px; top:299px; width:1486px;"}
-![](images/04/cvd_schemat.webp){.nostretch width="100%"}
+::: {style="position:absolute; left:238px; top:220px; width:1486px;"}
+![](images/04/cvd.svg){.nostretch width="100%"}
 :::
 
 <!-- Slajd 17 -->
@@ -480,38 +480,17 @@ Kintech
 - warstwy ścierne narzędzi (TiN, TiCN),  
 :::
 
-:::: {style="display:flex; flex-direction:column; gap:0; width:1800px; margin:-30px auto 0;"}
+:::: {style="display:flex; flex-direction:column; align-items:center; gap:0px; margin:-30px auto 0;"}
 
-::: {style="display:flex; gap:0; align-items:stretch;"}
-
-::: {style="--img-height:350px; flex:1; min-width:0; display:flex; gap:0;"}
-
-::: {style="flex:1; min-width:0; display:flex; align-items:center;"}
+::: {style="display:flex; align-items:center; gap:12px; --img-height:330px;"}
 ![](images/04/slajd_21_ilustracja_01.webp){.nostretch style="height:var(--img-height); width:auto; margin:0;"}
-:::
-
-::: {style="flex:1; min-width:0; display:flex; align-items:center;"}
 ![](images/04/slajd_21_ilustracja_03.webp){.nostretch style="height:var(--img-height); width:auto; margin:0;"}
+![](images/04/spektrum.svg){.nostretch style="height:var(--img-height); width:auto; margin:0;"}
 :::
 
-:::
-
-::: {style="flex:1; min-width:0;"}
-![](images/04/slajd_21_ilustracja_05.webp){.nostretch width="80%" style="display:block; margin:0 0 0 200px;"}
-:::
-
-:::
-
-::: {style="display:flex; gap:0; align-items:stretch;"}
-
-::: {style="flex:1; min-width:0;"}
-![](images/04/slajd_21_ilustracja_02.webp){.nostretch width="95%" style="display:block; margin:0;"}
-:::
-
-::: {style="flex:1; min-width:0;"}
-![](images/04/slajd_21_ilustracja_04.webp){.nostretch width="98%" style="display:block; margin:0 0 0 50px;"}
-:::
-
+::: {style="display:flex; align-items:center; gap:12px; --img-height:250px;"}
+![](images/04/slajd_21_ilustracja_02.webp){.nostretch style="height:var(--img-height); width:auto; margin:0;"}
+![](images/04/slajd_21_ilustracja_04.webp){.nostretch style="height:var(--img-height); width:auto; margin:0;"}
 :::
 
 ::::

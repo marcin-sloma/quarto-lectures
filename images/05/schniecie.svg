@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   viewBox="0 0 715.8916 399.4043"
-   width="715.8916"
-   height="399.4043"
+   viewBox="0 0 700 375.4043"
+   width="700"
+   height="375.4043"
    version="1.1"
    id="svg327"
-   sodipodi:docname="gemini-svg-poprawiony.svg"
+   sodipodi:docname="schniecie.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -22,7 +22,7 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="1.3125"
-     inkscape:cx="356.19048"
+     inkscape:cx="349.33333"
      inkscape:cy="209.52381"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
@@ -35,11 +35,11 @@
     <!-- Gładki gradient metalicznego podłoża -->
     <linearGradient
        id="substrateGradient"
-       x1="21.54729"
-       y1="580.11935"
-       x2="21.54729"
-       y2="881.78141"
-       gradientTransform="matrix(2.3204774,0,0,0.4309458,-43.100586,-30.195312)"
+       x1="21.547291"
+       y1="580.11932"
+       x2="21.547291"
+       y2="881.78143"
+       gradientTransform="matrix(2.3204774,0,0,0.4309458,-50,-30.195313)"
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0%"
@@ -66,7 +66,7 @@
     <clipPath
        id="filmClip">
       <polygon
-         points="200,160 600,220 750,220 750,250 50,250 50,150 "
+         points="600,220 750,220 750,250 50,250 50,150 200,160 "
          id="polygon13" />
     </clipPath>
     <!-- Groty strzałek -->
@@ -116,7 +116,7 @@
   <!-- Tło -->
   <!-- Podłoże -->
   <rect
-     x="6.8994141"
+     x="6.25e-08"
      y="219.80469"
      width="700"
      height="130"
@@ -125,17 +125,17 @@
      style="fill:url(#substrateGradient)" />
   <!-- Warstwa powłoki -->
   <polygon
-     points="600,220 750,220 750,250 50,250 50,150 200,160 "
+     points="750,250 50,250 50,150 200,160 600,220 750,220 "
      fill="#f8dfbd"
      id="polygon29"
-     transform="translate(-43.100586,-30.195312)" />
+     transform="translate(-50,-30.195313)" />
   <!-- Strzałki parowania rozpuszczalnika -->
   <g
      stroke="#000000"
      stroke-width="1.5"
      marker-end="url(#arrowhead)"
      id="g41"
-     transform="translate(-43.100586,-30.195312)">
+     transform="translate(-50,-30.195313)">
     <line
        x1="200"
        y1="145"
@@ -169,7 +169,7 @@
   </g>
   <!-- Opis górny -->
   <text
-     x="316.89941"
+     x="310"
      y="14.804688"
      font-family="'Segoe UI', Arial, sans-serif"
      font-size="20px"
@@ -183,12 +183,12 @@
      xlink:href="#m2"
      x="610"
      y="106"
-     transform="rotate(-15,473.77162,254.59307)"
+     transform="rotate(-15,459.32191,364.34945)"
      id="use45"
      width="100%"
      height="100%" />
   <text
-     x="586.89941"
+     x="558"
      y="81.804688"
      font-family="'Segoe UI', Arial, sans-serif"
      font-size="16px"
@@ -197,8 +197,8 @@
      id="text47">Cząsteczka spoiwa</text>
   <!-- Opisy dolne i strzałka procesu -->
   <text
-     x="66.899414"
-     y="394.80469"
+     x="72"
+     y="370.80469"
      font-family="'Segoe UI', Arial, sans-serif"
      font-size="20px"
      font-weight="bold"
@@ -206,8 +206,8 @@
      fill="#000000"
      id="text49">Mokra powłoka</text>
   <text
-     x="646.89941"
-     y="394.80469"
+     x="632"
+     y="370.80469"
      font-family="'Segoe UI', Arial, sans-serif"
      font-size="20px"
      font-weight="bold"
@@ -215,19 +215,19 @@
      fill="#000000"
      id="text51">Sucha powłoka</text>
   <line
-     x1="146.89941"
-     y1="387.80469"
-     x2="556.89941"
-     y2="387.80469"
+     x1="154"
+     y1="363.80469"
+     x2="549.60803"
+     y2="363.80469"
      stroke="#000000"
-     stroke-width="2"
+     stroke-width="1.96458"
      marker-end="url(#arrowhead)"
      id="line53" />
   <!-- Równomiernie rozmieszczone cząsteczki spoiwa z zagęszczeniem ku prawej stronie -->
   <g
      clip-path="url(#filmClip)"
      id="g325"
-     transform="translate(-43.100586,-30.195312)">
+     transform="translate(-50,-30.195313)">
     <use
        href="#m2"
        xlink:href="#m2"
