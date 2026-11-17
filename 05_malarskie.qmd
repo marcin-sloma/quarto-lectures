@@ -389,7 +389,7 @@ Elektroonline, KristoArts, Emalia Olkusz, Bolesławiec, Heraeus, Farnell
 ### EMALIE SZKLISTE
 
 ::: {style="position:absolute; left:21px; top:326px; width:1884px;"}
-![](images/05/slajd_19_ilustracja_01.webp){.nostretch width="100%"}
+![](images/05/mozaika.webp){.nostretch width="100%"}
 :::
 
 ::: {.fragment style="position:absolute; left:447px; top:215px; width:404px;"}
